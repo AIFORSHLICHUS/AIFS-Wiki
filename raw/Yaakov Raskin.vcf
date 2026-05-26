@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Raskin;Yaakov;;;
+FN:Yaakov Raskin
+ORG:Yaakov Raskin
+TITLE:
+TEL;type=Mobile;waid=17707657892:+1 (770) 765-7892
+EMAIL;TYPE=Work:yaakovraskin@gmail.com
+item1.ADR;type=Work:;;574 Albany Avenue;Brooklyn;NEW YORK;11203;US
+item1.X-ABADR:
+END:VCARD
