@@ -45,3 +45,61 @@ Known open work:
   should get a `themes/llm-wiki-pattern.md` page.
 
 Filed under **lint backlog**.
+
+## [2026-05-26] ingest | Second pass — secondary tools, people, themes
+
+User feedback: first pass was too thin. Expanded with ~35 more pages.
+
+**Added tools** (15): manus, sora (with external-context note), suno,
+gamma, qwen, coding-builders, meeting-tools, wispr-flow, video-tools,
+sefaria, sinai-gpt, chattorah, chabad-apps (roster), crm-tools,
+turboscribe-whisper, google-ai-studio, nanoclaw.
+
+**Added people** (13): didy-waks, mordechai-lightstone, mendel-super,
+mendy-mann, yossi-yaffe, elazar-green, rabbi-chaim-lazaroff,
+avi-winner, mendel-teldon, moshe-koppel, shmuli-neft, mendel-groner,
+rabbi-eli-pink.
+
+**Added topics** (6): video-creation, image-generation,
+web-app-building, whatsapp-automation, route-optimization,
+data-cleanup.
+
+**Added themes** (4): ai-and-shabbos, llm-wiki-pattern, privacy-data,
+moshiach-and-ai.
+
+**Added conversations** (1): sora-demographic-workaround.
+
+## [2026-05-26] schema | Added `[external …]` citation pattern
+
+User raised the staleness problem: the chat is months stale on
+fast-moving tool reality (e.g., Sora has been discontinued — not
+explicit in the chat). Updated `CLAUDE.md` with a second citation
+kind: `[external …]` for sparing real-world annotations that *layer
+on top of* chat citations rather than replacing them. Rules:
+
+- Only when reader acting on chat alone would be misled.
+- Cite the external source explicitly (vendor announcement, user
+  note, URL).
+- Never paraphrase generic web content without attribution.
+- Flag uncertainty and add to this lint backlog.
+
+Applied immediately to [[tools/sora]] (discontinuation note).
+
+**Lint backlog** — pages that need an external pass for staleness:
+
+- [[tools/manus]] — verify Meta acquisition status and current pricing.
+- [[tools/gemini]] — "Gemini Spark" / "Gemini Omni" / 3.5 Flash were
+  chat-time announcements; confirm what shipped.
+- [[tools/perplexity]] — PayPal free-year route ended 2025-12-31;
+  verify current free paths.
+- [[tools/lovable]] — pricing / referral status.
+- [[tools/wispr-flow]] — Android rollout status.
+- [[tools/dicta-mekorotai]] — current public availability.
+- [[tools/chattorah]] — current public availability.
+- [[resources/nonprofit-discounts]] — every offer here has a half-life;
+  sweep quarterly.
+- [[themes/model-leapfrog]] — by definition perpetually behind; touch
+  on every ingest.
+
+Mark pages with `[external: …]` only when the correction *matters* —
+not just because reality moved. The chat's voice is the asset.

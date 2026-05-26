@@ -84,12 +84,51 @@ After frontmatter:
 
 ## Citation format
 
-Cite chat messages inline like this:
+The wiki has **two** citation kinds, and they look different on purpose.
+
+### `[chat …]` — what the group actually said
+
+The primary source. Cite chat messages inline like this:
 > "If you want a clean Chassidus shiur, NotebookLM is unbeatable."
 > — [chat 2025-09-14, Yisroel Chaim Shuchat]
 
 For longer quotes, blockquote with a single citation line below. When a
 claim is supported by multiple messages, list them comma-separated.
+
+### `[external …]` — sparing real-world annotations
+
+The chat is the source of truth, but the chat is also stale on
+fast-moving tool reality. When a chat claim has been **superseded by
+events** (product discontinued, model deprecated, company acquired,
+pricing changed) and a reader acting on the chat alone would be
+misled, add a short `[external …]` annotation.
+
+Rules:
+
+1. **Only when it matters.** Don't pad pages with web trivia. A model
+   getting a new minor version is noise; a product being discontinued
+   is signal.
+2. **Don't replace chat citations** — *layer* on top of them. The chat
+   said X at the time; reality is now Y; the page shows both.
+3. **Cite the source explicitly.** `[external: vendor announcement,
+   2026-04-12]`, `[external: user note]`, `[external: <reliable URL>]`.
+   Never paraphrase generic web content without attribution.
+4. **Flag uncertainty.** If you're not sure, say *"external context
+   uncertain — needs verification"* and add to the lint backlog in
+   `log.md`. Better stale-and-honest than confidently wrong.
+5. **Don't import unrelated reference material.** If a tool's Wikipedia
+   page has 5,000 words of trivia, the wiki doesn't need them. We
+   want the chat's voice plus the real-world correction, not a
+   secondhand encyclopedia.
+
+Example:
+
+> *"I've been using Sora the last five-six months to create educational
+> videos. Recently transitioned to Grok."*
+> — [chat 2026-05-07, +1 424-332-9882]
+>
+> [external: per user note, Sora was discontinued — context for any
+> shliach still using older threads.]
 
 ## Operations
 
