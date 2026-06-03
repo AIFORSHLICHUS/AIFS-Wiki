@@ -1,0 +1,55 @@
+site_name: AIFS-Wiki
+site_description: >-
+  An LLM Wiki built from the WhatsApp chat of "AI for Shlichus (Shluchim)" —
+  Chabad emissaries comparing AI tools, prompts, and use cases for shlichus.
+site_author: AI for Shlichus
+
+docs_dir: wiki
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search
+
+hooks:
+  - hooks/wikilinks.py
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# index.md is the home page; the rest is auto-discovered.
+# Edit this nav by hand later if you want a curated order.

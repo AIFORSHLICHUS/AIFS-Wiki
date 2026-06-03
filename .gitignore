@@ -1,3 +1,7 @@
 .obsidian/
 .DS_Store
 raw/_chunk_*.txt
+
+# MkDocs build output
+site/
+*.bundle
