@@ -1,5 +1,6 @@
 .obsidian/
 .DS_Store
+.claude/
 raw/_chunk_*.txt
 
 # MkDocs build output
