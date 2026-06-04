@@ -1,2 +1,2 @@
 # Dependencies for building the static site (GitHub Pages).
-mkdocs-material==9.7.6
+mkdocs-material[recommended]==9.7.6

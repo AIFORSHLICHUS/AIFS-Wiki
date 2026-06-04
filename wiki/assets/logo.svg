@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="8" fill="#1a56a0"/>
+  <!-- Open book -->
+  <path d="M24 14 C20 11 13 11 9 13 L9 35 C13 33 20 33 24 36 C28 33 35 33 39 35 L39 13 C35 11 28 11 24 14Z" fill="white" opacity="0.9"/>
+  <line x1="24" y1="14" x2="24" y2="36" stroke="#1a56a0" stroke-width="1.5"/>
+  <!-- Hebrew-style flourish on left page -->
+  <path d="M13 19 Q16 18 18 20" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <path d="M13 23 Q16 22 18 24" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <path d="M13 27 Q15 26 17 27" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <!-- Right page lines -->
+  <path d="M30 19 Q33 18 35 20" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <path d="M30 23 Q33 22 35 24" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <path d="M30 27 Q32 26 34 27" stroke="#1a56a0" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+</svg>

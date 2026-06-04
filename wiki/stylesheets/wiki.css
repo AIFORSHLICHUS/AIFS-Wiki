@@ -1,0 +1,214 @@
+/* ── Brand colours ───────────────────────────────────────────────── */
+:root {
+  --md-primary-fg-color:        #1a56a0;
+  --md-primary-fg-color--light: #2563c4;
+  --md-primary-fg-color--dark:  #0f3d7a;
+  --md-accent-fg-color:         #1a56a0;
+  --md-typeset-a-color:         #0645ad;  /* Wikipedia blue */
+}
+
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color:         #6da7e3;
+  --md-primary-fg-color:        #2563c4;
+}
+
+/* ── Typography: encyclopedic serif feel ─────────────────────────── */
+.md-typeset {
+  font-size: .85rem;
+  line-height: 1.75;
+  color: #202122;
+}
+
+[data-md-color-scheme="slate"] .md-typeset {
+  color: #eaecf0;
+}
+
+.md-typeset h1 {
+  font-size: 1.8em;
+  font-weight: 400;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: .25em;
+  margin-bottom: .5em;
+  color: #000;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #eaecf0;
+}
+
+.md-typeset h2 {
+  font-size: 1.3em;
+  font-weight: 600;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: .2em;
+}
+
+.md-typeset h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+/* Wikipedia-blue links */
+.md-typeset a {
+  color: var(--md-typeset-a-color);
+  text-decoration: none;
+}
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+.md-typeset a:visited {
+  color: #7952b3;
+}
+[data-md-color-scheme="slate"] .md-typeset a:visited {
+  color: #9c7dd9;
+}
+
+/* ── Blockquotes: source citations ───────────────────────────────── */
+.md-typeset blockquote {
+  border-left: 3px solid #a2a9b1;
+  background: #f8f9fa;
+  padding: .6em 1em;
+  color: #54595d;
+  font-style: italic;
+  margin: 1em 0;
+}
+
+[data-md-color-scheme="slate"] .md-typeset blockquote {
+  background: #2a2e35;
+  color: #a2a9b1;
+}
+
+/* Citation tags [chat …] and [external …] */
+.md-typeset em {
+  font-style: normal;
+}
+
+/* ── Home page card grid ─────────────────────────────────────────── */
+.wiki-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.wiki-card {
+  border: 1px solid #a2a9b1;
+  border-radius: 4px;
+  padding: 1rem 1.2rem;
+  background: #fff;
+  transition: box-shadow .15s ease, border-color .15s ease;
+}
+
+[data-md-color-scheme="slate"] .wiki-card {
+  background: #2a2e35;
+  border-color: #3d4451;
+}
+
+.wiki-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+  border-color: #1a56a0;
+}
+
+.wiki-card h3 {
+  margin: 0 0 .4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+}
+
+.wiki-card h3 a {
+  color: var(--md-typeset-a-color);
+}
+
+.wiki-card p {
+  margin: 0;
+  font-size: .82rem;
+  color: #54595d;
+  line-height: 1.5;
+}
+
+[data-md-color-scheme="slate"] .wiki-card p {
+  color: #a2a9b1;
+}
+
+/* ── Hero banner on home page ────────────────────────────────────── */
+.wiki-hero {
+  background: linear-gradient(135deg, #1a56a0 0%, #0f3d7a 100%);
+  color: #fff;
+  border-radius: 6px;
+  padding: 2rem 2.4rem;
+  margin-bottom: 2rem;
+}
+
+.wiki-hero h1 {
+  color: #fff !important;
+  border: none !important;
+  font-size: 2em;
+  margin: 0 0 .5rem;
+}
+
+.wiki-hero p {
+  color: rgba(255,255,255,.85);
+  margin: 0;
+  font-size: .95rem;
+  max-width: 560px;
+}
+
+/* ── Stats bar ───────────────────────────────────────────────────── */
+.wiki-stats {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  background: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  border-radius: 4px;
+  padding: .8rem 1.4rem;
+  margin: 1.5rem 0;
+  font-size: .82rem;
+  color: #54595d;
+}
+
+[data-md-color-scheme="slate"] .wiki-stats {
+  background: #2a2e35;
+  border-color: #3d4451;
+  color: #a2a9b1;
+}
+
+.wiki-stats strong {
+  color: #202122;
+}
+
+[data-md-color-scheme="slate"] .wiki-stats strong {
+  color: #eaecf0;
+}
+
+/* ── Nav sidebar tweaks ──────────────────────────────────────────── */
+.md-nav__title {
+  font-weight: 700;
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: #54595d;
+}
+
+/* ── Tables ──────────────────────────────────────────────────────── */
+.md-typeset table:not([class]) {
+  font-size: .82rem;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  background: #eaecf0;
+  color: #202122;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background: #3d4451;
+  color: #eaecf0;
+}
+
+/* ── YAML frontmatter (hidden from readers) ──────────────────────── */
+.md-typeset hr:first-of-type + table,
+.md-typeset pre code[class="language-yaml"]:first-child {
+  display: none;
+}

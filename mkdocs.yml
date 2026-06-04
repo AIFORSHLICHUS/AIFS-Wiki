@@ -1,55 +1,170 @@
 site_name: AIFS-Wiki
 site_description: >-
-  An LLM Wiki built from the WhatsApp chat of "AI for Shlichus (Shluchim)" —
-  Chabad emissaries comparing AI tools, prompts, and use cases for shlichus.
+  A knowledge base of AI tools, prompts, and workflows for Chabad shluchim —
+  built from the AI for Shlichus WhatsApp group.
 site_author: AI for Shlichus
 
 docs_dir: wiki
 site_dir: site
+site_url: https://aiforshlichus.github.io/AIFS-Wiki/
 
 theme:
   name: material
+  custom_dir: overrides
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  font:
+    text: Source Serif 4
+    code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
     - navigation.top
     - navigation.indexes
+    - navigation.footer
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
     - toc.follow
+    - toc.integrate
 
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+'
+      lang: en
 
 hooks:
   - hooks/wikilinks.py
+
+extra_css:
+  - stylesheets/wiki.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AIFORSHLICHUS/AIFS-Wiki
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
   - tables
+  - footnotes
   - toc:
       permalink: true
+      title: On this page
 
-# index.md is the home page; the rest is auto-discovered.
-# Edit this nav by hand later if you want a curated order.
+nav:
+  - Home: index.md
+  - About: about.md
+  - Themes:
+    - themes/index.md
+    - AI & Torah Accuracy: themes/ai-and-torah-accuracy.md
+    - AI Flyer Aesthetics: themes/ai-flyer-aesthetics.md
+    - AI & Shabbos: themes/ai-and-shabbos.md
+    - LLM Wiki Pattern: themes/llm-wiki-pattern.md
+    - Model Leapfrog: themes/model-leapfrog.md
+    - Moshiach & AI: themes/moshiach-and-ai.md
+    - Paid vs Free: themes/paid-vs-free.md
+    - Privacy & Data: themes/privacy-data.md
+    - Vibe Coding: themes/vibe-coding.md
+  - Topics:
+    - topics/index.md
+    - ChabadOne Integration: topics/chabadone-integration.md
+    - CRM Automation: topics/crm-automation.md
+    - Data Cleanup: topics/data-cleanup.md
+    - Flyer Design: topics/flyer-design.md
+    - Fundraising: topics/fundraising.md
+    - Hebrew & Yiddish: topics/hebrew-yiddish.md
+    - Image Generation: topics/image-generation.md
+    - Letter Writing: topics/letter-writing.md
+    - Route Optimization: topics/route-optimization.md
+    - Shiur Prep: topics/shiur-prep.md
+    - Transcription: topics/transcription.md
+    - Video Creation: topics/video-creation.md
+    - Web App Building: topics/web-app-building.md
+    - WhatsApp Automation: topics/whatsapp-automation.md
+  - Tools:
+    - tools/index.md
+    - General LLMs:
+      - ChatGPT: tools/chatgpt.md
+      - Claude: tools/claude.md
+      - Gemini: tools/gemini.md
+      - Google AI Studio: tools/google-ai-studio.md
+      - Grok: tools/grok.md
+      - Perplexity: tools/perplexity.md
+      - Qwen: tools/qwen.md
+    - Image & Video:
+      - Canva: tools/canva.md
+      - ElevenLabs: tools/elevenlabs.md
+      - Gamma: tools/gamma.md
+      - Meeting Tools: tools/meeting-tools.md
+      - Nano Banana: tools/nano-banana.md
+      - Sofer AI: tools/sofer-ai.md
+      - Sora: tools/sora.md
+      - Suno: tools/suno.md
+      - Turboscribe & Whisper: tools/turboscribe-whisper.md
+      - Video Tools: tools/video-tools.md
+      - Wispr Flow: tools/wispr-flow.md
+    - App Builders:
+      - Coding Builders: tools/coding-builders.md
+      - Lovable: tools/lovable.md
+    - Agents:
+      - Manus: tools/manus.md
+      - Nanoclaw: tools/nanoclaw.md
+    - CRM & Business:
+      - CRM Tools: tools/crm-tools.md
+    - Torah & Research:
+      - Dach.dev: tools/dach-dev.md
+      - Dicta Mekorotai: tools/dicta-mekorotai.md
+      - Maamorim App: tools/maamorim-app.md
+      - NotebookLM: tools/notebooklm.md
+      - Sefaria: tools/sefaria.md
+    - Chabad-Specific:
+      - Berel.me: tools/berel-me.md
+      - Chabad Apps: tools/chabad-apps.md
+      - ChatTorah: tools/chattorah.md
+      - LearningTanach.org: tools/learningtanach-org.md
+      - Megillah App: tools/megillah-app.md
+      - Shluchim Exchange AI: tools/shluchimexchange-ai.md
+      - Sinai GPT: tools/sinai-gpt.md
+  - Resources:
+    - resources/index.md
+    - Designer Prompt: resources/designer-prompt.md
+    - Master Prompts: resources/master-prompts.md
+    - Nonprofit Discounts: resources/nonprofit-discounts.md
+  - Conversations:
+    - conversations/index.md
+    - Kinus AI Day Nov 2025: conversations/kinus-ai-day-nov-2025.md
+    - Megillah App Sprint: conversations/megillah-app-sprint-feb-2026.md
+    - Sora Workaround: conversations/sora-demographic-workaround.md
+    - Torah Accuracy Debate: conversations/torah-accuracy-debate.md
+  - Log: log.md
