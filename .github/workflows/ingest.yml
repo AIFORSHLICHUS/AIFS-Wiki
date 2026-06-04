@@ -1,0 +1,58 @@
+name: Wiki auto-ingest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "raw/inbox/*.md"
+  workflow_dispatch:
+    inputs:
+      inbox_file:
+        description: "Inbox file to ingest (e.g. raw/inbox/2026-06-05.md)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install anthropic
+
+      - name: Identify inbox files
+        id: inbox
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "files=${{ inputs.inbox_file }}" >> "$GITHUB_OUTPUT"
+          else
+            FILES=$(git diff --name-only HEAD~1 HEAD -- 'raw/inbox/*.md' | tr '\n' ' ')
+            echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run wiki ingest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for f in ${{ steps.inbox.outputs.files }}; do
+            echo "=== Ingesting: $f ==="
+            python scripts/wiki_ingest.py "$f"
+          done
+
+      - name: Commit wiki updates
+        run: |
+          git config user.name "Claude"
+          git config user.email "noreply@anthropic.com"
+          git add wiki/
+          git diff --cached --quiet && echo "No wiki changes." || \
+            git commit -m "auto-ingest: ${{ steps.inbox.outputs.files }}"
+          git push
