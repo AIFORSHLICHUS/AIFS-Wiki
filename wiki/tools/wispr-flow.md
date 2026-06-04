@@ -19,16 +19,20 @@ formatted text in any app. Pre-saved *snippets* expand into longer
 templates.
 
 Free tier exists; paid for heavy use.
-Meir Sudak's referral: `wisprflow.ai/r?MEIR42`.
+Referral: `wisprflow.ai/r?MEIR42`.
 Android waitlist: `Https://wisprflow.ai/waitlist?MEIR42`
 [chat 2026-02-15]
+
+[external: Android availability was listed as "waitlist" as of
+[chat 2026-02-15]. Status may have changed — check wisprflow.ai
+for current platform support. — external: knowledge cutoff ~mid-2026]
 
 ## What the chat uses it for
 
 - **Talk-to-text for letters/emails** — [chat 2026-02-06, +1 847-560-1560]:
   *"WisperFlow recommended for talk-to-text."*
 - **Pre-written templates** (snippets) — *"You can have pre-written
-  templates."* [chat 2026-04-27, Meir Sudak]
+  templates."* [chat 2026-04-27]
 - **Dictating notes / voice memos** to expand later.
 
 ## How it differs from ChatGPT voice mode
@@ -46,14 +50,14 @@ Wispr Flow = transcribe + auto-format + paste into *any* app
 ## Weaknesses
 
 - Android arrived later than iOS.
-- *"How do I use it in WhatsApp?"* — [chat 2026-02-06, Nissen Goldman].
+- *"How do I use it in WhatsApp?"* — [chat 2026-02-06].
   Not answered in chat; works as keyboard but UX isn't obvious.
 
 ## Alternatives
 
-- **Typeless** — free tier, *"haven't come close to word limit."*
-  [chat 2026-02-06, Yonatan Azrielant] — `typeless.com`
-- **Letterly** — *"rave reviews on accuracy."* [chat 2026-02-15, Meir Sudak]
+- **Typless** — free tier, *"haven't come close to word limit."*
+  [chat 2026-02-06] — `typeless.com`
+- **Letterly** — *"rave reviews on accuracy."* [chat 2026-02-15]
 - **Google Recorder / Pinpoint** — free transcription on Android.
 - **ChatGPT voice mode** — for AI conversation, not text replacement.
 
@@ -61,4 +65,3 @@ Wispr Flow = transcribe + auto-format + paste into *any* app
 
 - [[../topics/transcription]]
 - [[../topics/letter-writing]]
-- [[../people/meir-sudak]]

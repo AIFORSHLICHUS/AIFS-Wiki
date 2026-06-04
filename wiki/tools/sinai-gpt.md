@@ -9,12 +9,12 @@ updated: 2026-05-25
 
 # SinaiGPT
 
-The chat's *first* AI artifact — a Torah-focused custom GPT made by
-[[../people/mendy-shishler]] before the group existed.
+The chat's *first* AI artifact — a Torah-focused custom GPT made
+before the group existed.
 
 ## Context
 
-[chat 2025-07-30, Mendy Shishler]: *"https://tinyurl.com/SinaiGPT.
+[chat 2025-07-30]: *"https://tinyurl.com/SinaiGPT.
 Made this ages ago, a guy just reminded me of it."*
 
 Shared two days after the group's founding. Marked the "we've been
@@ -34,7 +34,6 @@ for why custom-GPT-on-recall has hallucination limits.
 
 ## Related
 
-- [[../people/mendy-shishler]]
 - [[../themes/ai-and-torah-accuracy]]
 - [[dicta-mekorotai]]
 - [[chattorah]]

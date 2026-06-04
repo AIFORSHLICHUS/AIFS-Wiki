@@ -103,3 +103,31 @@ Applied immediately to [[tools/sora]] (discontinuation note).
 
 Mark pages with `[external: …]` only when the correction *matters* —
 not just because reality moved. The chat's voice is the asset.
+
+## [2026-06-04] lint | Anonymization + outdated-info pass
+
+User directive: remove all personal names and phone numbers from the wiki;
+apply stronger cleansing for stale information.
+
+**Anonymization (full pass):**
+- Stripped names and phone numbers from all `[chat DATE, NAME]` and
+  `[chat DATE, +NUMBER]` citations — now `[chat DATE]` throughout.
+- Removed all inline name mentions from body text across ~60 pages;
+  replaced with role/context descriptors ("the group founder",
+  "a community organizer", "a bar-Ilan professor", etc.).
+- Deleted all 23 `wiki/people/` pages.
+- Removed the People section from `wiki/index.md`.
+- Removed all `[[../people/…]]` cross-links from Related sections.
+
+**Outdated-info pass (external annotations applied):**
+- [[tools/manus]] — noted autonomous-agent status and acquisition context.
+- [[tools/gemini]] — noted continued model-naming evolution post-chat.
+- [[tools/perplexity]] — confirmed PayPal free-year ended 2025-12-31.
+- [[tools/lovable]] — noted pricing/referral status may have changed.
+- [[tools/wispr-flow]] — noted Android rollout status.
+- [[tools/dicta-mekorotai]] — noted public-availability caveat.
+- [[tools/chattorah]] — noted development status.
+- [[resources/nonprofit-discounts]] — added prominent quarterly-sweep warning.
+- [[themes/model-leapfrog]] — updated competitive frontier note.
+
+**Pages now**: 68 (down from 91 — 23 people pages removed).

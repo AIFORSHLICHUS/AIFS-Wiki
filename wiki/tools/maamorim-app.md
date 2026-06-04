@@ -10,7 +10,7 @@ updated: 2026-05-25
 # maamorim.app
 
 Curated app for learning the Rebbe's *maamorim* with AI-assisted
-search and notes. Built by [[../people/mendy-elishevitz]].
+search and notes.
 
 ## What it is
 
@@ -19,7 +19,7 @@ search and notes. Built by [[../people/mendy-elishevitz]].
 - Summaries by **R' Shneur Zalman Farkash**, baked into the corpus.
 - **AI search** across maamorim.
 - **Favorites &amp; notes** per user.
-- *"Even this file was made by AI."* [chat 2026-03-27, Mendy Elishevitz]
+- *"Even this file was made by AI."* [chat 2026-03-27]
 
 ## Why it works (and the contrast with raw NotebookLM)
 
@@ -50,7 +50,6 @@ invent**.
 
 ## Related
 
-- [[../people/mendy-elishevitz]]
 - [[notebooklm]]
 - [[../themes/ai-and-torah-accuracy]]
 - [[../topics/shiur-prep]]

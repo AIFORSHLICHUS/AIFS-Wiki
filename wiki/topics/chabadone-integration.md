@@ -18,11 +18,11 @@ documented several workable patterns.
 
 > *"If you want to embed AI-generated code, it has to be XHTML 1.0 to be
 > fully compliant with ChabadOne and not get the XML error screen."*
-> — [chat 2025-09-09, Yisroel Chaim Shuchat]
+> — [chat 2025-09-09]
 
 ## Pattern 1: Claude artifact + iframe
 
-The Yisroel Chaim Shuchat workaround [chat 2025-09-09]:
+The workaround [chat 2025-09-09]:
 
 1. Ask Claude to create a rich website with no limits/rules using
    HTML5.
@@ -40,7 +40,7 @@ anything sensitive.
 
 Feed the AI ChabadOne's HTML help article + your design intent and
 ask one model to write a *prompt* for another model that respects the
-constraints. [chat 2025-11-28, Yisroel Chaim Shuchat]:
+constraints. [chat 2025-11-28]:
 
 > *"Feed the AI the ChabadOne help article with HTML guidelines (search
 > 'HTML'). Ask one AI to create a prompt for another AI based on
@@ -50,11 +50,11 @@ constraints. [chat 2025-11-28, Yisroel Chaim Shuchat]:
 Then iterate: generate, test inside ChabadOne, ask AI to fix what
 breaks. *"Have AI summarize what worked / didn't work. Create a brief
 prompt with guidelines. Use going forward as parameters for building
-other pages."* [chat 2025-08-29, Yisroel Chaim Shuchat]
+other pages."* [chat 2025-08-29]
 
 ## Pattern 3: The Universal ChabadOne Page Builder prompt
 
-[chat 2026-04-24, Yisroel Chaim Shuchat] shared a platform-agnostic
+[chat 2026-04-24] introduced a platform-agnostic
 system prompt that works with Claude, ChatGPT, or Gemini:
 
 - Paste contents to a fresh conversation.
@@ -73,7 +73,7 @@ See [[../resources/master-prompts]] for a copy.
 
 ## Pattern 4: Minisites via Manus.im + ChabadOne articles
 
-[chat 2026-02-22, Yisroel Chaim Shuchat]:
+[chat 2026-02-22]:
 
 1. Use AI to draft a prompt for Manus.im to scan Chabad.org for
    content (specify your audience + topic).
@@ -95,7 +95,7 @@ For shluchim who give up on ChabadOne styling, the consensus alternative
 is **Squarespace with ChabadBrand templates** — examples
 `chabadfortwayne.com`, `jewishchagrinfalls.com` — and a Squarespace
 account at $30/month, more design freedom, no XHTML constraint.
-[chat 2025-08-18, Mendel Groner, others]
+[chat 2025-08-18]
 
 ## What ChabadOne doesn't have (yet)
 

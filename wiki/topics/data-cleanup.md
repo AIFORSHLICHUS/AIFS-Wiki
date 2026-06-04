@@ -13,7 +13,7 @@ Cleaning mailing lists, deduplicating contacts, standardizing
 addresses, fixing dates. A recurring request; no clean turnkey
 answer.
 
-## The principle (Mendy Mann, Berel Marozov)
+## The principle
 
 > *"Don't ask AI to directly process the data. Ask AI to write a
 > script that processes the data."*
@@ -43,7 +43,7 @@ and you can read it.
 
 ## The chunking rule
 
-[chat 2025-08-19, Yossi Yaffe]:
+[chat 2025-08-19]:
 
 > *"When collecting large datasets (e.g., 100+ records), break into
 > ~20-record chunks. Large datasets cause AI to 'lose data it worked
@@ -81,4 +81,3 @@ and you can read it.
 - [[../topics/fundraising]] — donor-list enrichment.
 - [[../topics/crm-automation]] — pre-feed cleanup.
 - [[../tools/gemini]] — Sheets formula.
-- [[../people/mendy-mann]] — the "script not AI" principle.

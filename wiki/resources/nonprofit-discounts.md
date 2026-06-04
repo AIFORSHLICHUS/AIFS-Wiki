@@ -12,6 +12,12 @@ updated: 2026-05-25
 What the community has documented as ways to lower AI costs. Verify
 before relying — offers change.
 
+> **Important:** All offers listed here have expiry dates, vendor
+> discretion, or waitlist status. This list was current as of
+> mid-2026 based on the chat. **Verify every item before relying on
+> it.** [external: pricing and availability change frequently;
+> treat all entries below as leads to check, not guarantees.]
+
 See [[../themes/paid-vs-free]] for the broader debate.
 
 ## Still working (as of 2026-05)
@@ -22,11 +28,11 @@ See [[../themes/paid-vs-free]] for the broader debate.
 > your phone via Galaxy Store and make an account, you automatically
 > get a Pro account for one year, free of charge. You can then access
 > that account from anywhere."*
-> — [chat 2025-08-04, Rabbi Zalman Abraham]
+> — [chat 2025-08-04]
 
 ### Gemini — 4 months free
 
-`g.co/g1referral/ZAPZU83S` — shared by Mendy Shishler 2025-10-20.
+`g.co/g1referral/ZAPZU83S` — shared [chat 2025-10-20].
 
 ### Google AI Studio — free
 
@@ -39,7 +45,7 @@ limits. Also has a vibe-coding canvas.
 If your Chabad House qualifies (501(c)(3)) you get Gemini for
 Workspace plus the storage tier. Caveat: adding Gemini sometimes
 *downgrades* the shared-drive tier. Talk to your admin first.
-[chat 2025-11, Ari Herson?]
+[chat 2025-11]
 
 ### Gemini Plus — $6/month
 
@@ -74,7 +80,7 @@ courses. Useful when on-boarding a Chabad-House team.
 
 ### Amex × ChatGPT Business hack
 
-[chat 2026-05-19, Dan's Deals via Mendy Shishler]:
+[chat 2026-05-19, via Dan's Deals]:
 
 > *"Hurry — get 2 ChatGPT Business seats for the price of 1 for up
 > to 4 years. Perfect for free service after $300 annual Amex
@@ -84,18 +90,18 @@ courses. Useful when on-boarding a Chabad-House team.
 
 ### Lovable gift cards / occasional free windows
 
-[chat 2026-02-16, Meir Sudak] distributed $25 Lovable gift cards.
+[chat 2026-02-16] distributed $25 Lovable gift cards.
 [chat 2026-03-08] — Lovable opened a ~24h free window during the
 megillah.app sprint.
 
 ### Manus.im — invitation link
 
-`manus.im/invitation/K0TGDPJ7OIFCWG` — Mendy Shishler's referral.
+`manus.im/invitation/K0TGDPJ7OIFCWG` — referral link shared in chat.
 Stretches the free-credit budget.
 
 ### Cursor — 50% first month
 
-`cursor.com/referral?code=NKUHQBD2D1ZI` — Meir Sudak's referral.
+`cursor.com/referral?code=NKUHQBD2D1ZI` — referral.
 [chat 2026-05-15]
 
 ### Turboscribe — 3 free transcriptions/day
@@ -109,7 +115,7 @@ Free transcription for Hebrew audio. [chat 2025-12-02]
 
 ### Wispr Flow — free tier
 
-`wisprflow.ai/r?MEIR42` — Meir Sudak's referral.
+`wisprflow.ai/r?MEIR42` — referral link.
 
 ### Google Pinpoint — free transcription
 
@@ -119,13 +125,12 @@ for journalists/students; no enforced limit on number of files.
 
 ### Sunsama — 50% nonprofit + free trial
 
-Project management. Mendel Groner shared a free-month link
-[chat 2026-02-22].
+Project management. A free-month link was shared [chat 2026-02-22].
 
 ### Monday.com — limited nonprofit free tier
 
 Some AI features included; limited free images.
-[chat 2025-11-30, Mendel Groner]
+[chat 2025-11-30]
 
 ### Fillout — nonprofit discounts
 
@@ -151,8 +156,7 @@ candle-lighting graphics 1–2 days before Shabbos/Yom Tov.
 ## Hard to qualify
 
 - **OpenAI for Nonprofits** (Goodstack-verified, 20% off) — academic,
-  medical, governmental institutions excluded. [chat 2026-01-13,
-  Ari Kievman]
+  medical, governmental institutions excluded. [chat 2026-01-13]
 
 ## Tools designed to compound savings
 
@@ -167,7 +171,7 @@ candle-lighting graphics 1–2 days before Shabbos/Yom Tov.
 ## Caveats
 
 - Free tiers train on your data unless you opt out. Several
-  warnings: [chat 2025-12-27, Meir Sudak], [chat 2026-05-07].
+  warnings: [chat 2025-12-27], [chat 2026-05-07].
 - Workspace admins can see Gemini chats on managed accounts — users
   can't easily delete. [chat 2026-05-07, +1 773-218-1108]
 

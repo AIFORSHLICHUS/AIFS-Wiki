@@ -20,26 +20,26 @@ A non-exhaustive list of community-shipped apps built this way:
 
 - [[../tools/megillah-app]] — synced Megillah reading, broadcast mode,
   multi-language. Built in ~10 days during Purim 2026, with feature
-  requests merged live. Mendy Elishevitz on Claude.
+  requests merged live. Claude Code.
 - [[../tools/berel-me]] — 12+ micro-tools (grogger, raffle, dreidel,
   pdflabel, splitmyclass, sicha-stitcher, 12 pesukim, autoprint,
-  pushka tracker). Berel Marozov, mostly Claude Opus 4.5.
+  pushka tracker). Mostly Claude Opus 4.5.
 - [[../tools/maamorim-app]] — curated Rebbe's maamorim with AI search
-  and notes. Mendy Elishevitz.
+  and notes.
 - **Mishna.me** — shareable mishnayos with *osiyos hashem* for shiva /
-  yahrtzeits. Mendy Elishevitz, [chat 2026-03-22].
-- **Tzvi-to-Tzadik** — Yossi Yaffe's grandfather's poems to the Rebbe,
+  yahrtzeits. [chat 2026-03-22]
+- **Tzvi-to-Tzadik** — grandfather's poems to the Rebbe,
   AI-powered source exploration. [chat 2026-03-29]
 - **Rashi Roots Map / Atlas of the Sages** — intellectual-history
-  timeline on Lovable. Yossi Yaffe.
-- **Tenpr.app** — *maaser* education tool. Mendy Shishler in Google AI
+  timeline on Lovable.
+- **Tenpr.app** — *maaser* education tool, built in Google AI
   Studio. [chat 2026-01-15]
-- **Cypcampaign.lovable.app** — end-of-year campaign dashboard. Avi Winner.
+- **Cypcampaign.lovable.app** — end-of-year campaign dashboard.
 - **Countomer** — Sefiras HaOmer with daily *Daf of Sotah* and
   location-based *Tzeis* notifications. [chat 2026-04-16, +1 347-770-3586]
 - **Movers-referral-tool** — NCOA results → nearest Chabad House
   referral emails, fully in-browser. [chat 2026-03-10, +1 717-827-6287]
-- **Rebbe's Global Footprint** — Mendel Teldon, Base.app, **15 minutes**.
+- **Rebbe's Global Footprint** — Base.app, **15 minutes**.
 
 The throughline: pick a small, specific problem; ship; iterate from
 community feedback within hours.
@@ -49,16 +49,16 @@ community feedback within hours.
 > *"I kept adding pieces using AI tools. Each addition made the codebase
 > more fragile. By the end, I had six different timing systems
 > contradicting each other."*
-> — [chat 2026-03-04, Yossi Yaffe], post-mortem of learningtanach.org's
+> — [chat 2026-03-04], post-mortem of learningtanach.org's
 > Esther reader (still got 7,000 visitors in 2 days).
 
 > *"AI coding is powerful, but incremental AI edits can quietly make
 > the codebase fragile. Never release an AI-coded app with login
 > functionality."*
-> — [chat 2026-03-05, Rayi Stern]
+> — [chat 2026-03-05]
 
 > *"They use you and your chat data to train their models."*
-> — [chat 2025-03-27, Meir Sudak] (on the broader risk surface)
+> — [chat 2025-03-27] (on the broader risk surface)
 
 Specific failure modes the group has documented:
 
@@ -66,15 +66,15 @@ Specific failure modes the group has documented:
   the code but doesn't reason about the whole. Architecture rots.
 - **Security blind spots.** Vibe-coded systems with user accounts +
   payment + AI-built backends are a recipe for credit-card and PII
-  leakage. [chat 2026-01-11, +1 33-6 51 48 36 80; Mendy Mann]
+  leakage. [chat 2026-01-11, +1 33-6 51 48 36 80]
 - **WhatsApp bans.** Bots and bulk senders that route through personal
   numbers get accounts disabled, sometimes after months of working
-  fine. [chat 2026-03-13, Rayi Stern; chat 2025-12-04, +1 203-887-6044]
+  fine. [chat 2026-03-13; chat 2025-12-04, +1 203-887-6044]
 - **Inability to import existing code.** Lovable can't ingest a real
   repo. For non-trivial work you graduate to Cursor / Claude Code.
-  [chat 2026-02-22, Meir Sudak]
+  [chat 2026-02-22]
 
-## Rayi Stern's rules
+## The community vibe-coding rules
 
 [chat 2026-03-13]:
 
@@ -100,7 +100,7 @@ Specific failure modes the group has documented:
 | cto.new | Free, browser | Quick experiments | Less polish |
 | Kiro.dev | Free preview | Desktop-app style | Beta |
 
-[chat 2026-02-22, Meir Sudak] is the canonical comparison post.
+[chat 2026-02-22] is the canonical comparison post.
 
 ## How the safe ones stay safe
 
@@ -109,8 +109,8 @@ Specific failure modes the group has documented:
 - **No login.** The dreidel raffle and grogger don't store accounts.
 - **Curated corpus, not generation.** maamorim.app and dach.dev expose
   pre-vetted text; the AI helps *find* not *invent*.
-- **MCP / API into vetted backends.** Hecher CRM (Elazor Green) and
-  the [[../tools/megillah-app]] both connect AI agents to systems whose
+- **MCP / API into vetted backends.** Hecher CRM and the
+  [[../tools/megillah-app]] both connect AI agents to systems whose
   behavior is already correct.
 
 ## Open questions

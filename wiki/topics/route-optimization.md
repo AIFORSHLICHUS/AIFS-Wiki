@@ -24,7 +24,7 @@ and 6 drivers — optimize."*
   makes addresses into optimized routes."*
   [chat 2026-02-22, +33 7 83 73 73 46]
 
-## The free / DIY path (Yonatan Azrielant)
+## The free / DIY path
 
 [chat 2026-02-24]: free tools that work if you can plan ahead:
 
@@ -54,6 +54,5 @@ tracking. $60/season or $18/month. [chat 2026-03 week review]
 
 ## Related
 
-- [[../people/yonatan-azrielant]]
 - [[../topics/crm-automation]] — for getting the addresses out of your CRM.
 - [[../themes/vibe-coding]] — Claude Code as the glue.

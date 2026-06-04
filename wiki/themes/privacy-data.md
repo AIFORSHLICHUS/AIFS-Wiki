@@ -15,7 +15,7 @@ somewhere in the middle.
 ## The recurring warnings
 
 > *"They use your chat data to train their models."*
-> — [chat 2025-12-27, Meir Sudak]
+> — [chat 2025-12-27]
 
 > *"If you have Gemini for Workspace, users cannot easily delete their
 > chats … the admin can see all the chats."*
@@ -28,7 +28,7 @@ somewhere in the middle.
 ## The pragmatic position
 
 > *"We here have already sold our liberty to technology."*
-> — [chat 2026-03-27, Didy Waks]
+> — [chat 2026-03-27]
 
 The honest framing: most shluchim use Gmail, WhatsApp, ChatGPT,
 ChabadOne, social media. Adding Gemini integration doesn't change the
@@ -44,9 +44,9 @@ reason for concern?"* No consensus; range from *"go ahead"* to
 
 ### Vibe-coded apps with banking info
 
-Mendy Mann: *"Keep programs locally, don't connect to banking, don't
-give file access. Use professional developer oversight before
-deploying."* [chat 2026-01-11]
+*"Keep programs locally, don't connect to banking, don't give file
+access. Use professional developer oversight before deploying."*
+[chat 2026-01-11]
 
 ### Password storage
 
@@ -97,4 +97,3 @@ which model you ask.
 - [[vibe-coding]]
 - [[../topics/whatsapp-automation]]
 - [[../topics/crm-automation]]
-- [[../people/yonatan-azrielant]] — Nanoclaw safety advocacy.

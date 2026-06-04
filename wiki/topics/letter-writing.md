@@ -24,7 +24,7 @@ chat's first weeks.
 
 > *"Claude is better in my experience than ChatGPT. Provide a good
 > outline of what you want the letter to say."*
-> — [chat 2025-08-04, Mordechai Lightstone]
+> — [chat 2025-08-04]
 
 > *"I find that Grok writes with more personality and a more genuine
 > tone than ChatGPT."*
@@ -34,7 +34,7 @@ chat's first weeks.
 
 ### 1. Upload examples; let it copy your voice
 
-Mendel Groner's eulogy workflow [chat 2025-08-04]:
+Eulogy workflow [chat 2025-08-04]:
 - Upload 20+ past eulogies you've written.
 - Add a system message: *"Copy this style for future writing."*
 - When a new eulogy is needed: take notes with the family, paste them
@@ -46,7 +46,7 @@ press releases.
 
 ### 2. System-prompt rules
 
-The most-shared writing prompt in the chat — Shmuli Neft's anti-AI
+The most-shared writing prompt in the chat — an anti-AI
 style sheet [chat 2025-08-04]. The key constraints:
 
 - No em-dashes ever (use commas, semicolons, or two sentences).
@@ -60,7 +60,7 @@ See the full prompt in [[../resources/master-prompts]].
 
 ### 3. DIA Browser / writing-aware browser
 
-[chat 2025-08-04, Mordechai Lightstone]: DIA Browser has a built-in AI
+[chat 2025-08-04]: DIA Browser has a built-in AI
 assistant where you pre-load your writing style and sample authors
 once — then everything you write gets ghostwritten in that voice
 without re-prompting each time.
@@ -85,13 +85,13 @@ generate ten variations per outlet; check before sending.
 
 ### Grant proposals
 
-[chat 2025-08-19, Yossi Yaffe]: paste the grant questions into AI with
+[chat 2025-08-19]: paste the grant questions into AI with
 your Chabad House context; AI fills out answers. Then you edit. Saves
 hours.
 
 ### Eulogies / hespedim
 
-Mendel Groner's pattern above. Mendel: also use the AI to research
+The pattern above. Also use the AI to research
 the deceased — names, dates, family members, public mentions — before
 the family meeting.
 
@@ -133,25 +133,25 @@ When the AI is sycophantic ("That's a great idea! You're brilliant!"):
 > *"After AI response: 'Rate your response out of 10.' If not
 > satisfied: give your own rating, e.g., 'I'd rate that a 6/10.' AI
 > recalibrates understanding of what you need."*
-> — [chat 2025-08-19, Mendy Shishler]
+> — [chat 2025-08-19]
 
 ## Pre-response clarification
 
 > *"Ask me clarifying questions to make sure we're on the same page
 > before responding or doing a task."*
-> — [chat 2025-08-19, Mendy Shishler]
+> — [chat 2025-08-19]
 
 A small prompt addition that prevents misinterpretations on
 complicated writing tasks.
 
 ## ZeroGPT check
 
-[chat 2025-08-05, Mendel Groner]: *"Always paste your text into
+[chat 2025-08-05]: *"Always paste your text into
 zerogpt.com or similar before posting to see if it's too much AI."*
 
 ## Related
 
-- [[../resources/master-prompts]] — Shmuli Neft's anti-AI style sheet, etc.
+- [[../resources/master-prompts]] — anti-AI style sheet and other prompts
 - [[../tools/claude]]
 - [[../tools/chatgpt]]
 - [[../tools/grok]]

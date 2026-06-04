@@ -16,16 +16,21 @@ flipped the chat's thinking from chatbot to *agent*.
 
 `manus.im` — agentic AI that browses the web, calls APIs, scrapes,
 writes code, builds slide decks, and produces real artifacts.
-Acquired by Meta for $2B in early 2026. [chat 2026-01-06, Yonatan Azrielant]
+Acquired by Meta for $2B in early 2026. [chat 2026-01-06]
 
 Free credits daily; invite-link multipliers stretch them.
-Mendy Shishler's invite: `manus.im/invitation/K0TGDPJ7OIFCWG`
+Invite: `manus.im/invitation/K0TGDPJ7OIFCWG`
 [chat 2025-08-20]
+
+[external: Manus.im is a Chinese-developed autonomous agent tool.
+Acquired by Meta for approximately $2B in early 2026 per the chat
+[chat 2026-01-06]. Post-acquisition integration status and
+availability are unconfirmed. — external: knowledge cutoff ~mid-2026]
 
 ## The thread that converted the chat
 
-[chat 2026-01-06, Yonatan Azrielant] showed Manus executing a
-real-world shliach task end-to-end:
+[chat 2026-01-06] showed Manus executing a real-world shliach task
+end-to-end:
 
 > *"My Chabad House is Beis Chabad of Anytown. Search a 10-mile
 > radius around my Chabad House for all businesses. For each
@@ -41,8 +46,8 @@ Manus connected OpenStreetMaps, queried state business records,
 searched each business, compared names to a Jewish-names list, sorted
 by likelihood, and built a website with the output.
 
-Mendy Shishler: *"It's not just another AI chatbot, it actually
-executes tasks as an AI agent."*
+*"It's not just another AI chatbot, it actually executes tasks as an
+AI agent."* [chat 2026-01-06]
 
 Demo link: `manus.im/share/FhxMRlmsM2lNHTeILbdyEu`
 
@@ -63,7 +68,7 @@ Demo link: `manus.im/share/FhxMRlmsM2lNHTeILbdyEu`
 
 ## Weaknesses
 
-- **Expensive** at heavy use. [chat 2026-03-19, Didy Waks]: *"Manus is
+- **Expensive** at heavy use. [chat 2026-03-19]: *"Manus is
   amazing but way too expensive."*
 - **Bot protections block it** on some sites. [chat 2026-03-04]
 - **Report generation has limitations** — [chat 2026-01-29].
@@ -77,11 +82,9 @@ Demo link: `manus.im/share/FhxMRlmsM2lNHTeILbdyEu`
 - **Claude Cowork / Dispatch** — browser-automation agent in Claude
   ecosystem.
 - **Nanoclaw** — safer, Docker-sandboxed agent framework.
-  [[../people/yonatan-azrielant]]
 
 ## Related
 
 - [[../topics/fundraising]]
 - [[../topics/crm-automation]]
 - [[../themes/vibe-coding]]
-- [[../people/yonatan-azrielant]]

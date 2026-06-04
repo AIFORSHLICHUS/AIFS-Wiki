@@ -18,10 +18,10 @@ produced song. Free tier; ~$8 for a polished song.
   names. [chat 2026-02-16, +1 520-703-7466]
 - **Niggun production from a voice recording.** Sing into the phone;
   Suno turns it into a full arrangement. *"Rivals Tzama quality."*
-  [chat 2025-11-26, Elisha Pearl]
+  [chat 2025-11-26]
 - **Sefira-period a-cappella.** *"If you want some sefira entertainment
   you can turn any song into acapella with Suno."*
-  [chat 2026-04-12, Mendy Shishler]
+  [chat 2026-04-12]
 - **Chanukkah event theme songs.** [chat 2026-02-16]
 
 ## Workflow
@@ -57,7 +57,7 @@ produced song. Free tier; ~$8 for a polished song.
 - **NovelEffect** — sound effects with voice recognition (children's
   books). [chat 2026-02-20]
 
-The full "free sheet music" pipeline [chat 2025-11-28, Yisroel Chaim Shuchat]:
+The full "free sheet music" pipeline [chat 2025-11-28]:
 
 > *Step 1: Convert audio → MIDI using BasicPitch (free, super accurate
 > for melody). basicpitch.spotify.com.*

@@ -20,15 +20,15 @@ solve it.
 > *"Without structured data — all of Igros indexed — this problem will
 > persist for years. Unless OpenAI/Anthropic gives access to all texts
 > and structures them, hallucinations for Torah references will continue."*
-> — [chat 2025-12-13, Elisha Pearl]
+> — [chat 2025-12-13]
 
 > *"AI has very little access to actual Torah sources. It's skimming
 > basic English sites … regurgitating chabad.org back at you."*
-> — [chat 2026-02-24, Mendel Super]
+> — [chat 2026-02-24]
 
 > *"Torah doesn't fit the shape that AI is expecting to read … layered,
 > subtle, nuanced. The process is lost on it."*
-> — [chat 2026-02-27, Rayi Stern]
+> — [chat 2026-02-27]
 
 LLMs are *word generators*, not *databases*. Hebrew sources are
 under-represented in training data. Layered commentary collapses into a
@@ -62,7 +62,7 @@ flat "sounds plausible" output.
 
 ### 3. "Plain-language rules" instead of code
 
-[chat 2026-02-23, Yossi Yaffe] is drafting a community document of **9
+[chat 2026-02-23] describes drafting a community document of **9
 principles for AI Torah citation** — search methods, citation formats,
 verification steps, domain-specific instructions for different text
 types. Posted to Google Docs for community feedback. Not yet finalized,
@@ -73,7 +73,7 @@ but treated as one of the more important community efforts. See
 
 > *"Never release an AI-coded app with login functionality, financial
 > transactions, or mission-critical email integrations."*
-> — [chat 2026-03-13, Rayi Stern]
+> — [chat 2026-03-13]
 
 Tools like [[../tools/dach-dev]] and [[../tools/maamorim-app]] succeed
 by curating the corpus and letting the LLM only re-present — not invent.

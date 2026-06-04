@@ -15,10 +15,10 @@ by their AI-integration readiness.
 | CRM | AI integration | Notes |
 | --- | --- | --- |
 | **ChabadOne (Salesforce-backed)** | Salesforce MCP works easily | [chat 2026-05-15, +1 438-526-6974]. The Chabad default. |
-| **Little Green Light (LGL)** | API exists; [[../people/didy-waks]] uses Nanoclaw agent | [chat 2026-05-17] $100 credit link. *"Great CRM for donor management and insight."* |
-| **Hecher CRM** | Native MCP integration by [[../people/elazar-green]] | ~80 shliach beta. Voice notes → Whisper → Claude → CRM. |
+| **Little Green Light (LGL)** | API exists; community members use Nanoclaw agent | [chat 2026-05-17] $100 credit link. *"Great CRM for donor management and insight."* |
+| **Hecher CRM** | Native MCP integration | ~80 shliach beta. Voice notes → Whisper → Claude → CRM. |
 | **CiviCRM (Chabad Suite)** | API; +44 7710-524460 connected to Base44 | [chat 2026-05-15] |
-| **Attio** | Agent for prospect research/enrichment | [[../people/rabbi-zalman-abraham]] uses heavily. [chat 2026-03-19] |
+| **Attio** | Agent for prospect research/enrichment | Used heavily for prospect research. [chat 2026-03-19] |
 | **MyShul** | Built-in AI report bot | *"Type 'give me a list of all 12-year-old boys and their parents' numbers' and it produces the list."* [chat 2026-05-15, +1 786-547-3031] |
 | **CMS Cloud** | Chabad donor management | [chat 2026-01-06] |
 | **Hatch.ai** | Lubavitch-owned prospect research | [chat 2025-09-22]. Some users: *"more hatch and less ai."* [chat 2026-04-21] |
@@ -32,7 +32,7 @@ by their AI-integration readiness.
   support.
 - **Spreadsheet-as-CRM** with Gemini `=AI(...)` formula — cheap and
   effective for enrichment passes.
-  [chat 2026-03-19, Rabbi Zalman Abraham]
+  [chat 2026-03-19]
 - **Voice-note → CRM** — Whisper → Claude → API. See Hecher.
 
 ## Donor research
@@ -40,8 +40,8 @@ by their AI-integration readiness.
 - **WealthEngine** — paid prospect scoring.
 - **Exa Websets** — `websets.exa.ai/websets/` — research finds for
   fundraising. *"Good ROI for fundraising."*
-- **Jewish-name detection gists** — [[../people/yonatan-azrielant]]'s
-  open-source tools for scoring lists.
+- **Jewish-name detection gists** — open-source tools for scoring lists
+  (see [[../topics/fundraising]]).
 - **Claude Cowork** — built a spreadsheet of top Jewish philanthropists
   per city from publicly listed information.
   [chat 2026-04-19, Shmulie Cunin]
@@ -49,7 +49,7 @@ by their AI-integration readiness.
 ## Bookkeeping
 
 - **QuickBooks** is default; some shluchim using AI to draft entries.
-  [chat 2026-05-18, Rabbi Zalman Abraham]
+  [chat 2026-05-18]
 - **Kick.co** / **Booking.ai** — "underwhelming, like Mint.com."
   [chat 2025-10-22]
 
@@ -66,7 +66,4 @@ by their AI-integration readiness.
 - [[../topics/crm-automation]] — full workflow page.
 - [[../topics/fundraising]]
 - [[claude]]
-- [[../people/didy-waks]]
-- [[../people/elazar-green]]
-- [[../people/rabbi-zalman-abraham]]
 - [[../themes/vibe-coding]] — why most "I'll build my own CRM" ends in tears.

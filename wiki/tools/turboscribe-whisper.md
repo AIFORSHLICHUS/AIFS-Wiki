@@ -21,9 +21,8 @@ The underlying model many tools wrap.
 - *"Whisper models are the best. 11labs is also very good but more
   expensive. Parakeet models also very strong. All excellent for both
   Hebrew and English. Can work for Yiddish."*
-  — [chat 2025-08-16, Elisha Pearl]
-- Used inside Hecher CRM ([[../people/elazar-green]]) and many DIY
-  pipelines.
+  — [chat 2025-08-16]
+- Used inside Hecher CRM and many DIY pipelines.
 
 ## Turboscribe
 
@@ -32,7 +31,7 @@ The underlying model many tools wrap.
 - **3 free transcriptions/day.**
 - **$20/month for bulk** — *"the best deal I've found for bulk
   transcription. I've managed to transcribe hundreds of hours in a
-  single month."* [chat 2026-05-12, Rabbi Zalman Abraham]
+  single month."* [chat 2026-05-12]
 - Multilingual support.
 
 ## MacWhisper
@@ -41,7 +40,7 @@ Local Mac app running Whisper on-device.
 `goodsnooze.gumroad.com/l/macwhisper`. One-time purchase.
 
 > *"Good for heavy users."*
-> — [chat 2025-11-28, Elisha Pearl]
+> — [chat 2025-11-28]
 
 ## Pinpoint (Google)
 
@@ -55,13 +54,12 @@ Local Mac app running Whisper on-device.
 ## Letterly
 
 Voice-to-text app. *"Rave reviews on accuracy."*
-[chat 2026-02-15, Meir Sudak]
+[chat 2026-02-15]
 
 ## Nvidia Canary / Parakeet
 
-Free ASR models. Mendy Mann was testing Canary 180m for Hebrew/Yiddish
-[chat 2026-01-11]. Strong for both Hebrew and English per Elisha
-Pearl. Requires technical setup.
+Free ASR models. Canary 180m was being tested for Hebrew/Yiddish
+[chat 2026-01-11]. Strong for both Hebrew and English. Requires technical setup.
 
 ## ivrit.ai
 

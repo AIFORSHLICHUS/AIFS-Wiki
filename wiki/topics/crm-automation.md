@@ -25,35 +25,34 @@ several patterns.
 > WhatsApp or email."*
 > — [chat 2026-03-19, Levi Haskelevitch]
 
-Both bubble to the top whenever Mendy Shishler asks "if you had an AI
+Both bubble to the top whenever the group is asked "if you had an AI
 agent that could do anything for you, what would it do?"
 
 ## The CRMs in play
 
 | CRM | Notes from the chat |
 | --- | --- |
-| **ChabadOne (Salesforce-backed)** | The Chabad-default. AI integration via Salesforce MCP — *easy* to set up per [chat 2026-05-15, +1 438-526-6974]. Yisroel Chaim Shuchat has been testing. |
-| **Hecher CRM** | Custom-built by [[../people/elazar-green]] with Claude MCP integration. ~80-shliach beta. Voice notes → transcribe (Whisper) → Claude turns into emails, calendar items, CRM updates. [chat 2026-05-15] |
-| **Little Green Light (LGL)** | Mainstream nonprofit CRM. Used heavily by Didy Waks with an AI agent that self-learns features via Nanoclaw. [chat 2026-05-15] |
+| **ChabadOne (Salesforce-backed)** | The Chabad-default. AI integration via Salesforce MCP — *easy* to set up per [chat 2026-05-15, +1 438-526-6974]. Being tested actively. |
+| **Hecher CRM** | Custom-built with Claude MCP integration. ~80-shliach beta. Voice notes → transcribe (Whisper) → Claude turns into emails, calendar items, CRM updates. [chat 2026-05-15] |
+| **Little Green Light (LGL)** | Mainstream nonprofit CRM. An AI agent that self-learns features via Nanoclaw is in heavy use. [chat 2026-05-15] |
 | **CiviCRM / Chabad Suite** | API exists; +44 7710-524460 connected it to Base44 to push/pull data. [chat 2026-05-15] |
 | **MyShul** | Has its own AI report-bot: "give me a list of all 12-year-old boys and their parents' numbers" → produces it. [chat 2026-05-15, +1 786-547-3031] |
-| **Attio** | Modern CRM. Rabbi Zalman Abraham uses an agent for prospect research and contact enrichment. [chat 2026-03-19] |
+| **Attio** | Modern CRM. An agent is used for prospect research and contact enrichment. [chat 2026-03-19] |
 
 ## Patterns that work
 
 ### 1. Agent-on-CRM (Claude Dispatch / Cowork / Nanoclaw)
 
-Didy Waks (heaviest user): [[../tools/claude]] Dispatch acts like a VA
-clicking through LGL — adds donations, runs reports, drafts
-follow-ups. Doesn't use the LGL API; uses *browser automation*.
-[chat 2026-03-29]:
+[[../tools/claude]] Dispatch acts like a VA clicking through LGL —
+adds donations, runs reports, drafts follow-ups. Doesn't use the LGL
+API; uses *browser automation*. [chat 2026-03-29]:
 
 > *"It's like an agent working on your computer, in your browser. Pretty
 > cool. Like having a VA, but without a brain, so doesn't make low-IQ
 > mistakes."*
 
-Nanoclaw (Yonatan Azrielant's recommendation) is the *safer* version:
-ex-JLI / ex-IDF 8200 founders, Docker-sandboxed. [chat 2026-03-13]
+Nanoclaw is the *safer* version: ex-JLI / ex-IDF 8200 founders,
+Docker-sandboxed. [chat 2026-03-13]
 
 ### 2. MCP / API into vetted backends
 
@@ -91,7 +90,7 @@ Use cases the group has shipped:
   Abraham]: Concatenate everything you know about a person into one
   cell, use the `=AI(...)` Gemini Workspace formula, drag down. Retry
   failures.
-- **Jewish-name scoring.** Yonatan Azrielant's two open gists
+- **Jewish-name scoring.** Two open community gists
   (`gist.github.com/jonazri/006e3b667dc309f8db4d9875ce8a51e1` agent
   and `gist.github.com/jonazri/b353b67db66a902ba1bcf66c94d48b62`
   prompt) score likelihood that a name is Jewish. *"Use responsibly."*
@@ -102,7 +101,7 @@ Use cases the group has shipped:
 ## What *doesn't* work
 
 - **Vibe-coded CRMs with login + payment.** Repeatedly warned against;
-  see [[../themes/vibe-coding]]. Mendy Mann: keep banking *out* of
+  see [[../themes/vibe-coding]]. Keep banking *out* of
   AI-built systems. [chat 2026-01-11]
 - **Web-UI click-bots on flaky pages.** Claude Cowork is good but
   fragile; CRM UI changes break runs.
@@ -117,14 +116,12 @@ Use cases the group has shipped:
   has shipped it.
 - **Email + voice note → CRM** as a packaged install instead of a
   bespoke build per shliach.
-- **WhatsApp data mining.** Meir Sudak's Selenium-based exporter
+- **WhatsApp data mining.** A Selenium-based exporter
   ([chat 2026-03-22]) is the only working solution; encrypted backups
   block direct access.
 
 ## Related
 
 - [[../tools/claude]] — Dispatch / Cowork / MCP path.
-- [[../people/didy-waks]]
-- [[../people/elazar-green]]
 - [[../themes/vibe-coding]]
 - [[fundraising]]

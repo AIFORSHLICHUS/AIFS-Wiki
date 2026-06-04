@@ -8,10 +8,10 @@ updated: 2026-05-25
 
 # About — AI for Shlichus (Shluchim)
 
-A WhatsApp group started on **2025/07/28** by Mendy Shishler, gathering
-Chabad-Lubavitch *shluchim* (emissaries) — and shluchos, mashpiim,
-mosdos administrators, designers, developers, and a handful of
-philanthropists — around the practical question:
+A WhatsApp group started on **2025/07/28**, gathering Chabad-Lubavitch
+*shluchim* (emissaries) — and shluchos, mashpiim, mosdos administrators,
+designers, developers, and a handful of philanthropists — around the
+practical question:
 
 > *What can AI actually do for shlichus work?*
 
@@ -37,7 +37,7 @@ The conversation breaks roughly into eras:
 | Formation | Jul–Aug 2025 | Comparing ChatGPT vs. Claude vs. Gemini for the very first time. Letter writing. Flyer attempts. SinaiGPT resurfaces. |
 | Kinus build-up | Sep–Nov 2025 | Custom GPTs. PDF/OCR pain. The Sora prompt-workaround thread. Kinus AI Day launches **ShluchimExchange.ai** and previews **Dicta/Mekorotai**. |
 | Tool explosion | Nov 2025 – Jan 2026 | **Nano Banana** lands. **NotebookLM** with Rebbe's Torah indexed. **Lovable** / **Claude Code** become serious app builders. **Berel.me** suite starts shipping. |
-| Vibe-coding sprint | Feb 2026 | The **megillah.app** ten-day hackathon over Purim. Mendy Shishler's "7 AI Tells" flyer prompt. AIFS Builders group spins off. |
+| Vibe-coding sprint | Feb 2026 | The **megillah.app** ten-day hackathon over Purim. The "7 AI Tells" flyer prompt. AIFS Builders group spins off. |
 | Maturation | Mar–May 2026 | Honest reckoning with vibe-coding risks, AI-Torah hallucination, WhatsApp bans. **Qwen** found best for Hebrew translation. Claude–SpaceX deal raises Claude usage limits. Group splits into specialist channels. |
 
 ## What the group is *for*

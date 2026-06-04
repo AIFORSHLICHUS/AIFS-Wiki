@@ -5,7 +5,7 @@ aliases: [Sora burka thread, Sora prompt thread]
 status: maintained
 sources: [chat.txt]
 updated: 2026-05-25
-participants: [rabbi-chaim-lazaroff, mordechai-lightstone]
+participants: []
 date_range: 2025-11-19 to 2025-11-21
 ---
 
@@ -23,18 +23,17 @@ any image / video model with similar guardrails.
 
 ## The trigger
 
-[chat 2025-11-20, Rabbi Chaim Lazaroff]:
+[chat 2025-11-20]:
 
 > *"How do I get Sora to stop giving me women with burkas?"*
 
-He'd been trying to generate a Shabbos-dinner scene; Sora kept
-"playing it safe" by depicting women in head coverings that didn't
-match the actual community he was making content for.
+The shliach had been trying to generate a Shabbos-dinner scene; Sora
+kept "playing it safe" by depicting women in head coverings that
+didn't match the actual community the content was for.
 
 ## The breakthrough
 
-Mordechai Lightstone, working it out with Rabbi Chaim, posted what
-became canonical:
+Working it out in the thread, the canonical technique emerged:
 
 > *"Use clothing and style descriptions. Instead of saying who the
 > women are, describe what they're wearing and the context."*
@@ -71,8 +70,8 @@ fire on attire + context. By specifying *hair visible, no head
 coverings, modern modest dresses, smart casual*, the model no longer
 defaults to "safer" coverings.
 
-Mordechai's nuance: *"Chabad"* or *"Chasidic"* outperforms *"modest"*
-which triggers tichel/burka imagery in the training data.
+Nuance from the thread: *"Chabad"* or *"Chasidic"* outperforms
+*"modest"* which triggers tichel/burka imagery in the training data.
 
 ## Generalization
 
@@ -93,5 +92,3 @@ attire + action + scene**.
 - [[../resources/master-prompts]] — full ready-to-paste prompt block.
 - [[../topics/flyer-design]]
 - [[../topics/image-generation]]
-- [[../people/rabbi-chaim-lazaroff]]
-- [[../people/mordechai-lightstone]]

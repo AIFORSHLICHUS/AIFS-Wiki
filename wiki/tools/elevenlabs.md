@@ -19,21 +19,21 @@ needs to sound human in Hebrew**.
 expensive line item if used at scale.
 
 Models referenced: **ElevenLabs V3** — released ~2025-11, "can pronounce
-a ches reliably." [chat 2025-11-21, Yonatan Azrielant]
+a ches reliably." [chat 2025-11-21]
 
 ## What the chat uses it for
 
 - **Hebrew pronunciation** — reliable *ches* / *ayin* / *vav*
   distinctions. The leader for liturgical / scholarly content.
 - **Custom voice cloning** — record yourself, generate audio in your
-  voice. [chat 2025-12-07, Yonatan Azrielant]
+  voice. [chat 2025-12-07]
 - **Podcasts &amp; voice-overs** for shiurim, ads, JLI-style content.
 - **Book-to-audio.** Pipeline: PDF → ChatGPT podcast script → ElevenLabs
-  audio. [chat 2025-11-18, Rabbi Zalman Abraham]
+  audio. [chat 2025-11-18]
 
 ## The Hebrew nikkud trick
 
-[chat 2025-11-21, Rayi Stern + Elisha Pearl]:
+[chat 2025-11-21]:
 
 > *"Best way is maybe to transliterate the Hebrew (you can maybe use
 > AI for that). ElevenLabs new V3 model can pronounce a ches reliably.
@@ -57,8 +57,8 @@ Same trick applies to Suno for songs and Google TTS for Android.
 
 ## Weaknesses
 
-- **Expensive at volume.** Mendy Elishevitz: *"more expensive but very
-  good."* [chat 2025-08-16] Elisha Pearl: *"Whisper models are the best.
+- **Expensive at volume.** *"More expensive but very good."*
+  [chat 2025-08-16]. *"Whisper models are the best.
   11labs is also very good but more expensive."*
 - Pronunciation requires tuning input text (nikkud / transliteration
   tricks).
@@ -70,7 +70,7 @@ Same trick applies to Suno for songs and Google TTS for Android.
 - **Cartesia** — TTS alternative. [chat 2025-12-07]
 - **Speechify** — better for personal listening (PDFs, articles).
 - **Google Text-to-Speech** (Android Play) — many voices, free,
-  adjustable speed. [chat 2025-12-09, Mendy Mann]
+  adjustable speed. [chat 2025-12-09]
 - **Google Translate** — has built-in Hebrew TTS.
 
 ## Related

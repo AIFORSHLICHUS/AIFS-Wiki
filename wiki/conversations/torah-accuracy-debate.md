@@ -5,7 +5,7 @@ aliases: [Torah AI debate, hallucination thread, 9 principles thread]
 status: maintained
 sources: [chat.txt]
 updated: 2026-05-25
-participants: [yossi-yaffe, mendel-super, rayi-stern, elisha-pearl, mordechai-lightstone, 415-634-7727, 44-7980-795936]
+participants: []
 date_range: 2025-08-19 to 2026-05-25
 ---
 
@@ -29,21 +29,21 @@ unfolded.
 - Ethical concern: ***geneivat daat*** if readers think it's the
   author's own thought.
 
-Elisha Pearl's framing of *why* AI struggles: *"To understand why AI
-is cool but limited, ask it to explain what happens when it computes
+The framing of *why* AI struggles: *"To understand why AI is cool
+but limited, ask it to explain what happens when it computes
 2+2=4."*
 
 ## Phase 2 — The hallucination drumbeat
 
 **2025-08-06** onward. Recurring user complaint: ChatGPT cites
 *Likkutei Sichos, vol. X, p. Y* — and the page doesn't exist, or the
-sicha doesn't say that. By 2025-12-13 Elisha Pearl crystallizes the
-diagnosis:
+sicha doesn't say that. By 2025-12-13 the diagnosis crystallizes:
 
 > *"LLMs are 'word generators' not 'databases.' Without structured
 > data — all of Igros indexed — this problem will persist for years.
 > Unless OpenAI/Anthropic gives access to all texts and structures
 > them, hallucinations for Torah references will continue."*
+> — [chat 2025-12-13]
 
 [chat 2025-12-13, +33 6 68 42 07 70] reports ChatGPT inventing whole
 *Rebbe answers* with fake citations to Igros and Likkutei Sichos.
@@ -67,8 +67,8 @@ diagnosis:
 
 ## Phase 4 — The "9 Principles" document
 
-**2026-02-23.** Yossi Yaffe announces he's drafting plain-language
-rules for AI Torah citation:
+**2026-02-23.** A community member announces they're drafting
+plain-language rules for AI Torah citation:
 
 > *"I'm working on a set of principles and detailed rules — written
 > in plain language, not code — that you paste into whatever tool
@@ -96,15 +96,17 @@ framing of AI:
 
 ## Phase 6 — "Read primary sources, not English chabad.org"
 
-**2026-02-24, Mendel Super:**
+**2026-02-24:**
 
 > *"AI has very little access to actual Torah sources. It's skimming
 > basic English sites … regurgitating chabad.org back at you."*
+> — [chat 2026-02-24]
 
-**2026-02-27, Rayi Stern:**
+**2026-02-27:**
 
 > *"Torah doesn't fit the shape that AI is expecting to read.
 > Layered, subtle, nuanced. The process is lost on it."*
+> — [chat 2026-02-27]
 
 The hardening consensus by Q1 2026: even when the model "sounds right,"
 it's regurgitating English translations of secondary commentary, not
@@ -168,8 +170,7 @@ By May 2026 the chat's working answer for AI-and-Torah:
 4. **Buffer layers between AI and talmidim.** Curated apps
    (maamorim.app, mishna.me, megillah.app) instead of raw
    AI-generated content.
-5. **Document principles** (Yossi Yaffe's draft) and share community
-   prompts.
+5. **Document principles** and share community prompts.
 6. **Hashkafic framing**: AI provides *bina*; humans provide
    *chochma* and *neshama*. AI doesn't replace shluchim; it extends
    their reach.

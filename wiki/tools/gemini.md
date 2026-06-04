@@ -13,12 +13,18 @@ The model with the deepest *integration* story — Workspace, Gmail,
 Drive, Docs, Sheets, Calendar — and the fastest swings in perceived
 quality.
 
+[external: model naming has continued evolving since the chat window.
+The version numbers below (Gemini 2.5 Pro, Gemini 3, etc.) reflect
+the chat's references; Google's actual release cadence may differ.
+Treat version names as approximate. — external: knowledge cutoff
+~mid-2026]
+
 ## Surfaces
 
 - **gemini.google.com** — consumer chat.
 - **aistudio.google.com** — free high-token API access, plus
-  visual/vibe-coding canvas. Heavily used by [[../people/mendy-shishler]]
-  to build [Tenpr.app](https://tenpr.app). [chat 2025-11-03]
+  visual/vibe-coding canvas. Used to build
+  [Tenpr.app](https://tenpr.app). [chat 2025-11-03]
 - **Gemini in Google Workspace** — `=AI(...)` formula in Sheets, Gmail
   side-panel, Docs draft mode.
 - **NotebookLM** — see [[notebooklm]]; really a separate product but
@@ -36,7 +42,7 @@ quality.
 - Gemini 2.5 Pro (early benchmark winner, late 2025)
 - Gemini 3 Pro (released 2025-11-20, "massive upgrade")
 - **Gemini 3.5 Flash** — fast but hallucinates. *Never use Flash when
-  you need accuracy.* [chat 2026-01-22, Mendy Shishler]
+  you need accuracy.* [chat 2026-01-22]
 - Gemini Pro 3.1 — released 2026-02-22, "Very strong model."
 
 ## What the chat uses it for
@@ -46,13 +52,13 @@ quality.
 - **Hebrew translation** — strong, second only to Qwen for pure
   translation work. [[../topics/hebrew-yiddish]]
 - **Spreadsheet wrangling at scale** — the `=AI(...)` Sheets formula
-  is unique. [chat 2026-03-19, Rabbi Zalman Abraham]
+  is unique. [chat 2026-03-19]
 - **Email enrichment / contact research** — concatenate all known
   fields → `=AI("find email for...")` → drag down.
 - **Deep Research** — Gemini's report-generation flow; bundled with
   paid tiers.
 - **Vibe coding** in Google AI Studio (sometimes preferred over Claude
-  for visual layout). [chat 2025-11-20, Mendy Shishler]
+  for visual layout). [chat 2025-11-20]
 - **Drive search** — *"asking Gemini to find information in my drive
   has made my life so much easier."* [chat 2026-01-20, +1 805-668-1024]
 - **Storybook generation** — Gemini Storybook (`gemini.google/overview/storybook/`)
@@ -74,7 +80,7 @@ quality.
 ## Weaknesses
 
 - **Quality volatility.** "Gemini recently took a turn for the worse.
-  Giving bad information regularly." [chat 2026-04-21, Mendel Super]
+  Giving bad information regularly." [chat 2026-04-21]
 - **Flash hallucinates badly.** Distinct from Pro. Users have
   repeatedly recommended "*Pro only*."
 - **Gems chat history confusing** — each Gem use creates a new chat
@@ -96,14 +102,12 @@ quality.
 
 ## Notable usage threads
 
-- [chat 2026-01-15, Yonatan Azrielant] shared a `gemini.google.com/share/`
-  link demonstrating LinkedIn-grade Jewish alumni ranking from a single
+- [chat 2026-01-15] shared a `gemini.google.com/share/` link
+  demonstrating LinkedIn-grade Jewish alumni ranking from a single
   prompt.
-- [chat 2025-09-22] Mendy Shishler's NotebookLM Hebrew-sicha → speech
-  pipeline.
-- [chat 2026-05-19] Rabbi Zalman Abraham's Claude Design sicha
-  infographic — Gemini for the underlying research, Claude for the
-  visualization.
+- [chat 2025-09-22] NotebookLM Hebrew-sicha → speech pipeline.
+- [chat 2026-05-19] Claude Design sicha infographic — Gemini for the
+  underlying research, Claude for the visualization.
 
 ## Open questions
 

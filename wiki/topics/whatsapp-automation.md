@@ -19,11 +19,11 @@ and accounts are being disabled.**
 
 > *"WhatsApp is very smart; can block you based on sending more than
 > usual, even in legit use."*
-> — [chat 2026-03-06, Rayi Stern]
+> — [chat 2026-03-06]
 
 > *"Many shluchim have taken it too far with Reach app and had their
 > WhatsApp disabled."*
-> — [chat 2026-03-13, Yonatan Azrielant]
+> — [chat 2026-03-13]
 
 > *"Recently started glitching, account restricted twice."*
 > — on WASender after 5 years of clean use, [chat 2025-12-04, +1 203-887-6044]
@@ -46,7 +46,7 @@ and accounts are being disabled.**
 
 ## What the chat does instead
 
-- **Export the chat, analyze with AI.** Meir Sudak's Selenium-based
+- **Export the chat, analyze with AI.** A Selenium-based
   exporter [chat 2026-03-22] opens WhatsApp Web, logs in, exports by
   date range and contact. Lives on your machine.
 - **WappMaster Contacts Extractor** Chrome extension. [chat 2026-05-09]
@@ -75,7 +75,7 @@ The fully kosher half of WhatsApp + AI:
   automation."* [chat 2026-02-27]
 - **Chatbase** — WhatsApp bot builder. *"Good but a bit expensive."*
   [chat 2026-05-17, +39 340 359 5009]
-- **Spreadsheet HYPERLINK formula** (Avi Winner) for one-tap
+- **Spreadsheet HYPERLINK formula** for one-tap
   personalized message links. The safest of all.
   [chat 2026-03-06]
 
@@ -99,5 +99,4 @@ script that saves all deleted messages on WhatsApp."* (Android.)
 - [[../tools/nanoclaw]]
 - [[../tools/notebooklm]]
 - [[crm-automation]]
-- [[../people/meir-sudak]]
 - [[../themes/vibe-coding]]

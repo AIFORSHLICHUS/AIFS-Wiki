@@ -49,7 +49,7 @@ The wiki:
 
 - Catalogs every tool the chat has named.
 - Carries forward the consensus (what works) without losing the
-  dissent (Mendel Super's flyer skepticism, Rayi Stern's vibe-coding
+  dissent (design skeptics' flyer critique, community vibe-coding
   warnings).
 - Makes the chat *queryable* in a way the chat isn't.
 - Compounds — new chat snapshots ingest into the existing structure
@@ -76,7 +76,8 @@ implement:
 - **[[../tools/notebooklm]] with the Rebbe's Torah** — Karpathy's
   pattern applied to Chassidus.
 - The in-progress **9 principles for AI Torah citation**
-  ([[../people/yossi-yaffe]]) is essentially a schema for a Torah wiki.
+  ([[../conversations/torah-accuracy-debate]]) is essentially a schema
+  for a Torah wiki.
 
 ## Limits of the pattern
 

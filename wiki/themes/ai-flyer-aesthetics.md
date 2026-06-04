@@ -19,15 +19,15 @@ instantly. Why? And what does it take to make a flyer that looks
 **Pro-AI-for-flyers (most members):**
 
 - *"AI can provide the base; humans polish."* Time-poor shluchim get a
-  flyer in 10 minutes, not 10 days. Mendy Shishler, [chat 2026-02-11].
+  flyer in 10 minutes, not 10 days. [chat 2026-02-11]
 - *"If hiring a designer costs $600 and AI costs $0, the economics are
   not subtle."*
 
-**Skeptical (vocal minority, esp. Mendel Super, +1 971-329-6661, Avi Winner):**
+**Skeptical (vocal minority):**
 
 - *"Telltale AI flyer. The design is busy and all over the place. It
   might be easy to produce, but it's not good graphics."*
-  — [chat 2026-02-11, Mendel Super]
+  — [chat 2026-02-11, +1 971-329-6661]
 - *"People want to hear *you*. They see AI, they see it's not you."*
   — [chat 2026-05-21, +1 971-329-6661]
 - AI graphics shouldn't replace human designers any more than AI text
@@ -35,7 +35,7 @@ instantly. Why? And what does it take to make a flyer that looks
 
 ## The 7 AI Tells
 
-The canonical taxonomy, distilled by Mendy Shishler's master prompt
+The canonical taxonomy, distilled from the master prompt
 ([chat 2026-02-11–12]) and refined by [chat 2026-04-20, +1 737-786-5770].
 See [[../resources/designer-prompt]] for the full system prompt.
 
@@ -69,7 +69,7 @@ sentence order. Two workable patterns:
    [chat 2026-05-19, +44 7980-795936]
 2. **Background-only.** Generate the visual background in
    [[../tools/nano-banana]] / [[../tools/gemini]], add all text in Canva.
-   [chat 2025-11-20, Yisroel Chaim Shuchat]
+   [chat 2025-11-20]
 
 Claude is "needs reminding to write RTL and keep sentence order" —
 better than GPT for the *attempt* but still imperfect.
@@ -86,8 +86,8 @@ A pattern that recurs across many threads:
    [[../tools/nano-banana]] (Google AI Studio) for the strongest visual
    output.
 3. **Edit text and details in [[../tools/canva]].** Magic Layers (new
-   feature, [chat 2026-03-08, Mendy Shishler]) decomposes flat AI
-   images into editable elements.
+   feature, [chat 2026-03-08]) decomposes flat AI images into editable
+   elements.
 4. **Optional: Adobe Firefly / [[../tools/canva]] to import as editable.**
 
 [chat 2026-04-25, +1 716-262-2106] template prompt for redesigning an
@@ -103,13 +103,12 @@ uploaded flyer:
 
 - Generating multiple **consistent** images for a series. Workaround:
   describe a reference image in JSON detail (via Google Lens), paste
-  the JSON into each successive generation. [chat 2026-05-20, Mendy Mann]
+  the JSON into each successive generation. [chat 2026-05-20]
 - AI **can't see what it generated**, so edits revert to defaults.
-  [chat 2026-03-20, Elazar Green]
+  [chat 2026-03-20]
 - Chabad-specific iconography fails reliably: menorah arm count,
-  Luchos shape, kippah/long-sleeve consistency. Yossi Yaffe and others
-  are working on a "Chabad image skill" custom Gem.
-  [chat 2026-05-19, +1 972-58-685-1038]
+  Luchos shape, kippah/long-sleeve consistency. A "Chabad image skill"
+  custom Gem is in progress. [chat 2026-05-19, +1 972-58-685-1038]
 
 ## Related
 

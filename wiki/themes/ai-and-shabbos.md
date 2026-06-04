@@ -79,5 +79,3 @@ answer.
 - [[vibe-coding]]
 - [[../topics/crm-automation]]
 - [[../topics/whatsapp-automation]]
-- [[../people/didy-waks]] — heavy Dispatch user with practical
-  workarounds.

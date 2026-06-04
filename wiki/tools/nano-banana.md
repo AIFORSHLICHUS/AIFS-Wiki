@@ -29,13 +29,13 @@ Variants:
 ## What the chat uses it for
 
 - **Flyer backgrounds.** "You cannot compare its images. Accuracy, text
-  and real-world understanding are unmatched." [chat 2025-11-28, Mendy Shishler]
+  and real-world understanding are unmatched." [chat 2025-11-28]
 - **Hebrew text in images** — better than ChatGPT at first attempt, but
   see [[../topics/hebrew-yiddish]].
 - **Logo design** — substantially better than ChatGPT.
   [chat 2025-08-26, Shneur Druk]
 - **Multi-image generation in parallel** via OpenArt.ai wrapper.
-  [chat 2026-02-12, Mendy Shishler]
+  [chat 2026-02-12]
 - **Brand-consistent flyer sets** — with reference images and detailed
   prompts.
 
@@ -50,9 +50,9 @@ Variants:
 ## Weaknesses
 
 - **Quality loss on edits.** "When you tell it to make changes, it
-  does so perfectly, but loses image quality." [chat 2025-12-03,
-  Mendy Shishler]. Workaround: remove background before editing, then
-  add background back. [chat 2025-12-03, Mendy Mann]
+  does so perfectly, but loses image quality." [chat 2025-12-03].
+  Workaround: remove background before editing, then add background back.
+  [chat 2025-12-03]
 - **Watermark** on non-Pro outputs.
 - **"I'm just a language model" errors** recurring on Nano Banana flows.
   [chat 2026-02-18]
@@ -62,7 +62,7 @@ Variants:
 
 ## Now superseded for some uses
 
-[chat 2026-01-21, Mendy Shishler]:
+[chat 2026-01-21]:
 
 > *"Since GPT 5.2 came out it's really strong. The new GPT image model
 > is better than Gemini's Nano Banana Pro in my experience."*

@@ -17,8 +17,8 @@ power-users and builders.
 
 - **Free with generous limits**, including a **$300 API credit** for
   new accounts.
-- **Vibe-coding canvas** — visual layout tool that Mendy Shishler used
-  to build [[chabad-apps]]'s tenpr.app. *"Very impressed with speed
+- **Vibe-coding canvas** — visual layout tool used to build
+  [[chabad-apps]]'s tenpr.app. *"Very impressed with speed
   and quality vs. Claude."* [chat 2025-11-03]
 - **Best place to test Nano Banana** at scale.
 - **No chat-history persistence** (depending on settings) — useful for
@@ -28,7 +28,7 @@ power-users and builders.
 ## What the chat uses it for
 
 - **Image generation at scale** with [[nano-banana]].
-- **Vibe coding** small Chabad apps (Mendy Shishler, others).
+- **Vibe coding** small Chabad apps.
 - **Long-context experiments** that exceed Gemini-app limits.
 - **API testing** before integrating into a real app.
 

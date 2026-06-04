@@ -11,7 +11,7 @@ updated: 2026-05-25
 
 AI presentation / website / document builder. *"Once you create a
 few projects and get the hang of it it's really easy and quick."*
-— [chat 2025-08-06, Rayi Stern]
+— [chat 2025-08-06]
 
 ## What it is
 
@@ -26,13 +26,13 @@ Torah-class slide decks and weekly shiur visuals.
 - **Hebrew-school class projects** with kids. [chat 2025-08, Shaul Wasserman]
 - **One-page websites** as Gamma sites (cheaper than building).
 - **Funding presentations** when paired with Manus / Genspark.
-- **Visual presentations for shiurim** — [chat 2026-05-18, Yisroel Chaim Shuchat]:
+- **Visual presentations for shiurim** — [chat 2026-05-18]:
   *"Google NotebookLM and Gamma are pretty good."*
 
 ## Example
 
-**artificialwisdom.ai** is a Gamma site, built by Rayi Stern as a demo
-of capabilities. [chat 2025-08-06]
+**artificialwisdom.ai** is a Gamma site, built as a demo of capabilities.
+[chat 2025-08-06]
 
 ## Strengths
 
@@ -49,7 +49,7 @@ of capabilities. [chat 2025-08-06]
 
 ## Competing tools
 
-- **Beautiful.ai** — presentation design. [chat 2025-12-22, Rayi Stern]
+- **Beautiful.ai** — presentation design. [chat 2025-12-22]
 - **Napkin.ai** — `napkin.ai` — presentation design.
 - **SlideSpeak** — `slidespeak.co` — design from transcripts.
 - **NotebookLM** — now has slide-deck generation built in. [chat 2026-01-09]
@@ -61,4 +61,3 @@ of capabilities. [chat 2025-08-06]
 - [[../topics/shiur-prep]]
 - [[notebooklm]]
 - [[manus]]
-- [[../people/rayi-stern]]

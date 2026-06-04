@@ -17,7 +17,7 @@ big-ticket *flyer designer* prompt has its own page —
 
 ## Writing &amp; voice
 
-### Shmuli Neft's anti-AI style sheet
+### Anti-AI writing-style sheet
 
 [chat 2025-08-04]. The most-quoted writing-style prompt in the chat.
 
@@ -80,7 +80,7 @@ Simple version, [chat 2026-04-21, +33 6 68 42 07 70]:
 
 ### Pre-response clarification
 
-[chat 2025-08-19, Mendy Shishler]:
+[chat 2025-08-19]:
 
 > *"Ask me clarifying questions to make sure we're on the same page
 > before responding or doing a task."*
@@ -89,7 +89,7 @@ Simple version, [chat 2026-04-21, +33 6 68 42 07 70]:
 
 ### Rate-your-response
 
-[chat 2025-08-19, Mendy Shishler]:
+[chat 2025-08-19]:
 
 > *"Rate your response out of 10."*
 >
@@ -120,7 +120,7 @@ the model relitigating the whole plan.
 
 ### Meta-prompting
 
-[chat 2026-02-11, Yonatan Azrielant]:
+[chat 2026-02-11]:
 
 > *"Help me write a great prompt for [tool] for [task]. Ask me
 > clarifying questions until you have what you need to make the
@@ -136,7 +136,7 @@ Generalization: ask AI how to ask AI. It's surprisingly good at this.
 
 ### Ashkenazi TTS pronunciation trick
 
-[chat 2025-11-21, Rayi Stern + Elisha Pearl]:
+[chat 2025-11-21]:
 
 > *"Tell it to write in Hebrew with nikkud such that a TTS will
 > pronounce in Ashkenazis."*
@@ -149,7 +149,7 @@ ElevenLabs V3 then says it correctly. Or transliterate as `khabad` /
 
 ## ChabadOne page builder
 
-[chat 2026-04-24, Yisroel Chaim Shuchat]:
+[chat 2026-04-24]:
 
 > *"This is a platform-agnostic system prompt for building modern,
 > clean, mobile-responsive HTML pages that render correctly inside
@@ -174,7 +174,7 @@ Full version on shluchimexchange.ai at
 
 ## Sora prompt (avoiding demographic refusals)
 
-[chat 2025-11-20, Rabbi Chaim Lazaroff + Mordechai Lightstone].
+[chat 2025-11-20].
 
 Avoid: *"Jewish women," "Caucasian," "Jewish-looking."*
 
@@ -191,7 +191,7 @@ Why: describes attire, actions, and scene — not protected attributes.
 
 ### From a Hebrew sicha
 
-[chat 2025-09-22, Mendy Shishler]:
+[chat 2025-09-22]:
 
 > *"Create structured, detailed and comprehensive speech notes based
 > on this talk. It should follow a logical structure. I'm not looking
@@ -216,7 +216,7 @@ Why: describes attire, actions, and scene — not protected attributes.
 
 ## Jewish-name detection
 
-Two Yonatan Azrielant gists:
+Two community gists:
 
 - **Research agent** (full online lookup): `gist.github.com/jonazri/006e3b667dc309f8db4d9875ce8a51e1`
 - **Single-prompt scorer** (name-only): `gist.github.com/jonazri/b353b67db66a902ba1bcf66c94d48b62`

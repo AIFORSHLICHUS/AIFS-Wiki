@@ -20,8 +20,7 @@ actually edit text after AI generated the image.
    you control.
 2. **Magic Layers** — released early 2026. Decomposes a flat AI image
    into separate editable elements. *"Game-changer for editing
-   AI-generated ads."* [chat 2026-03-08, Mendy Shishler]. Available on
-   Pro accounts.
+   AI-generated ads."* [chat 2026-03-08]. Available on Pro accounts.
 3. **Canva AI itself** — built-in generative design. Connectors to
    ChatGPT and Claude via MCP.
 
@@ -34,8 +33,7 @@ actually edit text after AI generated the image.
 > images of the slideshow. Canva AI (once it receives it) takes some
 > liberties. But it gives you a very good base to start with."*
 
-[chat 2025-11-20, Yisroel Chaim Shuchat] — the standard
-ChatGPT-prompts-Canva flow:
+[chat 2025-11-20] — the standard ChatGPT-prompts-Canva flow:
 
 > *"I tell ChatGPT what information needs to be on the flyer and it
 > puts together a prompt for me (it also includes my brand colors). I
@@ -68,7 +66,7 @@ results. Genuinely useful for batch flyer work.
 
 ## Affinity (Canva's Photoshop alternative)
 
-[chat 2026-05-13, Mendy Shishler]: *"Canva Pro subscription can use
+[chat 2026-05-13]: *"Canva Pro subscription can use
 more powerful upscale (and other AI) features on Affinity."* Affinity
 is Canva-owned; included with Canva Pro. Useful for upscaling logos
 and post-flyer touch-up.

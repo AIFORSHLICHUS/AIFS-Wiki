@@ -26,7 +26,7 @@ illustrations, infographics, social posts, logos, photo editing.
 | Upscaling | **Upscayl** / **Upscale.media** / Canva Pro upscale via Affinity |
 | Background removal | **Canva** Magic Erase |
 
-## The consistency workflow (Mendy Mann's JSON method)
+## The consistency workflow (JSON method)
 
 [chat 2026-05-20]:
 
@@ -80,4 +80,3 @@ should remain unchanged."*
 - [[../tools/nano-banana]]
 - [[../tools/canva]]
 - [[../themes/ai-flyer-aesthetics]]
-- [[../people/mordechai-lightstone]]

@@ -10,8 +10,8 @@ updated: 2026-05-25
 # Dicta / Mekorotai
 
 The **"Rabbinic AI"** — purpose-built to answer Torah questions with
-verified citations, refusing what it can't ground. Developed by
-Professor Moshe Koppel and team at Dicta (Bar-Ilan).
+verified citations, refusing what it can't ground. Developed by the
+Dicta team at Bar-Ilan University.
 
 ## What it is
 
@@ -33,26 +33,29 @@ most ambitious shot at that vision in the chat's window.
 ## Status (as of 2026-05)
 
 - **Demoed 2025-11-13**, not yet generally available.
-- Promised release *"this year"* per Elisha Pearl at the demo.
+- Promised release *"this year"* at the demo.
   [chat 2025-11-14]
 - [chat 2026-02-17, +1 415-634-7727] asked if it was working: **"Nah."**
   Still not reliably usable.
-- [chat 2025-12-21, +972 54-239-9791] asked for an update; Elisha:
+- [chat 2025-12-21, +972 54-239-9791] asked for an update:
   *"It is heavily ongoing and in process."*
+
+[external: public availability status unconfirmed as of this wiki's
+update. The chat's report — "not reliably working" as of early 2026 —
+is the most recent data point. Check chabad.mekorotai.dicta.org.il
+for current status. — external: knowledge cutoff ~mid-2026]
 
 ## Other Dicta products mentioned
 
 - `rav.dicta.org.il` — Hebrew NLP for Torah. [chat 2025-12-21]
 - Hebrew language analysis tools generally.
 
-## People
+## Background
 
-- **Professor Moshe Koppel** — Bar-Ilan computer scientist; major
-  Hebrew NLP pioneer; *also* a serious *baal nigleh* who teaches *Toras
-  Ohr*. Billed at Kinus as having *"major giluyim"* (revelations) on
-  AI. [chat 2025-11-14]
-- **Elisha Pearl** — closest to the project from the AIFS side;
-  primary commentator on its progress. [[../people/elisha-pearl]]
+The tool was developed at Bar-Ilan by a team with deep Hebrew NLP
+expertise; the principal researcher was introduced at Kinus as having
+*"major giluyim"* (revelations) on AI — also described as a serious
+*baal nigleh* who teaches *Toras Ohr*. [chat 2025-11-14]
 
 ## Open questions
 
@@ -67,4 +70,3 @@ most ambitious shot at that vision in the chat's window.
 - [[../conversations/kinus-ai-day-nov-2025]]
 - [[notebooklm]] — the workable-today substitute.
 - [[dach-dev]] — plain-text Chassidic corpus.
-- [[../people/elisha-pearl]]

@@ -37,20 +37,20 @@ exists; paid for bulk.
 
 ### Turboscribe
 
-Best $/hour for bulk English. [chat 2026-05-12, Rabbi Zalman Abraham]:
+Best $/hour for bulk English. [chat 2026-05-12]:
 *"Free for three transcriptions per day and $20/month for bulk files.
 It's the best deal I've found for bulk transcription. I've managed to
 transcribe hundreds of hours in a single month."*
 
 ### Whisper (OpenAI)
 
-The underlying model many tools wrap. [chat 2025-08-16, Elisha Pearl]:
+The underlying model many tools wrap. [chat 2025-08-16]:
 *"Whisper models are the best. 11labs is also very good but more
 expensive. Parakeet models also very strong. All excellent for both
 Hebrew and English. Can work for Yiddish."*
 
 Used by:
-- Elazor Green in Hecher CRM (Whisper → Claude → CRM update).
+- Hecher CRM (Whisper → Claude → CRM update).
 - [chat 2026-05-20]: *"Claude directed me to use whisper to scrape and
   rename my Gemara classes."*
 
@@ -70,20 +70,20 @@ The meeting-transcription pack. Tradeoffs:
   [chat 2026-05-13]
 - **Otter.ai** — works for in-person; **warning**: aggressive
   contact-permission requests, will try to spam your address book.
-  [chat 2025-11-17, Mordechai Lightstone]
+  [chat 2025-11-17]
 - **Fireflies** — auto-joins meetings on calendar; can attend two
-  simultaneously. [chat 2025-08-05, Yonatan Azrielant]
+  simultaneously. [chat 2025-08-05]
 
 ### Wispr Flow
 
 Voice-to-text *keyboard replacement*. Pre-saved templates ("snippets")
-auto-expand. [chat 2026-04-27, Meir Sudak]: *"voice to text with ai —
+auto-expand. [chat 2026-04-27]: *"voice to text with ai —
 you can add snippets meaning you can have pre-written templates."*
 Mobile only on Android via waitlist as of [2026-02-15].
 
 ### MacWhisper
 
-Local Mac app for heavy use. [chat 2025-11-28, Elisha Pearl]:
+Local Mac app for heavy use. [chat 2025-11-28]:
 *"goodsnooze.gumroad.com/l/macwhisper"*. One-time purchase, runs Whisper
 on your machine.
 

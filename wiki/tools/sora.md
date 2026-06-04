@@ -34,9 +34,9 @@ desktop. Invite codes traded heavily in chat through Oct-Nov 2025.
 
 ## The famous "demographic prompt" thread
 
-[chat 2025-11-20, Rabbi Chaim Lazaroff]: tried to generate Jewish
-women lighting Shabbos candles; Sora returned women in burkas. The
-fix, worked out with Mordechai Lightstone:
+[chat 2025-11-20]: tried to generate Jewish women lighting Shabbos
+candles; Sora returned women in burkas. The fix, worked out in the
+thread:
 
 **Words Sora blocks**: *"Jewish women," "Caucasian," "white women,"
 "Jewish-looking."*
@@ -52,8 +52,8 @@ fix, worked out with Mordechai Lightstone:
 > *"A group of friends wearing smart casual party outfits at a
 > festive Jewish event."*
 
-Mordechai's nuance: *"Chabad"* or *"Chasidic"* tends to outperform
-*"modest"* (which triggers tichel/burka imagery).
+The nuance from the thread: *"Chabad"* or *"Chasidic"* tends to
+outperform *"modest"* (which triggers tichel/burka imagery).
 
 See [[../resources/master-prompts]] for the full ready-to-paste
 prompt.
@@ -75,8 +75,8 @@ prompt.
 
 - [chat 2026-05-07]: user transitioned from Sora to **Grok** for
   educational videos.
-- **Kling.ai** for animated videos longer than 10 seconds (e.g.,
-  Rabbi Zalman Abraham, [chat 2026-02-16]).
+- **Kling.ai** for animated videos longer than 10 seconds.
+  [chat 2026-02-16]
 - **Veo (Google)** mentioned as emerging alternative.
 - **Synthesia / D-ID / HeyGen** for talking-avatar use.
 
@@ -86,4 +86,3 @@ prompt.
 - [[../topics/flyer-design]] — same demographic-prompt issue applies
   to image gen.
 - [[../resources/master-prompts]]
-- [[../people/mordechai-lightstone]]

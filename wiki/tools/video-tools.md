@@ -17,9 +17,9 @@ and for adding subtitles.
 
 | Tool | Strength | Notes |
 | --- | --- | --- |
-| **VideoLeap** | Camera-roll clip → Instagram reel. Rayi Stern: *"best I've seen."* [chat 2025-11-24] | Chinese origin; mobile-first. |
+| **VideoLeap** | Camera-roll clip → Instagram reel. *"Best I've seen."* [chat 2025-11-24] | Chinese origin; mobile-first. |
 | **CapCut** | Free; AI auto-cut option; subtitles. [chat 2026-01-09, 2026-05-24] | Best for quick reels. |
-| **Descript** | Video + audio editing with auto-captioning. [chat 2025-08-21, Elisha Pearl] | Subscription. |
+| **Descript** | Video + audio editing with auto-captioning. [chat 2025-08-21] | Subscription. |
 | **Gling.ai** | AI video editing / shorts creation. | — |
 | **Filmora** (Wondershare) | Full editor. | — |
 | **Pictory.ai** | Shorts from long-form content. | — |
@@ -28,7 +28,7 @@ and for adding subtitles.
 | **Kapwing** | Browser-based editing. | — |
 | **Captions.AI** | Auto-subtitles, $11/mo, works for Hebrew. [chat 2025-11-27, +1 954-478-8015] | — |
 | **Riverside.fm** | Recording + auto-subtitles for shiurim. [chat 2025-08-21] | Web-based. |
-| **Synthesys AI VSL Studio** | AI video sales letters. [chat 2025-12-05, Rayi Stern] | Newer. |
+| **Synthesys AI VSL Studio** | AI video sales letters. [chat 2025-12-05] | Newer. |
 | **YouTube Create** | YouTube's free editor. Alternative to CapCut. [chat 2026-01-09] | Mobile. |
 | **Google Vids** | Workspace's video creator. [chat 2025-08-01] | — |
 
@@ -58,7 +58,7 @@ Separate path — when you want a *talking-head* video without filming:
 ## Animated video
 
 - **Kling 3.0** — animated videos longer than 10 seconds.
-  [chat 2026-02-16, Rabbi Zalman Abraham]
+  [chat 2026-02-16]
 - **Veo (Google)** — emerging video gen.
 - **[[sora]]** — for shorter clips with demographic-prompt caveats.
 - **Grok** — replaced Sora for one user. [chat 2026-05-07]
@@ -67,8 +67,7 @@ Separate path — when you want a *talking-head* video without filming:
 
 - **Captions.AI** confirmed works. [chat 2025-11-27]
 - **Riverside.fm** for auto-subtitled recording.
-- **berel.me/jemsubtitles** by Berel Marozov for shliach-specific
-  workflows. [chat 2026-01-27]
+- **berel.me/jemsubtitles** for shliach-specific workflows. [chat 2026-01-27]
 
 ## Open issue
 

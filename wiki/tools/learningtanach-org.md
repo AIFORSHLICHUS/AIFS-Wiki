@@ -9,7 +9,7 @@ updated: 2026-05-25
 
 # learningtanach.org
 
-Yossi Yaffe's interactive Tanach learning tool. Best-known for the
+Interactive Tanach learning tool. Best-known for the
 **Megillas Esther reader** featuring high-quality images of the story
 based on excavations and academic archaeology.
 
@@ -26,9 +26,8 @@ Multi-language support. ~100+ hours of work went into the images and
 
 ## The Purim 2026 launch
 
-[chat 2026-03-04] post-mortem from Yossi Yaffe is one of the most
-valuable artifacts in the chat — a candid public retrospective on
-shipping AI-coded software:
+[chat 2026-03-04] post-mortem is one of the most valuable artifacts in
+the chat — a candid public retrospective on shipping AI-coded software:
 
 > *"I kept adding pieces using AI tools. Each addition made the
 > codebase more fragile. By the end, I had six different timing
@@ -51,17 +50,16 @@ days** post-Purim. Worth it.
 - The format — paragraph-by-paragraph with image — landed with users.
 - Yossi posted detailed lessons publicly, becoming a reference point.
 
-## Lessons Yossi shared
+## Lessons shared
 
 - Restart the chat / refactor before adding features.
-- Don't release vibe-coded apps with login functionality (he didn't,
-  good call).
+- Don't release vibe-coded apps with login functionality.
 - Test early, commit often.
 - Be transparent about failures so others learn.
 
-## Yossi's follow-on projects
+## Follow-on projects
 
-- **Tzvi-to-Tzadik** — `tzvi-to-tzadik.lovable.app` — his grandfather's
+- **Tzvi-to-Tzadik** — `tzvi-to-tzadik.lovable.app` — a grandfather's
   poems gifted to the Rebbe, with AI-powered source exploration.
   [chat 2026-03-29]
 - **Rashi Roots Map / Atlas of the Sages** — intellectual-history
@@ -73,7 +71,6 @@ days** post-Purim. Worth it.
 
 ## Related
 
-- [[../people/yossi-yaffe]]
 - [[../themes/vibe-coding]]
 - [[../themes/ai-and-torah-accuracy]]
 - [[../topics/hebrew-yiddish]]

@@ -14,9 +14,9 @@ forces an LLM to behave like *"the world's greatest designer who uses
 AI to create designs that truly look like they were designed by a human,
 even in the eyes of a keenly experienced human designer."*
 
-Originally constructed by Mendy Shishler [chat 2026-02-11–12], later
-refined by +1 (737) 786-5770 [chat 2026-04-20], used by many builders
-and on [[../tools/shluchimexchange-ai]]. See
+Originally constructed [chat 2026-02-11–12], later refined by
++1 (737) 786-5770 [chat 2026-04-20], used by many builders and on
+[[../tools/shluchimexchange-ai]]. See
 [[../themes/ai-flyer-aesthetics]] for theory.
 
 ## The role definition
@@ -141,8 +141,8 @@ The vision-check loop:
 ## Caveats
 
 - Even with this prompt, AI flyers still need human polish in Canva.
-- The skeptics (Mendel Super, +1 971-329-6661) maintain that no prompt
-  fully solves the problem. See [[../themes/ai-flyer-aesthetics]].
+- Skeptics maintain that no prompt fully solves the problem. See
+  [[../themes/ai-flyer-aesthetics]].
 - The prompt is most effective with [[../tools/nano-banana]] or
   ChatGPT (post-GPT 5.2), less so with Gemini Flash.
 

@@ -29,10 +29,15 @@ Subscription tiers:
 
 - **Samsung Galaxy Store** — download Perplexity through the Galaxy
   Store on a Samsung phone; auto-Pro for one year. *"You can then access
-  that account from anywhere."* [chat 2025-08-04, Rabbi Zalman Abraham]
+  that account from anywhere."* [chat 2025-08-04]
   — **still works**.
 - **PayPal subscription path** — expired **2025-12-31**.
-  [chat 2026-01-22, Yisroel Chaim Shuchat]
+  [chat 2026-01-22]
+
+  [external: the PayPal free-year path was confirmed expired
+  2025-12-31 by the chat itself [chat 2026-01-22]. The Samsung
+  Galaxy Store hack was still reported as working as of the chat
+  window; verify before relying.]
 
 ## What the chat uses it for
 
@@ -53,7 +58,7 @@ Subscription tiers:
 
 ## Weaknesses
 
-- "Weaker for nuance" than ChatGPT/Claude. [chat 2025-09-05, Rabbi Zalman Abraham]
+- "Weaker for nuance" than ChatGPT/Claude. [chat 2025-09-05]
 - Even with web search on, still hallucinates occasionally.
 - Voice mode "perplexing." [chat 2025-09-11, +1 971-329-6661]
 - Periodic outages — "spazzing out, gets stuck on 'thinking'."
@@ -61,15 +66,14 @@ Subscription tiers:
 
 ## Comet (agentic browser)
 
-[chat 2025-08-19, Yonatan Azrielant] introduced Comet. Use cases:
+[chat 2025-08-19] introduced Comet. Use cases:
 
 - Auto-fill grant applications.
 - Multi-page web tasks (find businesses, scrape public info, compose
   emails).
 - Form-heavy administrative work.
 
-Requires Max ($200/mo) or invite. Yonatan distributed 2 free invites
-in early threads.
+Requires Max ($200/mo) or invite.
 
 ## Related
 

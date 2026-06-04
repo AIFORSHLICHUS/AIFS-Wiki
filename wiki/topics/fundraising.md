@@ -14,7 +14,7 @@ wins.
 
 ## Grant writing
 
-Pattern from [chat 2025-08-19, Yossi Yaffe]:
+Pattern from [chat 2025-08-19]:
 
 > *"It has been very inhibiting or time consuming at times to enter
 > grant proposals. AI has been very helpful in filling out grant
@@ -48,18 +48,17 @@ The Jeff Brooks technique, applied:
 | Goal | Tool |
 | --- | --- |
 | Top Jewish philanthropists in a city (public info) | **Claude Cowork** — produced spreadsheet, [chat 2026-04-19, Shmulie Cunin] |
-| Find emails for a known person | **Gemini `=AI(...)` formula in Google Sheets** — concatenate all known fields per row, drag the formula down. [chat 2026-03-19, Rabbi Zalman Abraham] |
+| Find emails for a known person | **Gemini `=AI(...)` formula in Google Sheets** — concatenate all known fields per row, drag the formula down. [chat 2026-03-19] |
 | Background on a *baal habayis* | **Perplexity Spaces** with relevant uploads; **Hatch.ai** (Lubavitch-owned, paid). |
-| Score names for likely Jewish | **Yonatan Azrielant's gists** — see below. |
+| Score names for likely Jewish | **Community gists** — see below. |
 | CRM enrichment (lapsed donors, next-best-action) | Agents on **Attio** / **LGL** / **Hecher**. See [[crm-automation]]. |
 
 > *"It goes through specific lists, researches and updates."*
-> — [chat 2026-03-19, Rabbi Zalman Abraham], describing his Attio agent.
+> — [chat 2026-03-19], describing an Attio agent.
 
 ## Jewish-name detection prompts
 
-Two community-maintained open gists by Yonatan Azrielant
-[chat 2026-05-03]:
+Two community-maintained open gists [chat 2026-05-03]:
 
 - **Agent**: `gist.github.com/jonazri/006e3b667dc309f8db4d9875ce8a51e1`
   Walks each name, researches online, scores Jewish likelihood with
@@ -70,7 +69,7 @@ Two community-maintained open gists by Yonatan Azrielant
 Run on AI Studio, Vercel, OpenAI Console, or Anthropic Console with a
 loop over your list. *"Use responsibly."*
 
-Also see Yisroel Chaim Shuchat's full obituary + Jewish-score custom
+Also see the community's full obituary + Jewish-score custom
 GPT [chat 2025-09-03, +1 347-515-0835] — 2-sheet Excel workbook with
 Jewish Score evidence, spouse cross-reference, source URLs.
 
@@ -78,8 +77,8 @@ Jewish Score evidence, spouse cross-reference, source URLs.
 
 Use cases shipped:
 
-- **Cypcampaign.lovable.app** — Avi Winner's end-of-year volunteer +
-  donor dashboard. [chat 2025-12-14]
+- **Cypcampaign.lovable.app** — end-of-year volunteer + donor
+  dashboard. [chat 2025-12-14]
 - **Campaign page generation** in Claude → HTML in ChabadOne via the
   iframe trick. [[chabadone-integration]]
 - **Donor thank-you letters at scale.** AI batches the names; you
@@ -97,16 +96,15 @@ Use cases shipped:
 
 For real bookkeeping, **QuickBooks** is the default; **Kick.co** and
 **Booking.ai** mentioned but unfavorably ([chat 2025-10-22] —
-"underwhelming, similar to Mint.com"). Rabbi Zalman Abraham reports
-using AI for QuickBooks workflow [chat 2026-05-18] but didn't share
-specifics.
+"underwhelming, similar to Mint.com"). AI for QuickBooks workflow
+was mentioned [chat 2026-05-18] but details weren't shared.
 
 ## Maaser / tzedaka tools
 
 Community projects in this space:
 
-- **Tenpr.app** — Mendy Shishler's *maaser* education tool, built in
-  Google AI Studio. [chat 2026-01-15]
+- **Tenpr.app** — *maaser* education tool, built in Google AI Studio.
+  [chat 2026-01-15]
 - **My Charity Box** — Emmanuel Mergui's offline pledge tracker.
   [chat 2026-04-28]
 - **Berel.me/donatext** — quick donation link / payment snippet
@@ -130,5 +128,3 @@ Community projects in this space:
 - [[letter-writing]]
 - [[../tools/perplexity]]
 - [[../tools/claude]]
-- [[../people/didy-waks]]
-- [[../people/rabbi-zalman-abraham]]

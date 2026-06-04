@@ -9,19 +9,24 @@ updated: 2026-05-25
 
 # ChatTorah
 
-[[../people/mendy-efune]]'s long-running Torah-AI project. Goal: solve
-the hallucination problem on Torah topics.
+A long-running Torah-AI project aiming to solve the hallucination
+problem on Torah topics.
 
 ## Status
 
-Announced as in-development [chat 2025-08-06, Mendy Efune]:
+Announced as in-development [chat 2025-08-06]:
 
 > *"BezH we're working on developing a solution for this:
 > ChatTorah.com."*
 
 App at `app.chattorah.com` was *"coming soon"* as of [chat 2026-04],
-with Mendy soliciting community feedback on features. Related blog
+with the community solicited for feedback on features. Related blog
 content at `chattorah.com/can-ai-really-learn-torah-a-calm-honest-answer/`.
+
+[external: development status as of the chat: "coming soon" /
+beta solicitation as of 2026-04. Current state of
+app.chattorah.com is unconfirmed. — external: knowledge cutoff
+~mid-2026]
 
 ## Vision
 
@@ -33,7 +38,6 @@ research tool.
 ## Related
 
 - [[../themes/ai-and-torah-accuracy]]
-- [[../people/mendy-efune]]
 - [[dicta-mekorotai]]
 - [[maamorim-app]]
 - [[sinai-gpt]]

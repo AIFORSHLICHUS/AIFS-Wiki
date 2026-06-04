@@ -34,7 +34,7 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
 - **General-purpose drafting** — letters, emails, social posts, press
   releases. See [[../topics/letter-writing]].
 - **Image generation** — historically weak, but **GPT 5.2's image model
-  is now better than Nano Banana Pro** per [chat 2026-01-21, Mendy Shishler].
+  is now better than Nano Banana Pro** per [chat 2026-01-21].
 - **Spreadsheet wrangling** — clean dates, capitalization, zip codes;
   ChatGPT Plus required for bulk uploads. [chat 2025-08-06]
 - **Voice-to-text dictation** — "ChatGPT voice-to-text is amazing.
@@ -43,7 +43,7 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
   Behavior intermittent — sometimes refuses access. [chat 2026-03-26]
 - **Project memory** — but doesn't cross-reference between projects or
   with non-project chats; treated as a limitation.
-  [chat 2025-11-21, +1 415-634-7727]
+  [chat 2025-11-21]
 - **Custom GPTs** — for repeated workflows (eulogy style, obituary
   search, Jewish-name scoring).
 
@@ -57,13 +57,13 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
 ## Weaknesses
 
 - Doesn't "see" what it generated — image edits revert to defaults.
-  [chat 2026-03-20, Elazar Green]
+  [chat 2026-03-20]
 - Hallucinates Torah citations (see [[../themes/ai-and-torah-accuracy]]).
 - "Sugar-coats" — sycophantic by default. Fixed by explicit prompts
   ([[../topics/letter-writing]]'s honest-feedback section).
 - Direct PDF upload "a disaster" — better to extract text first.
-  [chat 2025-11-04, Elisha Pearl]
-- Recent rate-limit slowdowns reported on Plus. [chat 2025-09-03, Rabbi Chaim Lazaroff]
+  [chat 2025-11-04]
+- Recent rate-limit slowdowns reported on Plus. [chat 2025-09-03]
 - Gmail integration: "clunky." [chat 2025-11-21]
 
 ## Discounts &amp; hacks
@@ -84,8 +84,7 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
 - [[../topics/flyer-design]] — workflow centers on ChatGPT prompt
   generation.
 - [[../topics/letter-writing]] — default tool for non-Claude letter work.
-- [chat 2025-11-20, Rabbi Chaim Lazaroff] — Sora demographic-prompt
-  workaround.
+- [chat 2025-11-20] — Sora demographic-prompt workaround.
 
 ## Phone access
 

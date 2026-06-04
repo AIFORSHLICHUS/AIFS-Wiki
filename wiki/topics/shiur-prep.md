@@ -46,7 +46,7 @@ questions, teacher guides, and student handouts. The pattern:
    > based on this talk. It should follow a logical structure. I'm not
    > looking for a verbatim speech script, only content notes. Include
    > all stories and anecdotes in full."*
-   > — [chat 2025-09-22, Mendy Shishler]
+   > — [chat 2025-09-22]
 4. **Add the audience and use-case.** *"60-minute shiur, mixed-level
    adult class, English with Hebrew terms transliterated."*
 5. **Request the artifacts explicitly.** Teacher's guide, student
@@ -78,7 +78,7 @@ prompts to demand specificity:
 
 > *"I just searched for 100 insights into the yomtov of Pesach and it
 > provided from 109 different sources."*
-> — [chat 2026-03-24, Rabbi Zalman Abraham]
+> — [chat 2026-03-24]
 
 Shared notebook of the Rebbe's Torah (Likkutei Sichos, Igros Kodesh,
 Toras Menachem, Maamarim): `notebooklm.google.com/notebook/8fd6b863-…`
@@ -87,9 +87,9 @@ Toras Menachem, Maamarim): `notebooklm.google.com/notebook/8fd6b863-…`
 ## Audio Overview &amp; podcasted shiurim
 
 NotebookLM's *Audio Overview* generates a podcast-style two-host
-discussion from any uploaded sources — Mendy Shishler converted a
-Schnei Shneor Ashkenazi sicha into a structured Rosh Hashanah speech
-this way [chat 2025-09-22]. Then *Interrupt* lets you join the
+discussion from any uploaded sources — one community example: a
+Schnei Shneor Ashkenazi sicha converted into a structured Rosh Hashanah speech
+[chat 2025-09-22]. Then *Interrupt* lets you join the
 conversation as a third voice.
 
 ## Drosho-specific tips
@@ -107,14 +107,14 @@ conversation as a third voice.
 Some shluchim build custom GPTs / Gems with their preferences baked
 in (preferred opening prayer, recurring stories, brand voice). See
 [[chabadone-integration]] for analogous patterns on the website side.
-[chat 2026-02-11, Yisroel Chaim Shuchat]: "Hard-code your preferences,
+[chat 2026-02-11]: "Hard-code your preferences,
 flyer styles you like, past examples, brand colors — you'll get more
 consistent results."
 
 ## Open questions
 
 - Reverse *mafteach inyanim*: given a page of a sefer, list every
-  inyan discussed. [chat 2026-05-20, Yossi Lipskier] — "Gemini failed
+  inyan discussed. [chat 2026-05-20] — "Gemini failed
   miserably." Best path: have AI write a Python script over indexed
   data, not run inference each time.
 - AI lecturer that reliably handles 5+ acharonim without flattening

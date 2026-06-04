@@ -37,7 +37,7 @@ Full comparison in [[../tools/coding-builders]].
 - **MCP into vetted backends** when you must integrate (Salesforce,
   Tally, Stripe).
 
-These all live up to Rayi Stern's rules
+These all live up to the community vibe-coding rules
 ([[../themes/vibe-coding]]).
 
 ## What not to build (alone, with AI alone)
@@ -55,29 +55,27 @@ These all live up to Rayi Stern's rules
 
 See [[../tools/chabad-apps]] for the running list. The pattern:
 
-- Mendy Elishevitz: megillah.app, maamorim.app, mishna.me, mikdash.live.
-- Berel Marozov: berel.me/... portfolio (dozen+ tools).
-- Yossi Yaffe: learningtanach.org, Tzvi-to-Tzadik, Book of Esther,
-  Rashi Roots Map.
-- Avi Winner: cypcampaign, sms-invite-joy, chabadvocate.
-- Mendy Shishler: Tenpr.app.
-- Mendy Efune: ChabadUp.com (full-app, 100% AI).
-- Mendel Teldon: Rebbe's Global Footprint (15 minutes).
-- Yisroel Chaim Shuchat: ai770.com/megillah, ShliachFlow.
+- megillah.app, maamorim.app, mishna.me, mikdash.live
+- berel.me/... portfolio (dozen+ tools)
+- learningtanach.org, Tzvi-to-Tzadik, Book of Esther, Rashi Roots Map
+- cypcampaign, sms-invite-joy, chabadvocate
+- Tenpr.app
+- ChabadUp.com (full-app, 100% AI)
+- Rebbe's Global Footprint (built in 15 minutes)
+- ai770.com/megillah, ShliachFlow
 
 ## Lessons from the field
 
-- **Restart the chat / refactor often.** Yossi Yaffe's
-  learningtanach.org post-mortem [chat 2026-03-04]: *"Each addition
-  made the codebase more fragile. By the end, I had six different
-  timing systems contradicting each other."*
+- **Restart the chat / refactor often.** learningtanach.org post-mortem
+  [chat 2026-03-04]: *"Each addition made the codebase more fragile.
+  By the end, I had six different timing systems contradicting each other."*
 - **Test in real environments early.** Especially for ChabadOne (XHTML
   1.0); see [[chabadone-integration]].
-- **Use AI to write scripts, not to process data.** Berel Marozov:
-  *"In general, I always ask AI to make a script instead of asking it
-  to directly process the data."* [chat 2026-05-20]
-- **Have AI assess your security.** Mendy Efune: *"If you build using
-  Claude Code you simply ask it how it can improve the security…"*
+- **Use AI to write scripts, not to process data.** *"In general,
+  I always ask AI to make a script instead of asking it to directly
+  process the data."* [chat 2026-05-20]
+- **Have AI assess your security.** *"If you build using Claude Code
+  you simply ask it how it can improve the security…"*
 - **Watch token usage.** Claude Sonnet 4.6 ran out mid-project for
   +44 7980-795936; restarting in a different model caused issues.
 

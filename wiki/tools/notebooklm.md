@@ -23,7 +23,7 @@ for **AI-indexed Torah**.
 - **Audio Overview** — a two-host podcast-style discussion of your
   sources. *"Interrupt"* lets you join as a third voice.
 - **Video Overview** — same as Audio but with Nano Banana–generated
-  illustrations. Released 2025-11-04. [chat 2025-11-04, Mendy Shishler]
+  illustrations. Released 2025-11-04. [chat 2025-11-04]
 - **Slide deck** — convert sources to Google Slides. Released ~2026-01.
 
 ## The Rebbe's Torah notebook
@@ -42,9 +42,9 @@ Menachem*, *Maamarim*. First shared [chat 2026-02-06, +1 520-703-7466].
 
 Other community notebooks:
 
-- **Kinus AI Day 2025** sessions — Yonatan Azrielant
+- **Kinus AI Day 2025** sessions
   `notebooklm.google.com/notebook/9a39622b-9114-4cb0-86a3-4a06404490fd`
-- **WhatsApp transcript of this group** — Yonatan Azrielant
+- **WhatsApp transcript of this group**
   `notebooklm.google.com/notebook/4a2c1656-c37f-4f77-bb5e-691f0768e994`
   and `ai4.shlch.us/notebook`.
 - **Pesach research bundle** — `notebooklm.google.com/notebook/5f905078-…`
@@ -57,7 +57,7 @@ Other community notebooks:
 - **Voice-note refinement** — paste long voice-note transcripts; ask
   for cleanup. [chat 2025-11-27, +1 305-469-6964]
 - **Cataloging &amp; titling** archives of audio/written content.
-  [chat 2026-05-12, Rabbi Zalman Abraham]
+  [chat 2026-05-12]
 
 ## Strengths
 
@@ -79,7 +79,7 @@ Other community notebooks:
   [chat 2025-12-12, +1 415-634-7727]
 - **Output length capped** — long synthesis falls off.
 
-## Rabbi Zalman Abraham's source-forcing prompt
+## The source-forcing prompt
 
 [chat 2026-03-24]:
 
@@ -93,11 +93,10 @@ retrieval engine has to broaden.
 
 ## Workflows worth saving
 
-- **Hebrew sicha → English speech notes.** Mendy Shishler's pattern,
+- **Hebrew sicha → English speech notes.**
   [chat 2025-09-22]. See [[../topics/shiur-prep]].
-- **PDF book → podcast.** Rabbi Zalman Abraham's pattern,
-  [chat 2025-11-18]: upload book → Audio Overview → done.
-- **Group chat → searchable knowledge base.** Mendy Mann
+- **PDF book → podcast.** [chat 2025-11-18]: upload book → Audio Overview → done.
+- **Group chat → searchable knowledge base.**
   [chat 2025-12-12] confirmed NotebookLM accepts WhatsApp exports.
 
 ## Related
@@ -105,5 +104,4 @@ retrieval engine has to broaden.
 - [[../topics/shiur-prep]]
 - [[../themes/ai-and-torah-accuracy]]
 - [[gemini]] — NotebookLM is Gemini-powered.
-- [[maamorim-app]] — what Mendy Elishevitz built as a curated
-  alternative.
+- [[maamorim-app]] — curated alternative.

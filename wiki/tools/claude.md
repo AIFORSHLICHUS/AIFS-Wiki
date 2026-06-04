@@ -11,7 +11,7 @@ updated: 2026-05-25
 
 The chat's default recommendation for *serious* work — code, long
 documents, structured shiurim. Notorious for usage limits until the
-**Anthropic–SpaceX compute deal** (announced [chat 2026-05-08, Mendy Shishler])
+**Anthropic–SpaceX compute deal** (announced [chat 2026-05-08])
 significantly relaxed them.
 
 ## Surfaces &amp; products
@@ -21,12 +21,12 @@ significantly relaxed them.
 - **Claude Max** — $100/mo. Removes most rate-limit friction.
 - **Claude Code** — `claude.ai/code`. The vibe-coding workhorse; better
   for serious engineering than Lovable. [[../themes/vibe-coding]]
-- **Claude Design** — visual design tool. Mendy Efune: "pretty promising."
-  [chat 2026-05-13]. 7-day allowance. Rabbi Zalman Abraham used it for
-  sicha visualizations: `zmabraham.github.io/Sicha-Infograph/`.
+- **Claude Design** — visual design tool. "Pretty promising."
+  [chat 2026-05-13]. 7-day allowance. Used for sicha visualizations:
+  `zmabraham.github.io/Sicha-Infograph/`.
   [chat 2026-05-19]
 - **Claude Dispatch / Cowork** — Claude as desktop / browser agent.
-  Didy Waks uses for CRM data entry. [chat 2026-03-29, 2026-04-19]
+  Used for CRM data entry. [chat 2026-03-29, 2026-04-19]
 - **MCP integration** — first-class. Connect GitHub, Salesforce, Tally,
   Canva, Gmail via MCP.
 - **Models referenced**: Claude 4, Opus 4.5, Opus 4.7, Sonnet 4.6,
@@ -43,13 +43,13 @@ significantly relaxed them.
   ~20 other community apps. [[../themes/vibe-coding]]
 - **Custom CRMs &amp; agents** via MCP. [[../topics/crm-automation]]
 - **Letter writing with emotional intelligence** — preferred over
-  ChatGPT for pastoral letters. [chat 2025-08-04, Mordechai Lightstone]
+  ChatGPT for pastoral letters. [chat 2025-08-04]
 - **Latex / Typst typesetting** — Claude knows LaTeX well; better than
-  DOCX for any non-trivial document. [chat 2026-03-09, Rayi Stern]
+  DOCX for any non-trivial document. [chat 2026-03-09]
 
 ## Strengths
 
-- Best at *technical accuracy*. Elisha Pearl's bake-offs against
+- Best at *technical accuracy*. Community bake-offs against
   GPT-5, Gemini 2.5, Grok consistently put Claude first for *iyyun*
   and code.
 - Best long-context document handling — "Claude was beautifully
@@ -97,7 +97,7 @@ See [[../topics/crm-automation]].
 
 ### Github + Claude Code
 
-[chat 2026-04-27, Meir Sudak]:
+[chat 2026-04-27]:
 
 > *"Go to Setting &gt; Connectors &gt; GitHub. Add the connection — your
 > Claude will now have access to all your repos. Then select the repo

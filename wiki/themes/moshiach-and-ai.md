@@ -15,19 +15,18 @@ their adoption.
 
 ## The Kinus framing
 
-[chat 2025-11-14, Rayi Stern], half-jokingly:
+[chat 2025-11-14], half-jokingly:
 
 > *"Everyone in the world is going to lose their jobs besides for
 > shluchim."*
 
-[chat 2025-11-14, Elisha Pearl] extended seriously:
+[chat 2025-11-14] extended seriously:
 
 > *"Torah AI will educate your mekuravim … make you באין ערוך more
 > in demand."*
 
-[chat 2025-11-07, Elisha Pearl] flagged Professor Moshe Koppel's
-Kinus talk as carrying *"major giluyim"* — revelations on AI and
-Chassidus.
+[chat 2025-11-07] flagged a professor's Kinus talk as carrying *"major
+giluyim"* — revelations on AI and Chassidus.
 
 ## The structural argument
 
@@ -69,7 +68,7 @@ purists argued; nobody resolved.
 
 ## The skeptical voice
 
-[chat 2026-02-15, Mendy Efune]:
+[chat 2026-02-15]:
 
 > *"AI is ultimately limited by human imagination. Precision, judgment,
 > and nuanced customization will always require people."*
@@ -96,6 +95,3 @@ behaviors:
 - [[ai-and-torah-accuracy]]
 - [[ai-and-shabbos]]
 - [[../conversations/kinus-ai-day-nov-2025]]
-- [[../people/elisha-pearl]]
-- [[../people/rayi-stern]]
-- [[../people/moshe-koppel]]

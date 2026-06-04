@@ -9,9 +9,8 @@ updated: 2026-05-25
 
 # berel.me
 
-The portfolio of micro-tools built by [[../people/berel-marozov]],
-mostly with Claude Opus 4.5. Each tool solves one small,
-Chabad-specific problem.
+The portfolio of community micro-tools, mostly built with Claude Opus 4.5.
+Each tool solves one small, Chabad-specific problem.
 
 ## What it is
 
@@ -60,20 +59,19 @@ catastrophically if the code gets stale."*
 
 ## The build process
 
-Mostly **Claude Opus 4.5** in [[claude]] Code. Berel: *"I made this
+Mostly **Claude Opus 4.5** in [[claude]] Code. *"I made this
 with a single prompt a few months ago."* [chat 2026-04-05] for
 Kiddush HaChodesh. Iterates from chat feedback within hours.
 
 ## Design critique
 
-Berel doubles as the chat's resident UX critic. [chat 2026-02-20]
+The berel.me builder doubles as the chat's resident UX critic. [chat 2026-02-20]
 on the early Megillah app: suggested the grogger should be a
 shake-triggered button, not a Haman-name highlighter. Most of
-Berel's suggestions land in shipped products.
+these suggestions land in shipped products.
 
 ## Related
 
-- [[../people/berel-marozov]]
-- [[megillah-app]] — a parallel project that learned from Berel's UX style.
+- [[megillah-app]] — a parallel project that learned from the same UX style.
 - [[../themes/vibe-coding]]
 - [[../tools/claude]]

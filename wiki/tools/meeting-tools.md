@@ -19,10 +19,10 @@ language-by-language picture.
 | --- | --- | --- |
 | **Zoom AI Companion** | Free with paid Zoom; custom summary templates; the chat's default. [chat 2025-11-17, Nosson Potash] | Zoom-only. |
 | **Fathom** | Free for Zoom; well-liked. [chat 2026-04-19, Shmulie Cunin] | Zoom-only. |
-| **Fireflies.ai** | Auto-joins all Zoom/Meet meetings on calendar; transcribes + summarizes. Can attend two simultaneously. [chat 2025-08-05, Yonatan Azrielant] | Paid tiers for serious use. |
+| **Fireflies.ai** | Auto-joins all Zoom/Meet meetings on calendar; transcribes + summarizes. Can attend two simultaneously. [chat 2025-08-05] | Paid tiers for serious use. |
 | **Granola** | Offline-capable; free trial. [chat 2025-11-17] `go.granola.ai/node8` | Less integrated than Fireflies. |
 | **Read.ai** | Auto-joins every Zoom/Teams meeting on calendar; very comprehensive. [chat 2026-05-13] | Creates semi-automatic account; check permissions. |
-| **Otter.ai** | Works for in-person meetings. | **Aggressive contact-permission requests**; will try to spam your address book. [chat 2025-11-17, Mordechai Lightstone] |
+| **Otter.ai** | Works for in-person meetings. | **Aggressive contact-permission requests**; will try to spam your address book. [chat 2025-11-17] |
 | **Upmeet** | Understands mixed languages and Torah concepts. [chat 2026-02-06] | Less known in chat; recommended for multilingual. |
 | **Plaud** | Recording device + app; works for some. [chat 2026-05-13] | Hardware purchase. |
 
@@ -37,7 +37,7 @@ language-by-language picture.
 
 ## Hecher's voice-note pipeline
 
-[[../people/elazar-green]]'s Hecher CRM does this end-to-end:
+Hecher CRM does this end-to-end:
 
 > *"GPT/Whisper transcription + Claude instructions to draft emails,
 > add calendar items, and update CRM records from voice notes."*
