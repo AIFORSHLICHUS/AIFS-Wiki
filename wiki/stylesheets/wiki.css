@@ -1,213 +1,392 @@
-/* ── Brand colours ───────────────────────────────────────────────── */
+/* ── Google Fonts ─────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap');
+
+/* ── Design tokens ────────────────────────────────────────────────── */
 :root {
-  --md-primary-fg-color:        #1a56a0;
-  --md-primary-fg-color--light: #2563c4;
-  --md-primary-fg-color--dark:  #0f3d7a;
-  --md-accent-fg-color:         #1a56a0;
-  --md-typeset-a-color:         #0645ad;  /* Wikipedia blue */
+  --aifs-h: 256;
+
+  /* Accent */
+  --aifs-accent:       oklch(0.55 0.16 var(--aifs-h));
+  --aifs-accent-press: oklch(0.49 0.16 var(--aifs-h));
+  --aifs-accent-text:  oklch(0.50 0.16 var(--aifs-h));
+  --aifs-accent-weak:  oklch(0.955 0.035 var(--aifs-h));
+  --aifs-accent-weakb: oklch(0.90 0.055 var(--aifs-h));
+
+  /* Surfaces */
+  --aifs-bg:        oklch(0.985 0.003 var(--aifs-h));
+  --aifs-surface:   oklch(1 0 0);
+  --aifs-surface-2: oklch(0.975 0.004 var(--aifs-h));
+  --aifs-border:    oklch(0.915 0.005 var(--aifs-h));
+  --aifs-border-2:  oklch(0.875 0.006 var(--aifs-h));
+  --aifs-text:      oklch(0.255 0.014 264);
+  --aifs-text-2:    oklch(0.50 0.013 264);
+  --aifs-text-3:    oklch(0.62 0.012 264);
+
+  /* Shadows */
+  --aifs-shadow-sm: 0 1px 2px oklch(0.2 0.02 264 / 0.05), 0 1px 3px oklch(0.2 0.02 264 / 0.04);
+  --aifs-shadow-md: 0 4px 14px oklch(0.2 0.02 264 / 0.07), 0 2px 6px oklch(0.2 0.02 264 / 0.05);
+
+  /* Radius */
+  --aifs-radius:    12px;
+  --aifs-radius-sm: 8px;
+
+  /* MkDocs Material overrides */
+  --md-primary-fg-color:        #6557d0;
+  --md-primary-fg-color--light: #7b6ede;
+  --md-primary-fg-color--dark:  #4a3db0;
+  --md-accent-fg-color:         #6557d0;
+  --md-typeset-a-color:         var(--aifs-accent-text);
 }
 
 [data-md-color-scheme="slate"] {
-  --md-typeset-a-color:         #6da7e3;
-  --md-primary-fg-color:        #2563c4;
+  --aifs-accent:       oklch(0.70 0.15 var(--aifs-h));
+  --aifs-accent-text:  oklch(0.78 0.13 var(--aifs-h));
+  --aifs-accent-weak:  oklch(0.30 0.06 var(--aifs-h));
+  --aifs-accent-weakb: oklch(0.38 0.08 var(--aifs-h));
+  --aifs-bg:           oklch(0.17 0.012 264);
+  --aifs-surface:      oklch(0.205 0.014 264);
+  --aifs-surface-2:    oklch(0.235 0.015 264);
+  --aifs-border:       oklch(0.30 0.014 264);
+  --aifs-border-2:     oklch(0.37 0.015 264);
+  --aifs-text:         oklch(0.955 0.004 264);
+  --aifs-text-2:       oklch(0.72 0.012 264);
+  --aifs-text-3:       oklch(0.60 0.012 264);
+
+  --md-primary-fg-color:       #8070e0;
+  --md-primary-fg-color--dark: #6557d0;
+  --md-typeset-a-color:        var(--aifs-accent-text);
 }
 
-/* ── Typography: encyclopedic serif feel ─────────────────────────── */
+/* ── Base typography ──────────────────────────────────────────────── */
+body,
 .md-typeset {
-  font-size: .85rem;
-  line-height: 1.75;
-  color: #202122;
+  font-family: 'Hanken Grotesk', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
-[data-md-color-scheme="slate"] .md-typeset {
-  color: #eaecf0;
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-header__title,
+.md-nav__title {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
 }
 
 .md-typeset h1 {
-  font-size: 1.8em;
-  font-weight: 400;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
-  padding-bottom: .25em;
-  margin-bottom: .5em;
-  color: #000;
+  font-size: 2.1em;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.08;
+  border-bottom: 1px solid var(--aifs-border);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.6em;
+  color: var(--aifs-text);
 }
 
 [data-md-color-scheme="slate"] .md-typeset h1 {
-  color: #eaecf0;
+  border-color: var(--aifs-border);
 }
 
 .md-typeset h2 {
-  font-size: 1.3em;
-  font-weight: 600;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
-  padding-bottom: .2em;
+  font-size: 1.45em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-bottom: 1px solid var(--aifs-border);
+  padding-bottom: 0.15em;
+  margin-top: 1.8em;
 }
 
 .md-typeset h3 {
-  font-size: 1.1em;
+  font-size: 1.15em;
   font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
-/* Wikipedia-blue links */
+/* ── Links ────────────────────────────────────────────────────────── */
 .md-typeset a {
-  color: var(--md-typeset-a-color);
+  color: var(--aifs-accent-text);
+  font-weight: 500;
   text-decoration: none;
 }
 .md-typeset a:hover {
   text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
 }
 .md-typeset a:visited {
-  color: #7952b3;
+  color: oklch(0.52 0.14 290);
 }
 [data-md-color-scheme="slate"] .md-typeset a:visited {
-  color: #9c7dd9;
+  color: oklch(0.72 0.12 290);
 }
 
-/* ── Blockquotes: source citations ───────────────────────────────── */
+/* ── Topbar / header ──────────────────────────────────────────────── */
+.md-header {
+  background: color-mix(in srgb, var(--aifs-surface) 82%, transparent);
+  backdrop-filter: blur(14px) saturate(1.4);
+  border-bottom: 1px solid var(--aifs-border);
+  box-shadow: none;
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background: color-mix(in srgb, oklch(0.205 0.014 264) 85%, transparent);
+}
+
+.md-header__title {
+  font-weight: 700;
+  font-size: 1em;
+  letter-spacing: -0.02em;
+}
+
+/* ── Navigation sidebar ───────────────────────────────────────────── */
+.md-nav__title {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--aifs-text-3);
+  padding: 0.5rem 0.6rem;
+}
+
+.md-nav__item .md-nav__link {
+  font-size: 0.88rem;
+  color: var(--aifs-text-2);
+  border-radius: var(--aifs-radius-sm);
+  padding: 0.35rem 0.65rem;
+  transition: background 0.14s, color 0.14s;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: var(--aifs-text);
+  background: var(--aifs-surface-2);
+}
+
+.md-nav__item .md-nav__link--active,
+.md-nav__item .md-nav__link--passed {
+  color: var(--aifs-accent-text);
+  background: var(--aifs-accent-weak);
+  font-weight: 600;
+}
+
+/* ── Blockquotes ──────────────────────────────────────────────────── */
 .md-typeset blockquote {
-  border-left: 3px solid #a2a9b1;
-  background: #f8f9fa;
-  padding: .6em 1em;
-  color: #54595d;
+  border-left: 3px solid var(--aifs-accent);
+  background: var(--aifs-surface-2);
+  border-radius: 0 var(--aifs-radius-sm) var(--aifs-radius-sm) 0;
+  padding: 0.6em 1em;
+  color: var(--aifs-text-2);
   font-style: italic;
-  margin: 1em 0;
+  font-size: 1.05em;
+  margin: 1.2em 0;
 }
 
-[data-md-color-scheme="slate"] .md-typeset blockquote {
-  background: #2a2e35;
-  color: #a2a9b1;
+/* ── Tables ───────────────────────────────────────────────────────── */
+.md-typeset table:not([class]) {
+  font-size: 0.88rem;
+  border-collapse: collapse;
+  border-radius: var(--aifs-radius-sm);
+  overflow: hidden;
 }
 
-/* Citation tags [chat …] and [external …] */
-.md-typeset em {
-  font-style: normal;
+.md-typeset table:not([class]) th {
+  background: var(--aifs-accent-weak);
+  color: var(--aifs-text);
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-weight: 600;
 }
 
-/* ── Home page card grid ─────────────────────────────────────────── */
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background: var(--aifs-accent-weak);
+  color: var(--aifs-text);
+}
+
+/* ── Admonitions ──────────────────────────────────────────────────── */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: var(--aifs-radius);
+  border-width: 1px;
+  box-shadow: none;
+}
+
+/* ── Code ─────────────────────────────────────────────────────────── */
+.md-typeset code {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+  font-size: 0.85em;
+  background: var(--aifs-surface-2);
+  border: 1px solid var(--aifs-border);
+  border-radius: 5px;
+  padding: 1px 6px;
+}
+
+.md-typeset pre > code {
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  padding: 0;
+}
+
+/* ── Home page hero ───────────────────────────────────────────────── */
+.wiki-hero {
+  position: relative;
+  padding: clamp(36px, 5vw, 64px) 0 clamp(28px, 4vw, 44px);
+  overflow: hidden;
+}
+
+.wiki-hero::before {
+  content: "";
+  position: absolute;
+  top: -120px;
+  right: -60px;
+  width: 440px;
+  height: 440px;
+  background: radial-gradient(circle, var(--aifs-accent-weak) 0%, transparent 65%);
+  opacity: 0.9;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.wiki-hero .eyebrow {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--aifs-accent-text);
+  display: block;
+  margin-bottom: 0.8rem;
+  position: relative;
+}
+
+.wiki-hero h1 {
+  font-size: clamp(2.2rem, 5.5vw, 3.8rem) !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.035em !important;
+  line-height: 1.04 !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 0 1rem !important;
+  position: relative;
+}
+
+.wiki-hero h1 .accent {
+  color: var(--aifs-accent-text);
+}
+
+.wiki-hero p.lede {
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
+  color: var(--aifs-text-2);
+  line-height: 1.55;
+  max-width: 580px;
+  position: relative;
+}
+
+/* ── Stats bar ────────────────────────────────────────────────────── */
+.wiki-stats {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+  background: var(--aifs-surface-2);
+  border: 1px solid var(--aifs-border);
+  border-radius: var(--aifs-radius);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+  font-size: 0.82rem;
+  color: var(--aifs-text-3);
+}
+
+.wiki-stats strong {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 1.35em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--aifs-text);
+  display: block;
+  margin-bottom: 0.1rem;
+}
+
+/* ── Card grid ────────────────────────────────────────────────────── */
 .wiki-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
   margin: 1.5rem 0;
 }
 
 .wiki-card {
-  border: 1px solid #a2a9b1;
-  border-radius: 4px;
-  padding: 1rem 1.2rem;
-  background: #fff;
-  transition: box-shadow .15s ease, border-color .15s ease;
-}
-
-[data-md-color-scheme="slate"] .wiki-card {
-  background: #2a2e35;
-  border-color: #3d4451;
+  background: var(--aifs-surface);
+  border: 1px solid var(--aifs-border);
+  border-radius: var(--aifs-radius);
+  padding: 1.1rem 1.3rem;
+  transition: border-color 0.16s, box-shadow 0.16s, transform 0.16s;
 }
 
 .wiki-card:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,.12);
-  border-color: #1a56a0;
+  border-color: var(--aifs-border-2);
+  box-shadow: var(--aifs-shadow-md);
+  transform: translateY(-2px);
 }
 
 .wiki-card h3 {
-  margin: 0 0 .4rem;
-  font-size: 1rem;
-  font-weight: 600;
-  border: none;
+  margin: 0 0 0.4rem !important;
+  font-size: 1.02rem !important;
+  font-weight: 600 !important;
+  border: none !important;
+  letter-spacing: -0.01em;
 }
 
 .wiki-card h3 a {
-  color: var(--md-typeset-a-color);
+  color: var(--aifs-text) !important;
+  font-weight: 600;
+}
+
+.wiki-card h3 a:hover {
+  color: var(--aifs-accent-text) !important;
+  text-decoration: none;
 }
 
 .wiki-card p {
   margin: 0;
-  font-size: .82rem;
-  color: #54595d;
+  font-size: 0.85rem;
+  color: var(--aifs-text-2);
   line-height: 1.5;
 }
 
-[data-md-color-scheme="slate"] .wiki-card p {
-  color: #a2a9b1;
+/* ── Footer ────────────────────────────────────────────────────────── */
+.md-footer {
+  border-top: 1px solid var(--aifs-border);
+  background: var(--aifs-bg);
 }
 
-/* ── Hero banner on home page ────────────────────────────────────── */
-.wiki-hero {
-  background: linear-gradient(135deg, #1a56a0 0%, #0f3d7a 100%);
-  color: #fff;
-  border-radius: 6px;
-  padding: 2rem 2.4rem;
-  margin-bottom: 2rem;
+.md-footer-meta {
+  background: var(--aifs-surface-2);
 }
 
-.wiki-hero h1 {
-  color: #fff !important;
-  border: none !important;
-  font-size: 2em;
-  margin: 0 0 .5rem;
+/* ── Search ────────────────────────────────────────────────────────── */
+.md-search__form {
+  border-radius: var(--aifs-radius);
+  background: var(--aifs-surface-2);
+  border: 1px solid var(--aifs-border);
 }
 
-.wiki-hero p {
-  color: rgba(255,255,255,.85);
-  margin: 0;
-  font-size: .95rem;
-  max-width: 560px;
+.md-search__form:focus-within {
+  border-color: var(--aifs-accent);
+  box-shadow: 0 0 0 3px var(--aifs-accent-weak);
 }
 
-/* ── Stats bar ───────────────────────────────────────────────────── */
-.wiki-stats {
-  display: flex;
-  gap: 2rem;
-  flex-wrap: wrap;
-  background: #f8f9fa;
-  border: 1px solid #a2a9b1;
-  border-radius: 4px;
-  padding: .8rem 1.4rem;
-  margin: 1.5rem 0;
-  font-size: .82rem;
-  color: #54595d;
+/* ── Tabs (top nav) ───────────────────────────────────────────────── */
+.md-tabs__link {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
 }
 
-[data-md-color-scheme="slate"] .wiki-stats {
-  background: #2a2e35;
-  border-color: #3d4451;
-  color: #a2a9b1;
-}
-
-.wiki-stats strong {
-  color: #202122;
-}
-
-[data-md-color-scheme="slate"] .wiki-stats strong {
-  color: #eaecf0;
-}
-
-/* ── Nav sidebar tweaks ──────────────────────────────────────────── */
-.md-nav__title {
-  font-weight: 700;
-  font-size: .72rem;
-  text-transform: uppercase;
-  letter-spacing: .06em;
-  color: #54595d;
-}
-
-/* ── Tables ──────────────────────────────────────────────────────── */
-.md-typeset table:not([class]) {
-  font-size: .82rem;
-  border-collapse: collapse;
-}
-
-.md-typeset table:not([class]) th {
-  background: #eaecf0;
-  color: #202122;
-}
-
-[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
-  background: #3d4451;
-  color: #eaecf0;
-}
-
-/* ── YAML frontmatter (hidden from readers) ──────────────────────── */
+/* ── YAML frontmatter hide ────────────────────────────────────────── */
 .md-typeset hr:first-of-type + table,
 .md-typeset pre code[class="language-yaml"]:first-child {
   display: none;

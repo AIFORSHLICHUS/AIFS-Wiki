@@ -5,22 +5,23 @@ hide:
 ---
 
 <div class="wiki-hero" markdown>
-# AIFS-Wiki
+<span class="eyebrow">The AI for Shlichus knowledge base</span>
 
-A community knowledge base of AI tools, prompts, and workflows — built from
-two years of hands-on discussion by Chabad shluchim.
-[Browse by topic ↓](#browse) · [Search above ↑](#)
+# Practical AI for the work of <span class="accent">shlichus.</span>
+
+<p class="lede">What started as a WhatsApp group is now a living wiki — real workflows, tested prompts, and honest guidance for shluchim using AI in outreach, content, fundraising, and the everyday work of a Chabad house.</p>
 </div>
 
 <div class="wiki-stats" markdown>
-**68 pages** &nbsp;·&nbsp;
-**7,431 source messages** &nbsp;·&nbsp;
-**2025 – 2026** &nbsp;·&nbsp;
-**85+ AI tools documented** &nbsp;·&nbsp;
-Updated continuously via Hermes
+
+<div><strong>68</strong> pages</div>
+<div><strong>7,431</strong> source messages</div>
+<div><strong>85+</strong> tools documented</div>
+<div><strong>2025 – 2026</strong> coverage</div>
+
 </div>
 
-## Browse { #browse }
+## Browse
 
 <div class="wiki-cards" markdown>
 
@@ -64,4 +65,3 @@ Not sure where to start?
 - **Looking for a specific tool?** → [Tools](tools/index.md) or use the search bar above
 - **Want prompts you can copy?** → [Resources](resources/index.md)
 - **Curious about the big discussions?** → [Conversations](conversations/index.md)
-- **Want the raw chronology?** → [Log](log.md)

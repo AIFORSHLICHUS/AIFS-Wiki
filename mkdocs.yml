@@ -13,7 +13,7 @@ theme:
   logo: assets/logo.svg
   favicon: assets/logo.svg
   font:
-    text: Source Serif 4
+    text: Space Grotesk
     code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -166,4 +166,3 @@ nav:
     - Megillah App Sprint: conversations/megillah-app-sprint-feb-2026.md
     - Sora Workaround: conversations/sora-demographic-workaround.md
     - Torah Accuracy Debate: conversations/torah-accuracy-debate.md
-  - Log: log.md
