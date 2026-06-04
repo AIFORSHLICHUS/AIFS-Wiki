@@ -1,0 +1,80 @@
+{#- Custom AIFS Wiki sidebar nav with section labels -#}
+{% import "partials/nav-item.html" as item with context %}
+
+{# Detect the active top-level section #}
+{% set current_section = namespace(title="Browse", found=false) %}
+{% for nav_item in nav.items %}
+  {% if nav_item.active and nav_item.children and not current_section.found %}
+    {% set current_section.title = nav_item.title %}
+    {% set current_section.found = true %}
+  {% endif %}
+{% endfor %}
+
+{% set class = "md-nav md-nav--primary" %}
+{% if "navigation.tabs" in features %}
+  {% set class = class ~ " md-nav--lifted" %}
+{% endif %}
+{% if "toc.integrate" in features %}
+  {% set class = class ~ " md-nav--integrated" %}
+{% endif %}
+
+<nav class="{{ class }}" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"
+       title="{{ config.site_name | e }}"
+       class="md-nav__button md-logo"
+       aria-label="{{ config.site_name }}"
+       data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    {{ config.site_name }}
+  </label>
+
+  {# BROWSE — persistent top-level quick-links (always visible) #}
+  <div class="aifs-nav-group">
+    <div class="aifs-nav-label">Browse</div>
+    <ul class="aifs-nav-browse">
+      {% for nav_item in nav.items %}
+        {% if nav_item.children %}
+          {# Find index page for the section #}
+          {% set target = namespace(url=none) %}
+          {% for child in nav_item.children %}
+            {% if child.is_index and not target.url %}
+              {% set target.url = child.url %}
+            {% endif %}
+          {% endfor %}
+          {% if not target.url %}
+            {% set target.url = (nav_item.children | first).url %}
+          {% endif %}
+          <li class="aifs-browse-item{% if nav_item.active %} is-active{% endif %}">
+            <a href="{{ target.url | url }}">
+              <span class="aifs-browse-dot aifs-dot--{{ nav_item.title | lower | replace(' ', '-') | replace('&', '') | replace('/', '') }}"></span>
+              <span>{{ nav_item.title }}</span>
+            </a>
+          </li>
+        {% else %}
+          <li class="aifs-browse-item{% if nav_item == page %} is-active{% endif %}">
+            <a href="{{ nav_item.url | url }}">
+              <span class="aifs-browse-dot aifs-dot--home"></span>
+              <span>{{ nav_item.title }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  {# Current section detail nav #}
+  {% if current_section.found %}
+    <div class="aifs-nav-group">
+      <div class="aifs-nav-label">{{ current_section.title }}</div>
+    </div>
+  {% endif %}
+
+  <ul class="md-nav__list" data-md-scrollfix>
+    {% for nav_item in nav.items %}
+      {% set path = "__nav_" ~ loop.index %}
+      {{ item.render(nav_item, path, 1) }}
+    {% endfor %}
+  </ul>
+</nav>
