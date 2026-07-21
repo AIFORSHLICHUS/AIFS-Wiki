@@ -14,12 +14,12 @@ by their AI-integration readiness.
 
 | CRM | AI integration | Notes |
 | --- | --- | --- |
-| **ChabadOne (Salesforce-backed)** | Salesforce MCP works easily | [chat 2026-05-15, +1 438-526-6974]. The Chabad default. |
+| **ChabadOne (Salesforce-backed)** | Salesforce MCP works easily | [chat 2026-05-15]. The Chabad default. |
 | **Little Green Light (LGL)** | API exists; community members use Nanoclaw agent | [chat 2026-05-17] $100 credit link. *"Great CRM for donor management and insight."* |
 | **Hecher CRM** | Native MCP integration | ~80 shliach beta. Voice notes → Whisper → Claude → CRM. |
-| **CiviCRM (Chabad Suite)** | API; +44 7710-524460 connected to Base44 | [chat 2026-05-15] |
+| **CiviCRM (Chabad Suite)** | API; a member connected to Base44 | [chat 2026-05-15] |
 | **Attio** | Agent for prospect research/enrichment | Used heavily for prospect research. [chat 2026-03-19] |
-| **MyShul** | Built-in AI report bot | *"Type 'give me a list of all 12-year-old boys and their parents' numbers' and it produces the list."* [chat 2026-05-15, +1 786-547-3031] |
+| **MyShul** | Built-in AI report bot | *"Type 'give me a list of all 12-year-old boys and their parents' numbers' and it produces the list."* [chat 2026-05-15] |
 | **CMS Cloud** | Chabad donor management | [chat 2026-01-06] |
 | **Hatch.ai** | Lubavitch-owned prospect research | [chat 2025-09-22]. Some users: *"more hatch and less ai."* [chat 2026-04-21] |
 

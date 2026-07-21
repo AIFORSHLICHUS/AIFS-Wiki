@@ -141,12 +141,12 @@ and Zite integration. [chat 2025-12-14]
 
 `zmanimgraphics.com` with code **SHLUCHIMWA** — auto-generates
 candle-lighting graphics 1–2 days before Shabbos/Yom Tov.
-[chat 2026-03, +1 267-449-9495]
+[chat 2026-03]
 
 ### LGL $100 credit
 
 `littlegreenlight.com/?lglc=coc&lglr=web` with credit link from
-[chat 2026-05-17, +1 347-267-0138].
+[chat 2026-05-17].
 
 ## Expired
 
@@ -166,14 +166,14 @@ candle-lighting graphics 1–2 days before Shabbos/Yom Tov.
   you want one bill. API-based, lacks some native-app features.
   [chat 2025-08]
 - **LMArena.ai** — side-by-side LLM comparisons, free.
-  [chat 2026-01-09, +972 50-636-0770]
+  [chat 2026-01-09]
 
 ## Caveats
 
 - Free tiers train on your data unless you opt out. Several
   warnings: [chat 2025-12-27], [chat 2026-05-07].
 - Workspace admins can see Gemini chats on managed accounts — users
-  can't easily delete. [chat 2026-05-07, +1 773-218-1108]
+  can't easily delete. [chat 2026-05-07]
 
 ## Related
 

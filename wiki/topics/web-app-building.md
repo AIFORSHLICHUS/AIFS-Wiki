@@ -76,8 +76,7 @@ See [[../tools/chabad-apps]] for the running list. The pattern:
   process the data."* [chat 2026-05-20]
 - **Have AI assess your security.** *"If you build using Claude Code
   you simply ask it how it can improve the security…"*
-- **Watch token usage.** Claude Sonnet 4.6 ran out mid-project for
-  +44 7980-795936; restarting in a different model caused issues.
+- **Watch token usage.** Claude Sonnet 4.6 ran out mid-project for one member; restarting in a different model caused issues.
 
 ## Open questions
 

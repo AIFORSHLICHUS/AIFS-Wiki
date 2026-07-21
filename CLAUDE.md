@@ -125,7 +125,7 @@ Example:
 
 > *"I've been using Sora the last five-six months to create educational
 > videos. Recently transitioned to Grok."*
-> — [chat 2026-05-07, +1 424-332-9882]
+> — [chat 2026-05-07]
 >
 > [external: per user note, Sora was discontinued — context for any
 > shliach still using older threads.]

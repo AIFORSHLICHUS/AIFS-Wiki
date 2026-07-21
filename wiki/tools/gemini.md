@@ -60,7 +60,7 @@ Treat version names as approximate. — external: knowledge cutoff
 - **Vibe coding** in Google AI Studio (sometimes preferred over Claude
   for visual layout). [chat 2025-11-20]
 - **Drive search** — *"asking Gemini to find information in my drive
-  has made my life so much easier."* [chat 2026-01-20, +1 805-668-1024]
+  has made my life so much easier."* [chat 2026-01-20]
 - **Storybook generation** — Gemini Storybook (`gemini.google/overview/storybook/`)
   used for Derher-article-to-illustrated-children's-story flows.
   [chat 2025-08-07]
@@ -86,9 +86,9 @@ Treat version names as approximate. — external: knowledge cutoff
 - **Gems chat history confusing** — each Gem use creates a new chat
   that must be named/pinned to save. [chat 2025-12-29]
 - **Workspace admin sees all chats** — Gemini for Workspace users can't
-  easily delete their chat history. [chat 2026-05-07, +1 773-218-1108]
+  easily delete their chat history. [chat 2026-05-07]
 - **Nonprofit Gemini** doesn't always have the same Gmail integration as
-  consumer accounts. [chat 2026-05-07, +1 347-225-1322]
+  consumer accounts. [chat 2026-05-07]
 
 ## Free / discount paths
 
@@ -114,7 +114,7 @@ Treat version names as approximate. — external: knowledge cutoff
 - Will the consumer-Gemini quality flux settle, or is it permanent?
 - Best way to make Gemini *not* default to Flash when you didn't ask.
 - Privacy concerns of plugging Gemini into your full Gmail/Drive —
-  cautioned but not resolved. [chat 2026-05-07, +1 508-314-5472]
+  cautioned but not resolved. [chat 2026-05-07]
 
 ## Related
 

@@ -65,14 +65,14 @@ serious letter or email writing.
 
 ### Honest-feedback prompt
 
-[chat 2026-04-21, +1 847-452-8703]:
+[chat 2026-04-21]:
 
 > *"Be direct and brutally honest. Stress-test my ideas hard. If
 > something is weak, say so plainly and explain why. Think from
 > first principles, use logic over sentiment, and push until the
 > argument is solid."*
 
-Simple version, [chat 2026-04-21, +33 6 68 42 07 70]:
+Simple version, [chat 2026-04-21]:
 
 > *"Criticize my output and be merciless about it."*
 
@@ -102,7 +102,7 @@ Simple version, [chat 2026-04-21, +33 6 68 42 07 70]:
 
 ### The "Golden Prompt" — one step at a time
 
-[chat 2025-11-14, +972 53-338-6770]:
+[chat 2025-11-14]:
 
 > *"When I ask how to do something, work with me step by step — ONE
 > step at a time. DON'T give me all the steps at once. Instead:
@@ -200,7 +200,7 @@ Why: describes attire, actions, and scene — not protected attributes.
 
 ### 60-minute shiur format
 
-[chat 2026-05-20, +1 520-472-8840]:
+[chat 2026-05-20]:
 
 > *"Organize into a 60-minute shiur with discussion questions,
 > summaries, and follow-along printout — teacher's guide and student
@@ -208,7 +208,7 @@ Why: describes attire, actions, and scene — not protected attributes.
 
 ### Roast my drosho
 
-[chat 2025-09-07, +1 347-515-0835]:
+[chat 2025-09-07]:
 
 > *"Roast this!"* — paste your speech first.
 
@@ -229,7 +229,7 @@ Two community gists:
 
 ### WhatsApp chat → summary
 
-[chat 2025-12-04, +1 203-887-6044]:
+[chat 2025-12-04]:
 
 > *"Condense this entire chat into a clear, organized summary. Remove
 > timestamps, system data, and speaker labels. Keep only the actual
@@ -237,7 +237,7 @@ Two community gists:
 
 ### Excel script generation
 
-[chat 2026-05-19, +1 737-786-5770]:
+[chat 2026-05-19]:
 
 > *"Ask ChatGPT to write you a script to use in Excel. You can ask
 > it to make a sophisticated script that will ask you before it
@@ -249,7 +249,7 @@ Two community gists:
 
 ## Productivity
 
-[chat 2026-02-25, +44 7980-795936]:
+[chat 2026-02-25]:
 
 > *"Adopt the role of a productivity expert tasked with establishing a
 > sustainable workload management system… Begin by analyzing the

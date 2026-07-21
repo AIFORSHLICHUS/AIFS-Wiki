@@ -29,7 +29,7 @@ for current platform support. — external: knowledge cutoff ~mid-2026]
 
 ## What the chat uses it for
 
-- **Talk-to-text for letters/emails** — [chat 2026-02-06, +1 847-560-1560]:
+- **Talk-to-text for letters/emails** — [chat 2026-02-06]:
   *"WisperFlow recommended for talk-to-text."*
 - **Pre-written templates** (snippets) — *"You can have pre-written
   templates."* [chat 2026-04-27]

@@ -54,7 +54,7 @@ See [[../resources/nonprofit-discounts]] for the full reference.
 
 ## The counter-position
 
-> *"Don't feel pressured."* — [chat 2025-09-17, +1 415-634-7727] —
+> *"Don't feel pressured."* — [chat 2025-09-17] —
 > discontinued paid plan due to low usage; works fine on free with
 > occasional Perplexity for research.
 

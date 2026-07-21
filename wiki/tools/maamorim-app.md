@@ -35,7 +35,7 @@ invent**.
 
 ## Notable use cases
 
-- **Bar-mitzvah maamar preparation.** [chat 2026-05-25, +1 917-982-9772]:
+- **Bar-mitzvah maamar preparation.** [chat 2026-05-25]:
   > *"I uploaded the last maamar I learned (בלתי מוגה) to Claude and he
   > beautifully extracted the *nekuda* of the maamar and presented it
   > in a way that a 13-year-old can understand. It was the biggest

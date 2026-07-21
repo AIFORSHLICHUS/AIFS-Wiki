@@ -58,7 +58,7 @@ Variants:
   [chat 2026-02-18]
 - **Chabad iconography failures** — see [[../themes/ai-flyer-aesthetics]]
   for the menorah / Luchos / kippah problems.
-- **Bug**: "Can't change matzahs." [chat 2026-02-11, +44 7710 524460]
+- **Bug**: "Can't change matzahs." [chat 2026-02-11]
 
 ## Now superseded for some uses
 
@@ -72,7 +72,7 @@ for the visual base, GPT 5.2 for refinement, or vice versa.
 
 ## The "Use ChatGPT to write the prompt" workflow
 
-[chat 2025-08-26, +1 954-478-8015]:
+[chat 2025-08-26]:
 
 1. Tell ChatGPT what you want to create.
 2. Ask ChatGPT to *write a detailed image-generator prompt* including

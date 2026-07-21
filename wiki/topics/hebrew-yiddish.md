@@ -22,7 +22,7 @@ After testing eight LLMs:
 > etymology, the root (shoresh), occurrences, and a word-by-word
 > transliteration. It's very practical. He also gives the context of
 > the verse."*
-> — [chat 2026-04-16, +33 6 51 82 35 18]
+> — [chat 2026-04-16]
 
 Runners-up:
 - **Claude** — best at *Yiddish*, which is hard for everyone (Yiddish OCR
@@ -56,7 +56,7 @@ Every image-gen model garbles Hebrew. The two reliable workarounds:
 1. **Strip-and-replace.** Generate the visual, then ask the model to
    *remove Hebrew letters leaving placeholders, change nothing else*.
    Type the Hebrew in [[../tools/canva]] (or Affinity) where you
-   control the font. [chat 2026-05-19, +44 7980-795936]
+   control the font. [chat 2026-05-19]
 2. **Background-only.** Generate the visual background only;
    compose the Hebrew text on top in Canva.
    [chat 2025-11-20]
@@ -67,7 +67,7 @@ For *typeset* documents (magazines, source sheets):
 - Set a *golden rule* at the top of the chat: "Hebrew goes
   right-to-left." "Do not edit my Hebrew text." Claude needs
   reminding to keep sentence order intact.
-  [chat 2026-05-19, +44 7980-795936]
+  [chat 2026-05-19]
 
 ## Hebrew OCR
 
@@ -75,7 +75,7 @@ This remains the rough edge:
 
 - **Rashi script.** *"I'm trying to run a text through AI, but can't
   find anything to read Rashi script, is there any rashi script OCR?"*
-  — [chat 2025-11-18, +1 758-718-1172]. **Unresolved as of 2026-05.**
+  — [chat 2025-11-18]. **Unresolved as of 2026-05.**
 - **Hebrew print (square letters).** Decent options exist:
   - **Google DocumentAI** ($300 free credit on Google Cloud).
     [chat 2025-09-11]
@@ -87,7 +87,7 @@ This remains the rough edge:
   [[../tools/dach-dev]] or the Anash.org Likkutei Sichos app for plain
   text export, then translate. [chat 2025-11-04]
 - **Hebrew handwriting (*ksav yad*).** `chabad.mekorotai.dicta.org.il`
-  exists but as of [chat 2026-02-17, +1 415-634-7727]: "Nah" — not yet
+  exists but as of [chat 2026-02-17]: "Nah" — not yet
   reliable.
 
 ## Text-to-speech in Hebrew / Yiddish
@@ -99,7 +99,7 @@ transliteration* or with strategic *nikkud* to force pronunciation
 
 **Suno** can produce Hebrew songs but mispronounces; trick is to write
 "Khabad" instead of "Chabad", "samayakh" instead of "samayach".
-[chat 2026-02-16, +1 520-703-7466]
+[chat 2026-02-16]
 
 ## Pronunciation hacks
 
@@ -112,7 +112,7 @@ transliteration* or with strategic *nikkud* to force pronunciation
 - Rashi script OCR (still open).
 - Yiddish (vs. Hebrew) transcription quality.
 - Custom dictionary for Gboard talk-to-text to learn *tefillin*,
-  *tichel*, *Chabad* — [chat 2025-08-25, +1 415-634-7727]. No fix yet.
+  *tichel*, *Chabad* — [chat 2025-08-25]. No fix yet.
 
 ## Related
 

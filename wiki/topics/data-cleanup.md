@@ -21,7 +21,7 @@ answer.
 Why: AI hallucinates and reassures. A script runs deterministically
 and you can read it.
 
-[chat 2026-05-19, +1 737-786-5770]:
+[chat 2026-05-19]:
 
 > *"Ask ChatGPT to write you a script to use in Excel. You can ask it
 > to make a sophisticated script that will ask you before it deletes

@@ -35,7 +35,7 @@ Tanya and Likutei Torah on Sefaria as of 2026-02.
 > *"Tried ChatGPT, Claude, and Google to find a specific Gemara
 > reference. ChatGPT and Google both wrong. Claude was honest about
 > limitations and recommended Sefaria (which worked)."*
-> — [chat 2026-03-24, +44 7980-795936]
+> — [chat 2026-03-24]
 
 This is the chat's repeated lesson: **Sefaria for the text; AI for the
 reading**. Don't reverse it.

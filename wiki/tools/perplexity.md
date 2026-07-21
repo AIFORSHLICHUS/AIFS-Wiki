@@ -47,7 +47,7 @@ Subscription tiers:
   paste it into Perplexity to see real web sources.
 - **News &amp; current events** with citations.
 - **Comet (agent)** — fills out grant applications, multi-step web
-  forms. [chat 2025-08-19, +1 347-598-7098]
+  forms. [chat 2025-08-19]
 - **Spaces** — upload PDFs / docs for project-specific Q&amp;A.
 
 ## Strengths
@@ -60,7 +60,7 @@ Subscription tiers:
 
 - "Weaker for nuance" than ChatGPT/Claude. [chat 2025-09-05]
 - Even with web search on, still hallucinates occasionally.
-- Voice mode "perplexing." [chat 2025-09-11, +1 971-329-6661]
+- Voice mode "perplexing." [chat 2025-09-11]
 - Periodic outages — "spazzing out, gets stuck on 'thinking'."
   [chat 2026-05-01]
 

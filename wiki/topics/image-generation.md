@@ -42,7 +42,7 @@ generate from the structure*.
 ## Photo editing
 
 - **Grok** — *"good for photo editing/manipulation."*
-  [chat 2025-12-19, +1 805-668-1024]
+  [chat 2025-12-19]
 - **Google Photos AI** — built-in edits.
 - **Adobe Firefly** — convert flyers to editable Canva files.
 - **BoxBrownie** — photo editing service. [chat 2026-01-12]
@@ -60,12 +60,12 @@ Chabad-specific iconography that consistently breaks:
 - **Hebrew text** — see [[hebrew-yiddish]].
 
 Workarounds for some: a Chabad-image custom Gem is in progress
-([chat 2026-05-19, +1 972-58-685-1038]). Until then, generate the
+([chat 2026-05-19]). Until then, generate the
 visual, fix the iconography manually.
 
 ## Inserting people / faces consistently
 
-[chat 2026-05-04, +1 650-667-9556]:
+[chat 2026-05-04]:
 
 > *"What's the best prompt to have ChatGPT not change the photos when
 > inserting into a pamphlet/flyer? Sometimes it listens, other times

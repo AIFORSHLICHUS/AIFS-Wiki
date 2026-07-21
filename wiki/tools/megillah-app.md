@@ -54,7 +54,7 @@ during the sprint. Treated by the community as proof that
 
 - **Real-time websocket sync** is hard — *"there is quite a lag between
   when the broadcaster scrolls and when it follows suit on the other
-  phone."* [chat 2026-02-22, +44 7980-795936]. Mendy fixed iteratively.
+  phone."* [chat 2026-02-22]. Mendy fixed iteratively.
 - **Browser security blocks features.** Voice recognition for
   auto-scrolling: *"the tech is not ripe enough — there's too much of a
   time delay."* [chat 2026-02-22]. Same for OS-level

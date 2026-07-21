@@ -15,7 +15,7 @@ AI to create designs that truly look like they were designed by a human,
 even in the eyes of a keenly experienced human designer."*
 
 Originally constructed [chat 2026-02-11–12], later refined by
-+1 (737) 786-5770 [chat 2026-04-20], used by many builders and on
+a member [chat 2026-04-20], used by many builders and on
 [[../tools/shluchimexchange-ai]]. See
 [[../themes/ai-flyer-aesthetics]] for theory.
 
@@ -58,7 +58,7 @@ Violate none.
    → Empty space must have TENSION — a relationship to the elements.
    Specify why the space exists.
 
-The expanded version (+1 737-786-5770) adds:
+The expanded version adds:
 
 8. **Restraint over styling.** Fewer moves, done deliberately. Remove
    before adding.
@@ -121,7 +121,7 @@ Pick ONE per prompt — the prompt must commit:
 
 ## How shluchim use it in practice
 
-[chat 2026-02-15, +1 862-226-2869] — example:
+[chat 2026-02-15] — example:
 
 > Hamantash bake / Feb 22 / 4:00pm / Ages 3–12 / Chocolate fountain
 > bar / Decorate purim puppets / Rsvp JewishNMB.com/bake / Located

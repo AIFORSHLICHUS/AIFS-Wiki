@@ -37,7 +37,7 @@ significantly relaxed them.
 
 - **Shiur prep** — wins this category decisively. [[../topics/shiur-prep]]
 - **Word documents &amp; spreadsheets** — formats well *if* given a
-  template. [chat 2026-03-16, +1 415-634-7727]
+  template. [chat 2026-03-16]
 - **HTML / code generation** — best of the three for clean code.
 - **App building (Claude Code)** — megillah.app, the berel.me suite, and
   ~20 other community apps. [[../themes/vibe-coding]]
@@ -54,9 +54,9 @@ significantly relaxed them.
   and code.
 - Best long-context document handling — "Claude was beautifully
   formatted" vs ChatGPT/Gemini for a Gemara curriculum.
-  [chat 2026-05-14, +1 520-472-8840]
+  [chat 2026-05-14]
 - Honest about its limits — will say "I don't know" / "use Sefaria for
-  this" instead of hallucinating. [chat 2026-03-24, +44 7980-795936]
+  this" instead of hallucinating. [chat 2026-03-24]
 
 ## Weaknesses
 
@@ -69,7 +69,7 @@ significantly relaxed them.
 - **Token consumption with extended thinking.** Long sessions burn
   tokens; restart fresh chats for big projects. [chat 2026-03-18]
 - **Projects vs. Chats** — Projects had issues for some users;
-  unresolved best practice. [chat 2026-03-18, +44 7980-795936]
+  unresolved best practice. [chat 2026-03-18]
 
 ## Discounts
 
@@ -82,7 +82,7 @@ significantly relaxed them.
 
 ### "If hook fails, troubleshoot the hook" — multi-step prompting
 
-[chat 2025-11-14, +972 53-338-6770], the "Golden Prompt of the Week":
+[chat 2025-11-14], the "Golden Prompt of the Week":
 
 > *"When I ask how to do something, work with me step by step — ONE
 > step at a time. DON'T give me all the steps at once. Start with a

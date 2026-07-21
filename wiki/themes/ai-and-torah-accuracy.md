@@ -43,7 +43,7 @@ flat "sounds plausible" output.
   model to fetch from memory.
 - [[../tools/notebooklm]] indexed with the Rebbe's *Likkutei Sichos*,
   *Igros Kodesh*, *Toras Menachem*, *Maamarim* — see the shared
-  notebook at `notebooklm.google.com/notebook/8fd6b863-…` [chat 2026-02-06, +1 520-703-7466]. Caveat: NotebookLM
+  notebook at `notebooklm.google.com/notebook/8fd6b863-…` [chat 2026-02-06]. Caveat: NotebookLM
   retrieves only ~12 sources per query.
 - [[../tools/dicta-mekorotai]] (`chabad.mekorotai.dicta.org.il`),
   previewed at Kinus 2025-11-13, is purpose-built: claims-with-citation,
@@ -56,7 +56,7 @@ flat "sounds plausible" output.
 - **Gemini Pro** for popular Chassidus and for *Hebrew translation
   with grammatical metadata* (when Qwen isn't available).
 - **Qwen** for pure Hebrew/Yiddish translation with etymology and
-  shoresh. [chat 2026-04-16, +33 6 51 82 35 18]
+  shoresh. [chat 2026-04-16]
 - **ChatGPT** — generally weakest on Torah specifics; strong as a
   writing partner once you've supplied sources.
 
@@ -80,16 +80,16 @@ by curating the corpus and letting the LLM only re-present — not invent.
 
 ## Halachic / hashkafic threads
 
-- **"Bina vs. Chochma"** ([chat 2026-02-13, +1 520-472-8840]):
+- **"Bina vs. Chochma"** ([chat 2026-02-13]):
   *Bina Melachutit* — artificial *understanding* — without *chochma*
   (the spark of insight). Generated a full Shabbos-table drosha (written
-  by Gemini, ironically) tying the Eved Ivri to AI's nature. [chat 2026-02-13, +54 9 11 6164-2418]
+  by Gemini, ironically) tying the Eved Ivri to AI's nature. [chat 2026-02-13]
 - **"Can I use AI to write a Devar Torah?"** by Menachem Posner,
   Chabad.org — shared and debated [chat 2025-08-19]. Conclusion: AI as
   editing/brainstorming aid is fine; AI as the *source* of a devar
   Torah is *geneivat daat* and lacks the Divine unity created when a
   human is *mechadesh*.
-- **AI agents running on Shabbos** [chat 2026-04-27, +39 340 359 5009;
+- **AI agents running on Shabbos** [chat 2026-04-27;
   also Chabad.org *Can I Let My AI Agent Run on Shabbat*]. Rough
   consensus: backend-only OK; anything that triggers front-end
   notifications, sends customer-facing email, or transacts is
@@ -99,10 +99,10 @@ by curating the corpus and letting the LLM only re-present — not invent.
 
 - Will Mekorotai/Dicta ship to the public? (Promised "this year" as of
   Kinus 2025-11.) Status as of 2026-02-17: still not working well per
-  [chat 2026-02-17, +1 415-634-7727].
+  [chat 2026-02-17].
 - Is there a way to get AI to *read* Rashi script reliably?
-  [chat 2025-11-18, +1 758-718-1172] — still no good answer.
-- Hebrew handwriting / *ksav yad* OCR — [chat 2026-02-17, +972 54-239-9791]
+  [chat 2025-11-18] — still no good answer.
+- Hebrew handwriting / *ksav yad* OCR — [chat 2026-02-17]
   re Dicta's *chabad.mekorotai*: "Nah."
 
 ## Related

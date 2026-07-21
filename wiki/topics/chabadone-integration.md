@@ -101,7 +101,7 @@ account at $30/month, more design freedom, no XHTML constraint.
 
 The group's recurring wishlist:
 
-- **Native SMS RSVP.** [chat 2025-12-24, +1 971-329-6661] — most-voted
+- **Native SMS RSVP.** [chat 2025-12-24] — most-voted
   missing feature. Workarounds via Lovable + Twilio.
 - **Real dynamic CRM integration.** ChabadOne is on Salesforce, so MCP
   works — see [[crm-automation]].

@@ -21,17 +21,17 @@ questions, teacher guides, and student handouts. The pattern:
 > *"I tell it to organize into a 60-minute shiur with discussion
 > questions, summaries, and follow-along printout — teacher's guide and
 > student handout. Does an amazing job."*
-> — [chat 2026-05-20, +1 520-472-8840]
+> — [chat 2026-05-20]
 
 > *"I tried with ChatGPT and Gemini, and what they came up with was
 > very poor in comparison. Claude was beautifully formatted."*
-> — [chat 2026-05-14, +1 520-472-8840] (testing Gemara)
+> — [chat 2026-05-14] (testing Gemara)
 
 > *"Claude beautifully extracted the *nekuda* of the maamar and
 > presented it in a way that a 13-year-old can understand. It was the
 > biggest nachas to see a boy from my community chazering a maamar at
 > his bar mitzvah."*
-> — [chat 2026-05-25, +1 917-982-9772]
+> — [chat 2026-05-25]
 
 ## The pattern
 
@@ -65,7 +65,7 @@ You recorded the shiur instead of writing it:
    or Turboscribe (English) or Whisper. See [[transcription]].
 2. Paste transcript to Claude.
 3. *"Summarize this shiur and produce a one-page printable PDF."*
-   — pattern from [chat 2026-05-20, +1 917-620-7220] on Sofer.ai →
+   — pattern from [chat 2026-05-20] on Sofer.ai →
    Claude for *פת הבאה בכסנין*.
 4. Iterate: longer version, shorter version, focus on specific points.
 
@@ -94,7 +94,7 @@ conversation as a third voice.
 
 ## Drosho-specific tips
 
-- **"Roast this!"** [chat 2025-09-07, +1 347-515-0835] — after pasting
+- **"Roast this!"** [chat 2025-09-07] — after pasting
   your speech, ask the model to critique mercilessly. Surprisingly
   useful.
 - **Read it aloud.** [[../tools/elevenlabs]] V3 handles Hebrew with

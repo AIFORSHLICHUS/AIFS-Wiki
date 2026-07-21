@@ -23,7 +23,7 @@ styles, fake the type space. They also garble Hebrew. And they can't
 ## The current best-practice workflow
 
 Synthesized from many threads (~30 chat messages between
-[chat 2025-08-26] and [2026-05-19, +1 737-786-5770]):
+[chat 2025-08-26] and [2026-05-19]):
 
 1. **Brief in natural language.** What is this for, who's the audience,
    what mood, what text *exactly*, what brand colors, what size.
@@ -37,7 +37,7 @@ Synthesized from many threads (~30 chat messages between
    image model is now competitive — [chat 2026-01-21].)
 4. **Strip the Hebrew before editing.** Tell the model: *remove the
    Hebrew letters, leave placeholders, change nothing else*.
-   [chat 2026-05-19, +44 7980-795936]
+   [chat 2026-05-19]
 5. **Open in [[../tools/canva]] with Magic Layers.** Magic Layers
    decomposes the flat AI image into editable elements — fix text,
    swap typography, adjust spacing. [chat 2026-03-08]
@@ -61,7 +61,7 @@ generator*, refusing to drift into AI defaults.
 | ChatGPT brief → Nano Banana → Canva text | Default. Most flyers. |
 | ChatGPT brief → ChatGPT image (GPT 5.2) → Canva polish | When you want one tool. |
 | Grok batch generation → hand-pick → Canva | When other models refuse demographic descriptors. |
-| Upload an existing flyer → "Redesign it with a strong visual upgrade while keeping the core content" → Nano Banana | For modernizing tired templates. [chat 2026-04-25, +1 716-262-2106] |
+| Upload an existing flyer → "Redesign it with a strong visual upgrade while keeping the core content" → Nano Banana | For modernizing tired templates. [chat 2026-04-25] |
 | Upload reference images + brand colors + sample event flyers | Custom GPT / Gem path for repeated brand consistency. [chat 2026-02-11] |
 
 ## Sora and demographic prompts
@@ -88,7 +88,7 @@ casual, Chabad-style, Chasidic*. "Chasidic" tends to outperform "modest"
 - **Hebrew text.** See above.
 
 There's an in-progress "Chabad image skill" custom Gem mentioned at
-[chat 2026-05-19, +1 972-58-685-1038], but no public system prompt yet.
+[chat 2026-05-19], but no public system prompt yet.
 
 ## Reference image / template sources
 
