@@ -30,7 +30,7 @@ draft / summary / blog post.**
 
 ### [[../tools/sofer-ai]]
 
-Best for Jewish content with mixed languages. [chat 2026-04-22, +1 347-249-2983]:
+Best for Jewish content with mixed languages. [chat 2026-04-22]:
 *"It's really good at transcribing audio that has mixed English Hebrew
 Yiddish."* Has WhatsApp integration ([chat 2025-12-10]). Free tier
 exists; paid for bulk.

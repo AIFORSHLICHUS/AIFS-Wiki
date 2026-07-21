@@ -19,7 +19,7 @@ Strong on translation tasks, especially Semitic languages.
 
 ## The thread that put it on the map
 
-[chat 2026-04-16, +33 6 51 82 35 18], after testing eight different
+[chat 2026-04-16], after testing eight different
 LLMs:
 
 > *"I made many tests over 8 different LLMs and for pure translation

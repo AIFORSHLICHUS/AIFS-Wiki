@@ -21,14 +21,14 @@ generous free tier through X.
 ## What the chat uses it for
 
 - **Writing with personality** — *"genuine tone"* preferred over
-  ChatGPT for casual / fun letters. [chat 2025-08, +1 240-444-3345]
+  ChatGPT for casual / fun letters. [chat 2025-08]
 - **Image generation** — a Grok-then-Nano-Banana workflow worked when
   ChatGPT refused. [chat 2025-08-19, Shneur Druk]
-- **Photo editing / manipulation** — [chat 2025-12-19, +1 805-668-1024]
+- **Photo editing / manipulation** — [chat 2025-12-19]
 - **Logo design** — better than ChatGPT for first-pass logo work, but
   still behind Nano Banana.
 - **Prompts other models refuse** — *"from the more 'kosher' ones. Grok
-  is available too."* [chat 2026-04-07, +1 347-770-3586]
+  is available too."* [chat 2026-04-07]
 - **Video generation** — at least one user transitioned from Sora to
   Grok for educational videos. [chat 2026-05-07]
 
@@ -42,7 +42,7 @@ generous free tier through X.
 ## Weaknesses
 
 - *"Grok terrible"* for complex Google Sheets formulas.
-  [chat 2025-09, +1 347-770-1844]
+  [chat 2025-09]
 - Less coverage of Jewish-content edge cases than the big three.
 - Inconsistent on long-form work.
 

@@ -27,16 +27,16 @@ instantly. Why? And what does it take to make a flyer that looks
 
 - *"Telltale AI flyer. The design is busy and all over the place. It
   might be easy to produce, but it's not good graphics."*
-  — [chat 2026-02-11, +1 971-329-6661]
+  — [chat 2026-02-11]
 - *"People want to hear *you*. They see AI, they see it's not you."*
-  — [chat 2026-05-21, +1 971-329-6661]
+  — [chat 2026-05-21]
 - AI graphics shouldn't replace human designers any more than AI text
   should replace human writing.
 
 ## The 7 AI Tells
 
 The canonical taxonomy, distilled from the master prompt
-([chat 2026-02-11–12]) and refined by [chat 2026-04-20, +1 737-786-5770].
+([chat 2026-02-11–12]) and refined by [chat 2026-04-20].
 See [[../resources/designer-prompt]] for the full system prompt.
 
 1. **No intent.** AI makes everything "nice" — nothing purposeful.
@@ -66,14 +66,14 @@ sentence order. Two workable patterns:
 1. **Strip-and-replace.** Generate the flyer; tell the model to *remove
    the Hebrew letters without touching anything else*, leaving
    placeholders; type the Hebrew in [[../tools/canva]] yourself.
-   [chat 2026-05-19, +44 7980-795936]
+   [chat 2026-05-19]
 2. **Background-only.** Generate the visual background in
    [[../tools/nano-banana]] / [[../tools/gemini]], add all text in Canva.
    [chat 2025-11-20]
 
 Claude is "needs reminding to write RTL and keep sentence order" —
 better than GPT for the *attempt* but still imperfect.
-[chat 2026-05-19, +44 7980-795936]
+[chat 2026-05-19]
 
 ## The workflow that actually wins
 
@@ -90,7 +90,7 @@ A pattern that recurs across many threads:
    elements.
 4. **Optional: Adobe Firefly / [[../tools/canva]] to import as editable.**
 
-[chat 2026-04-25, +1 716-262-2106] template prompt for redesigning an
+[chat 2026-04-25] template prompt for redesigning an
 uploaded flyer:
 
 > *"Redesign it with a strong visual upgrade while keeping the core
@@ -108,7 +108,7 @@ uploaded flyer:
   [chat 2026-03-20]
 - Chabad-specific iconography fails reliably: menorah arm count,
   Luchos shape, kippah/long-sleeve consistency. A "Chabad image skill"
-  custom Gem is in progress. [chat 2026-05-19, +1 972-58-685-1038]
+  custom Gem is in progress. [chat 2026-05-19]
 
 ## Related
 

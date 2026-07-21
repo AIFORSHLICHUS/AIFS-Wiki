@@ -45,7 +45,7 @@ sicha doesn't say that. By 2025-12-13 the diagnosis crystallizes:
 > them, hallucinations for Torah references will continue."*
 > — [chat 2025-12-13]
 
-[chat 2025-12-13, +33 6 68 42 07 70] reports ChatGPT inventing whole
+[chat 2025-12-13] reports ChatGPT inventing whole
 *Rebbe answers* with fake citations to Igros and Likkutei Sichos.
 
 ## Phase 3 — Building substitutes
@@ -83,9 +83,9 @@ community has to a *system prompt for Torah honesty*.
 
 ## Phase 5 — The "Bina Melachutit" thread
 
-**2026-02-13–14.** +1 520-472-8840 introduces the Chassidic
+**2026-02-13–14.** A member introduces the Chassidic
 distinction: *bina* (understanding, processing) without *chochma*
-(the divine spark / sudden insight). +54 9 11 6164-2418 writes a full
+(the divine spark / sudden insight). Another member writes a full
 Shabbos-table drosha tying *Parshas Mishpatim's Eved Ivri* to AI's
 nature — ironically written *by Gemini*. The thread tangles into
 Hebrew terminology (*melachutit* vs. *melachit*); philosophical, not
@@ -114,7 +114,7 @@ reasoning from primary sources.
 
 ## Phase 7 — Magazine project lessons
 
-**2026-03-18, +44 7980-795936** documents 10 lessons from a 10-page
+**2026-03-18.** A member documents 10 lessons from a 10-page
 Pesach magazine in Claude. The Torah-relevant ones:
 
 - *Set golden rules at the start of the chat:* "don't edit my text",
@@ -126,7 +126,7 @@ Pesach magazine in Claude. The Torah-relevant ones:
 
 ## Phase 8 — Specialized translation
 
-**2026-04-16, +33 6 51 82 35 18** tests eight LLMs for Hebrew
+**2026-04-16.** A member tests eight LLMs for Hebrew
 translation. **Qwen** wins for pure translation work — etymology,
 *shoresh*, word-by-word transliteration. Adds a new tool to the
 recommended stack for Torah work specifically.
@@ -145,7 +145,7 @@ Don't ask Claude to fetch the sicha from memory.
 
 ## Phase 10 — Bar-mitzvah maamar
 
-**2026-05-25, +1 917-982-9772:**
+**2026-05-25:**
 
 > *"I uploaded the last maamar I learned (בלתי מוגה) to Claude and he
 > beautifully extracted the *nekuda* of the maamar and presented it

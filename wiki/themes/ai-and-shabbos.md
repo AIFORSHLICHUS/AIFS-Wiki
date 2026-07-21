@@ -16,7 +16,7 @@ AI *labor* during sacred time.
 
 ## The framing question
 
-[chat 2026-04-27, +39 340 359 5009]:
+[chat 2026-04-27]:
 
 > *"Is it permissible for Claude to work on Shabbos on your computer?"*
 

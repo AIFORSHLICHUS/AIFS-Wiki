@@ -64,7 +64,7 @@ Free ASR models. Canary 180m was being tested for Hebrew/Yiddish
 ## ivrit.ai
 
 `transcribe.ivrit.ai` — free Hebrew transcription.
-[chat 2025-12-02, +972 53-463-1223]
+[chat 2025-12-02]
 
 ## Workflow
 

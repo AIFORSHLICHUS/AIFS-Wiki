@@ -33,7 +33,7 @@ this week*.
 | 2025-11-20 | Gemini 3 Pro launches; "Nano Banana" pulls ahead for images. Group narrative: Gemini is the one. [chat 2025-11-21] |
 | 2025-12 | ChatGPT 5.2 reclaims the image throne; "GPT 5.2 image model is better than Gemini's Nano Banana Pro in my experience." [chat 2026-01-21] |
 | 2026-01–02 | Gemini Flash starts hallucinating noticeably; users learn to demand Gemini *Pro*, not Flash. [chat 2026-01-22] |
-| 2026-04 | "Reminder how just a few months ago everyone was swearing that Gemini was the one." Gemini "took a turn for the worse." [chat 2026-04-26, +1 971-329-6661]; [2026-04-21] |
+| 2026-04 | "Reminder how just a few months ago everyone was swearing that Gemini was the one." Gemini "took a turn for the worse." [chat 2026-04-26]; [2026-04-21] |
 | 2026-05-08 | Anthropic–SpaceX compute deal lifts Claude's rate limits — the #1 reason not to use Claude evaporates. [chat 2026-05-08] |
 | 2026-05-19 | Gemini 3.5 Flash, Gemini Omni (video), Gemini Spark (24/7 agent) announced. Ultra tier ~$100/mo. [chat 2026-05-19] |
 
@@ -57,7 +57,7 @@ For everyday shlichus work, by **May 2026**, the rough consensus:
   legitimate prompts; some image strengths. [[../tools/grok]]
 - **Qwen** — surprise winner for pure Hebrew/Yiddish translation
   (provides etymology, shoresh, word-by-word transliteration).
-  [chat 2026-04-16, +33 6 51 82 35 18]
+  [chat 2026-04-16]
 
 > *"Pay for one and use it for everything."*
 > — [chat 2026-01-21]

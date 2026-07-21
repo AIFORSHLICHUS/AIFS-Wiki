@@ -33,12 +33,12 @@ The single most-shared NotebookLM link in the chat:
 `notebooklm.google.com/notebook/8fd6b863-f304-4710-89fe-b080ddad1eef`
 
 Sources include the Rebbe's *Likkutei Sichos*, *Igros Kodesh*, *Toras
-Menachem*, *Maamarim*. First shared [chat 2026-02-06, +1 520-703-7466].
+Menachem*, *Maamarim*. First shared [chat 2026-02-06].
 
 > *"This guy starts telling me things and I'm like 'the Rebbe said
 > that?!' … I know the sicha! I never realized it was actually saying
 > that! It's actually accurate."*
-> — [chat 2026-02-06, +1 415-634-7727]
+> — [chat 2026-02-06]
 
 Other community notebooks:
 
@@ -55,7 +55,7 @@ Other community notebooks:
 - **Likkutei Sichos search** with citation.
 - **Audio overviews** of papers, articles, halacha pieces.
 - **Voice-note refinement** — paste long voice-note transcripts; ask
-  for cleanup. [chat 2025-11-27, +1 305-469-6964]
+  for cleanup. [chat 2025-11-27]
 - **Cataloging &amp; titling** archives of audio/written content.
   [chat 2026-05-12]
 
@@ -72,11 +72,11 @@ Other community notebooks:
 - **Source retrieval cap.** Pulls only ~10–12 sources per query no
   matter how many you upload. *"So having large notebooks of 250 sefarim
   is kinda useless unless you're doing a superficial broad search."*
-  [chat 2026-03-23, +1 415-634-7727]
+  [chat 2026-03-23]
 - **Hebrew video overviews** generate garbled images (gibberish
   Hebrew). [chat 2026-03-08]
 - **Message limits** hit quickly on free tier when used heavily.
-  [chat 2025-12-12, +1 415-634-7727]
+  [chat 2025-12-12]
 - **Output length capped** — long synthesis falls off.
 
 ## The source-forcing prompt

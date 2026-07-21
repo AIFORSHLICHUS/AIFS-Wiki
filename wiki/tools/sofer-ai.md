@@ -21,18 +21,18 @@ bulk; WhatsApp transcription integration.
 ## What the chat uses it for
 
 - **Transcribing shiurim** — the canonical recommendation. *"Excellent
-  for transcribing shiurim."* [chat 2025-08-20, +380 63 770 4111]
+  for transcribing shiurim."* [chat 2025-08-20]
 - **Yiddish audio.** Best of the mainstream options for Yiddish, though
   not perfect — *"I give it a 6/10."* [chat 2025-11-05, Yossi Lipskier]
 - **Mixed English/Hebrew/Yiddish** — *"It's really good at transcribing
   audio that has mixed English Hebrew Yiddish."*
-  [chat 2026-04-22, +1 347-249-2983]
+  [chat 2026-04-22]
 - **WhatsApp voice notes** — via WhatsApp transcription option on the
   paid plan. [chat 2025-12-10]
 
 ## The shiur → summary pipeline
 
-The standard flow [chat 2026-05-20, +1 917-620-7220]:
+The standard flow [chat 2026-05-20]:
 
 > *"Uploaded a shiur I gave on פת הבאה בכסנין to sofer.ai. I took the
 > transcript and asked Claude to summarize it and make it into a nice

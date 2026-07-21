@@ -29,7 +29,7 @@ Workflow:
 4. Edit; verify any numbers; submit.
 
 [chat 2026-01-22] Comet (Perplexity's agentic browser, $200/mo)
-auto-fills web grant forms. [chat 2025-08-19, +1 347-598-7098] tested
+auto-fills web grant forms. [chat 2025-08-19] tested
 this for grant proposal form auto-filling.
 
 ## Fundraising letters
@@ -70,7 +70,7 @@ Run on AI Studio, Vercel, OpenAI Console, or Anthropic Console with a
 loop over your list. *"Use responsibly."*
 
 Also see the community's full obituary + Jewish-score custom
-GPT [chat 2025-09-03, +1 347-515-0835] — 2-sheet Excel workbook with
+GPT [chat 2025-09-03] — 2-sheet Excel workbook with
 Jewish Score evidence, spouse cross-reference, source URLs.
 
 ## End-of-year &amp; matching campaigns
@@ -86,7 +86,7 @@ Use cases shipped:
 
 ## Bookkeeping the donations
 
-[chat 2026-05-19, +1 917-620-7220]:
+[chat 2026-05-19]:
 
 > *"If you have a bunch of Zelle, PayPal, CashApp donations you
 > received and you want to know how much was given by a given person

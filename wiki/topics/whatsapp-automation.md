@@ -26,7 +26,7 @@ and accounts are being disabled.**
 > — [chat 2026-03-13]
 
 > *"Recently started glitching, account restricted twice."*
-> — on WASender after 5 years of clean use, [chat 2025-12-04, +1 203-887-6044]
+> — on WASender after 5 years of clean use, [chat 2025-12-04]
 
 ## Safe paths
 
@@ -74,14 +74,14 @@ The fully kosher half of WhatsApp + AI:
 - **Evant** — *"used by many shluchim; alternative to direct WhatsApp
   automation."* [chat 2026-02-27]
 - **Chatbase** — WhatsApp bot builder. *"Good but a bit expensive."*
-  [chat 2026-05-17, +39 340 359 5009]
+  [chat 2026-05-17]
 - **Spreadsheet HYPERLINK formula** for one-tap
   personalized message links. The safest of all.
   [chat 2026-03-06]
 
 ## Recovering deleted messages
 
-[chat 2026-05-07, +33 6 51 82 35 18]: *"Over Macrodroid there is a
+[chat 2026-05-07]: *"Over Macrodroid there is a
 script that saves all deleted messages on WhatsApp."* (Android.)
 
 ## Open issues

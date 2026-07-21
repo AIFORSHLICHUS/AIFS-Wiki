@@ -35,9 +35,9 @@ most ambitious shot at that vision in the chat's window.
 - **Demoed 2025-11-13**, not yet generally available.
 - Promised release *"this year"* at the demo.
   [chat 2025-11-14]
-- [chat 2026-02-17, +1 415-634-7727] asked if it was working: **"Nah."**
+- [chat 2026-02-17] asked if it was working: **"Nah."**
   Still not reliably usable.
-- [chat 2025-12-21, +972 54-239-9791] asked for an update:
+- [chat 2025-12-21] asked for an update:
   *"It is heavily ongoing and in process."*
 
 [external: public availability status unconfirmed as of this wiki's

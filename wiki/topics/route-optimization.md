@@ -22,7 +22,7 @@ and 6 drivers — optimize."*
 - **Spoke** — same category; free trial + 50% nonprofit discount.
 - **Badger** — *"extremely good app for route planning; 14 days free;
   makes addresses into optimized routes."*
-  [chat 2026-02-22, +33 7 83 73 73 46]
+  [chat 2026-02-22]
 
 ## The free / DIY path
 

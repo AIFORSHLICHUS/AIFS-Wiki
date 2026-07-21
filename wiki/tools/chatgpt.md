@@ -38,7 +38,7 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
 - **Spreadsheet wrangling** — clean dates, capitalization, zip codes;
   ChatGPT Plus required for bulk uploads. [chat 2025-08-06]
 - **Voice-to-text dictation** — "ChatGPT voice-to-text is amazing.
-  Haven't found any even close." [chat 2025-09-11, +1 971-329-6661]
+  Haven't found any even close." [chat 2025-09-11]
 - **Email integration (Pro)** — connect to Gmail; search, analyze.
   Behavior intermittent — sometimes refuses access. [chat 2026-03-26]
 - **Project memory** — but doesn't cross-reference between projects or
@@ -89,7 +89,7 @@ point for image generation, late 2025), GPT-5.5 (April 2026), and
 ## Phone access
 
 `1-800-242-8478` lets you text ChatGPT.
-[chat 2026-04-07, +1 347-267-0138]
+[chat 2026-04-07]
 
 ## Related
 

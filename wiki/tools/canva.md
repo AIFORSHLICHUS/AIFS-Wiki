@@ -26,7 +26,7 @@ actually edit text after AI generated the image.
 
 ## The standard pattern (combined with AI)
 
-[chat 2026-02-02, +1 520-703-7466]:
+[chat 2026-02-02]:
 
 > *"I have success with GPT (for the content) sending it directly to
 > Canva AI using connectors. You may need to edit some of the words or
@@ -52,14 +52,14 @@ actually edit text after AI generated the image.
 ## Weaknesses
 
 - Canva AI generation alone is *"useless"* per
-  [chat 2026-02-11, +1 971-329-6661] and *"awful"* per
-  [chat 2025-11-24, +1 971-329-6661].
+  [chat 2026-02-11] and *"awful"* per
+  [chat 2025-11-24].
 - Mobile less capable than desktop.
 - Takes liberties with words/images that don't match your spec.
 
 ## MCP / Connector integration
 
-[chat 2026-03-25, +44 7980-795936] asked about *downloading Canva into
+[chat 2026-03-25] asked about *downloading Canva into
 Claude*. Clarified: it's an **MCP integration**, not a download. Claude
 can drive Canva through MCP, but you still log into Canva to see
 results. Genuinely useful for batch flyer work.

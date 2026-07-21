@@ -18,7 +18,7 @@ several patterns.
 > *"Update my CRM. I can forward it email, voice notes etc. and it
 > would either make a new contact or add a note to a contact. Also if
 > I could send it a voice note to schedule a follow up in my calendar."*
-> — [chat 2026-03-19, +44 7710 524460]
+> — [chat 2026-03-19]
 
 > *"Analyze your CRM. See which donors lapsed and feed you 3 each day.
 > Check when you last called them in your phone log or texts or
@@ -32,11 +32,11 @@ agent that could do anything for you, what would it do?"
 
 | CRM | Notes from the chat |
 | --- | --- |
-| **ChabadOne (Salesforce-backed)** | The Chabad-default. AI integration via Salesforce MCP — *easy* to set up per [chat 2026-05-15, +1 438-526-6974]. Being tested actively. |
+| **ChabadOne (Salesforce-backed)** | The Chabad-default. AI integration via Salesforce MCP — *easy* to set up per [chat 2026-05-15]. Being tested actively. |
 | **Hecher CRM** | Custom-built with Claude MCP integration. ~80-shliach beta. Voice notes → transcribe (Whisper) → Claude turns into emails, calendar items, CRM updates. [chat 2026-05-15] |
 | **Little Green Light (LGL)** | Mainstream nonprofit CRM. An AI agent that self-learns features via Nanoclaw is in heavy use. [chat 2026-05-15] |
-| **CiviCRM / Chabad Suite** | API exists; +44 7710-524460 connected it to Base44 to push/pull data. [chat 2026-05-15] |
-| **MyShul** | Has its own AI report-bot: "give me a list of all 12-year-old boys and their parents' numbers" → produces it. [chat 2026-05-15, +1 786-547-3031] |
+| **CiviCRM / Chabad Suite** | API exists; a member connected it to Base44 to push/pull data. [chat 2026-05-15] |
+| **MyShul** | Has its own AI report-bot: "give me a list of all 12-year-old boys and their parents' numbers" → produces it. [chat 2026-05-15] |
 | **Attio** | Modern CRM. An agent is used for prospect research and contact enrichment. [chat 2026-03-19] |
 
 ## Patterns that work
@@ -106,8 +106,7 @@ Use cases the group has shipped:
 - **Web-UI click-bots on flaky pages.** Claude Cowork is good but
   fragile; CRM UI changes break runs.
 - **Ethnicity-based marketing lists.** Real legal restriction (Data
-  Axle and similar), not just an AI guardrail. [chat 2025-09-12,
-  +1 415-634-7727]
+  Axle and similar), not just an AI guardrail. [chat 2025-09-12]
 
 ## Open questions
 

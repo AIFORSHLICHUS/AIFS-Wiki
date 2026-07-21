@@ -28,7 +28,7 @@ chat's first weeks.
 
 > *"I find that Grok writes with more personality and a more genuine
 > tone than ChatGPT."*
-> — [chat 2025-08, +1 240-444-3345]
+> — [chat 2025-08]
 
 ## The three workable patterns
 
@@ -79,8 +79,7 @@ The Jeff Brooks technique, adapted [chat 2025-08-06, Mendy Cunin LA]:
 
 ### Press releases
 
-Generating press releases + media list customization is a [chat 2025-08,
-+1 904-910-5676] specialty. Pattern: write one well-targeted release;
+Generating press releases + media list customization is a [chat 2025-08] specialty. Pattern: write one well-targeted release;
 generate ten variations per outlet; check before sending.
 
 ### Grant proposals
@@ -113,7 +112,7 @@ Common AI tells in letters:
 - *Verb-heavy openings.* "Imagine." "Picture." "Consider."
 
 The 2026-04 TechCrunch article *"AI Writing: It's not just this, it's
-that"* (shared [chat 2026-04-20, +1 415-634-7727]) catalogs the
+that"* (shared [chat 2026-04-20]) catalogs the
 patterns at length.
 
 ## Honest-feedback prompts
@@ -124,11 +123,11 @@ When the AI is sycophantic ("That's a great idea! You're brilliant!"):
 > something is weak, say so plainly and explain why. Think from first
 > principles, use logic over sentiment, and push until the argument is
 > solid."*
-> — [chat 2026-04-21, +1 847-452-8703]
+> — [chat 2026-04-21]
 
 > *"Recently I asked GPT to criticize my output and be 'merciless'
 > about it. It worked."*
-> — [chat 2026-04-21, +33 6 68 42 07 70]
+> — [chat 2026-04-21]
 
 > *"After AI response: 'Rate your response out of 10.' If not
 > satisfied: give your own rating, e.g., 'I'd rate that a 6/10.' AI

@@ -26,7 +26,7 @@ and for adding subtitles.
 | **Clipchamp** | Microsoft's video editor. | Free, web-based. |
 | **Opus Clip / Opus.pro** | Extract short clips from long videos; B-roll. [chat 2025-08-03] | Limited upload capacity. |
 | **Kapwing** | Browser-based editing. | — |
-| **Captions.AI** | Auto-subtitles, $11/mo, works for Hebrew. [chat 2025-11-27, +1 954-478-8015] | — |
+| **Captions.AI** | Auto-subtitles, $11/mo, works for Hebrew. [chat 2025-11-27] | — |
 | **Riverside.fm** | Recording + auto-subtitles for shiurim. [chat 2025-08-21] | Web-based. |
 | **Synthesys AI VSL Studio** | AI video sales letters. [chat 2025-12-05] | Newer. |
 | **YouTube Create** | YouTube's free editor. Alternative to CapCut. [chat 2026-01-09] | Mobile. |
@@ -34,7 +34,7 @@ and for adding subtitles.
 
 ## Workflow: long shiur → short clips
 
-[chat 2025-08-03, +27 65 944 5633] asked: *"I'd like to use AI to
+[chat 2025-08-03] asked: *"I'd like to use AI to
 extract short clips from video recordings of shiurim."*
 
 Best stack the chat has converged on:
@@ -52,7 +52,7 @@ Separate path — when you want a *talking-head* video without filming:
 - **HeyGen** — text-to-speaking avatar. [chat 2025-12-04]
 - **Synthesia** — AI avatars. [chat 2025-12-04]
 - **D-ID** — Israeli alternative; possibly better.
-  [chat 2025-12-04, +1 818-335-7103]
+  [chat 2025-12-04]
 - **InVideo** — text-to-video with impressive audio.
 
 ## Animated video
@@ -71,7 +71,7 @@ Separate path — when you want a *talking-head* video without filming:
 
 ## Open issue
 
-[chat 2026-04-27, +1 310-666-2302]: *"Is there AI that I can upload
+[chat 2026-04-27]: *"Is there AI that I can upload
 shorts or classes to and it automatically fills it with B-roll?"*
 Captions.AI suggested but not confirmed end-to-end for B-roll
 generation.

@@ -19,11 +19,11 @@ somewhere in the middle.
 
 > *"If you have Gemini for Workspace, users cannot easily delete their
 > chats … the admin can see all the chats."*
-> — [chat 2026-05-07, +1 773-218-1108]
+> — [chat 2026-05-07]
 
 > *"I've found Gemini for nonprofit doesn't integrate into email the
 > same way it does for regular account."*
-> — [chat 2026-05-07, +1 347-225-1322]
+> — [chat 2026-05-07]
 
 ## The pragmatic position
 
@@ -38,7 +38,7 @@ threat model materially — it just makes it visible.
 
 ### Connecting AI to your full Gmail/Drive
 
-[chat 2026-05-07, +1 508-314-5472]: *"Question is, is there any
+[chat 2026-05-07]: *"Question is, is there any
 reason for concern?"* No consensus; range from *"go ahead"* to
 *"compartmentalize."*
 
@@ -50,7 +50,7 @@ access. Use professional developer oversight before deploying."*
 
 ### Password storage
 
-[chat 2026-03-12, +1 438-526-6974]: *"Use a dedicated password
+[chat 2026-03-12]: *"Use a dedicated password
 manager (Bitwarden, 1Password), not a spreadsheet. Zero-knowledge
 architecture, AES-256 standard."*
 
@@ -67,7 +67,7 @@ pages; not for anything with PII.
 
 ### Ethnicity-based marketing lists
 
-[chat 2025-09-12, +1 415-634-7727]: real legal limit (Data Axle and
+[chat 2025-09-12]: real legal limit (Data Axle and
 similar). Not just an AI guardrail. Mind-share required regardless of
 which model you ask.
 

@@ -15,7 +15,7 @@ produced song. Free tier; ~$8 for a polished song.
 ## What the chat uses it for
 
 - **Custom Purim songs** with your year's theme, town, even guests'
-  names. [chat 2026-02-16, +1 520-703-7466]
+  names. [chat 2026-02-16]
 - **Niggun production from a voice recording.** Sing into the phone;
   Suno turns it into a full arrangement. *"Rivals Tzama quality."*
   [chat 2025-11-26]
@@ -34,7 +34,7 @@ produced song. Free tier; ~$8 for a polished song.
    production.
 4. **Pronunciation fix** for Hebrew/Yiddish: write transliteration as
    `Khabad` / `samayakh`, not `Chabad` / `samayach`.
-   [chat 2026-02-16, +1 520-703-7466]
+   [chat 2026-02-16]
 
 ## Strengths
 

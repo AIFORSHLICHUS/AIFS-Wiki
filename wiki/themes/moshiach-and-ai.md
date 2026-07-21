@@ -46,12 +46,12 @@ The chat's working *hashkafa* on AI:
 
 ## The Bina Melachutit thread
 
-[chat 2026-02-13, +1 520-472-8840] proposed the Chassidic
+[chat 2026-02-13] proposed the Chassidic
 distinction: AI is *bina melachutit* — *artificial understanding*. It
 processes; it doesn't have *chochma* (the spark of insight) or
 *neshama* (soul).
 
-[chat 2026-02-13, +54 9 11 6164-2418] turned this into a full
+[chat 2026-02-13] turned this into a full
 Shabbos-table drosha (written by Gemini — the irony noted) tying
 *Parshas Mishpatim's Eved Ivri* to AI's nature:
 

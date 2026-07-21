@@ -36,9 +36,9 @@ A non-exhaustive list of community-shipped apps built this way:
   Studio. [chat 2026-01-15]
 - **Cypcampaign.lovable.app** — end-of-year campaign dashboard.
 - **Countomer** — Sefiras HaOmer with daily *Daf of Sotah* and
-  location-based *Tzeis* notifications. [chat 2026-04-16, +1 347-770-3586]
+  location-based *Tzeis* notifications. [chat 2026-04-16]
 - **Movers-referral-tool** — NCOA results → nearest Chabad House
-  referral emails, fully in-browser. [chat 2026-03-10, +1 717-827-6287]
+  referral emails, fully in-browser. [chat 2026-03-10]
 - **Rebbe's Global Footprint** — Base.app, **15 minutes**.
 
 The throughline: pick a small, specific problem; ship; iterate from
@@ -66,10 +66,10 @@ Specific failure modes the group has documented:
   the code but doesn't reason about the whole. Architecture rots.
 - **Security blind spots.** Vibe-coded systems with user accounts +
   payment + AI-built backends are a recipe for credit-card and PII
-  leakage. [chat 2026-01-11, +1 33-6 51 48 36 80]
+  leakage. [chat 2026-01-11]
 - **WhatsApp bans.** Bots and bulk senders that route through personal
   numbers get accounts disabled, sometimes after months of working
-  fine. [chat 2026-03-13; chat 2025-12-04, +1 203-887-6044]
+  fine. [chat 2026-03-13; chat 2025-12-04]
 - **Inability to import existing code.** Lovable can't ingest a real
   repo. For non-trivial work you graduate to Cursor / Claude Code.
   [chat 2026-02-22]
